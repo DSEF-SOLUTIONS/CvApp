@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BENGY.H Solutions</title>
+<link rel="icon" href="../static/images/iphone-screen.png"type="image/x-icon">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<link rel="stylesheet" href="../static/css/animate.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="../static/css/style2.css"/>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<!-- Font Google -->
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg">
+  <div class="container"> <a class="navbar-brand navbar-logo" href="#"> <img  src="../static/images/logo.png" alt="logo" class="logo-1"> </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="fas fa-bars"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"> <a class="nav-link" href="" data-scroll-nav="0" style="font-size: 12px;">Accueil</a> </li>
+        {% if not current_user.is_authenticated %}
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="1" style="font-size: 12px;">À Propos</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="2" style="font-size: 12px;">Secteur d'activité</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="4" style="font-size: 12px;">Mot du DG</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="5" style="font-size: 12px;">Moyens Technique</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="6" style="font-size: 12px;">Contacter nous</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/login" style="font-size: 12px;"><span class="glyphicon glyphicon-log-in"></span> Se connecter</a> </li>
+
+        {% endif %}
+        {% if current_user.is_authenticated %}
+        <li class="nav-item"> <a class="nav-link" href="/database">Base de données</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/contactusdb">Message des visiteurs</a> </li>
+        {% endif %}
+      </ul>
+
+        {% if current_user.is_authenticated %}
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('profile', id=current_user.ID) }}"><span class="glyphicon glyphicon-user"></span>Profile</a></li>
+          <li class="nav-item"><a class="nav-link" href="/register"><span class="glyphicon glyphicon-user"></span>S'inscrire</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('logout') }}"><span class="glyphicon glyphicon-log-in"></span> Se déconnecter</a></li>
+        {% endif %}
+        </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- End Navbar --> 
+<!-------Banner Start------->
+<section class="banner" data-scroll-index='0'>
+  <div class="banner-overlay">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-12">
+          <div class="banner-text">
+            <h2 class="white">Bienvenue à BENGY.H SOLUTIONS</h2>
+            <p class="banner-text white">Satisfaire vos besoins au domaine de l'industrie.</p>
+            <br><br><br>
+          <br><br><br><br>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-12"> <img src="../static/images/iphone-screen.png" class="img-fluid wow fadeInUp"/> </div>
+      </div>
+    </div>
+  </div>
+  <span class="svg-wave">
+    <svg width="100%" height="100%" id="svg" viewBox="0 0 1400 300" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-100">
+    <path d="M 0,400 L 0,100 C 197.2,129.73333333333335 394.4,159.46666666666667 529,149 C 663.6,138.53333333333333 735.6,87.86666666666667 877,73 C 1018.4,58.13333333333333 1229.2,79.06666666666666 1440,100 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="#ffffff" fill-opacity="0.53" class="transition-all duration-300 ease-in-out delay-150 path-0"></path>
+    <path d="M 0,400 L 0,233 C 191.7333333333333,228.2 383.4666666666666,223.4 541,230 C 698.5333333333334,236.6 821.8666666666668,254.60000000000002 966,257 C 1110.1333333333332,259.4 1275.0666666666666,246.2 1440,233 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="#ffffff" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-1"></path>
+  </svg> </span> </section>
+
+<!-------Banner End-------> 
+
+<!-------About End------->
+
+<section class="about section-padding prelative" data-scroll-index='1'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>À Propos</h3>
+          <span class="line"></span>
+          <h4>Qui Sommes-nous?</h4>
+          <p>Société 100% marocaine d’études, réalisation industrielles, nouvelles technologies, prestation de service et autres activité. Fondée en 2020 suite à des expériences réussies de ses fondateurs dans le démarrage de structures similaires pour le compte de multinationales des secteurs de l’automobile.</p>
+        </div>
+        <div class="section-content text-center">
+          <h4>Nos Valeurs</h4><br>
+          <div class="row">
+            <div class="col-md-4">
+              <div class="icon-box wow fadeInUp" data-wow-delay="0.2s"> <i class="fas fa-laugh-beam" style="color: #ffffff;"></i></i>
+                <h5>SATISFACTION DU CLIENT</h5>
+                <!-- <p>Phasellus lobortis justo a magna facilisis, in commodo tellus rutrum. Sed vitae condimentum nulla.</p> -->
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="icon-box wow fadeInUp" data-wow-delay="0.4s"> <i class="fas fa-book-open" style="color: #ffffff;"></i></i>
+                <h5>TRANSPARENCE</h5>
+                <!-- <p>Phasellus lobortis justo a magna facilisis, in commodo tellus rutrum. Sed vitae condimentum nulla.</p> -->
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="icon-box wow fadeInUp" data-wow-delay="0.6s"> <i class="fas fa-medal" style="color: #ffffff;"></i></i>
+                <h5>EXCELLENCE</h5>
+                <!-- <p>Phasellus lobortis justo a magna facilisis, in commodo tellus rutrum. Sed vitae condimentum nulla.</p> -->
+              </div>
+            </div>
+          </div>
+          <!-- <a href="#" class="about-btn">Learn More</a> </div> -->
+      </div>
+    </div>
+  </div>
+</section>
+<!-------About End-------> 
+
+
+<!-------Secteur d'activité Start------->
+<section class="feature section-padding" data-scroll-index='2'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Secteur d'activité</h3>
+          <span class="line"></span>
+        </div>
+        <div class="section-content text-center">
+          <div class="row">
+            <div class="col-md-4 col-sm-12">
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.2s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Bureau d'études ingénierie</h5>
+                </div>
+                <div class="media-right icon-border"> <span class="fas fa-angle-double-left" aria-hidden="true"></span> </div>
+              </div>
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.4s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Prestation services ingénierie</h5>
+                </div>
+                <div class="media-right icon-border"> <span class="fas fa-angle-double-left" aria-hidden="true"></span> </div>
+              </div>
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.6s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Pilotage projets dans le secteur de l'industrie Automobile</h5>
+                </div>
+                <div class="media-right icon-border"> <span class="fas fa-angle-double-left" aria-hidden="true"></span> </div>
+              </div>
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.8s">
+                <div class="media-body text-right media-right-margin">
+                  <h5>Réalisations industrielles avec Nouvelles Technologies</h5>
+                </div>
+                <div class="media-right icon-border"> <span class="fas fa-angle-double-left" aria-hidden="true"></span> </div>
+              </div>
+            </div>
+            <div class="col-md-4 d-none d-md-block d-lg-block">
+              <div class="feature-mobile"> <img src="../static/images/iphone-screen-with-shadow.png" class="img-fluid wow fadeInUp"/> </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.2s">
+                <div class="media-left icon-border media-right-margin"> <span class="fas fa-angle-double-right" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>Consulting, Coaching, Formation et Accompagnement</h5>
+                </div>
+              </div>
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.4s">
+                <div class="media-left icon-border media-right-margin"> <span class="fas fa-angle-double-right" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>Fournittures industrielles et des consommables</h5>
+                </div>
+              </div>
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.6s">
+                <div class="media-left icon-border media-right-margin"> <span class="fas fa-angle-double-right" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>Location des moyens industriels</h5>
+                </div>
+              </div>
+              <div class="media single-feature wow fadeInUp" data-wow-delay="0.8s">
+                <div class="media-left icon-border media-right-margin"> <span class="fas fa-angle-double-right" aria-hidden="true"></span> </div>
+                <div class="media-body text-left">
+                  <h5>Import et Export</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-------Secteur d'activité End-------> 
+
+
+
+<!-------Mot du DG Start------->
+<section class="testimonial section-padding" data-scroll-index='4'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center white">
+          <h3>Mot du directeur général</h3>
+          <span class="line"></span>
+        </div>
+    
+      <div class="section-content">
+        <div class="row">
+          <div class="offset-md-2 col-md-8 col-sm-12">
+            <div class="slider">
+              <div class="slider-item">
+                <div class="test-img"><img src="../static/images/user2.png" alt="Placeholder" width="157" height="157"></div>
+                <div class="test-text">
+                  <span class="title"><span>Mr. BENHED Youness</span> Directeur Général</span>  
+                  En réponse aux attentes du marché, nous avons créé BENGY.H SOLUTIONS, c’est le fruit d’une longue expérience professionnelle au sein de grand groupe International,
+                   d’un profond attachement aux valeurs de travail en entreprise, d’amitié, de performance et de citoyenneté.<br> 
+                   BENGY.H SOLUTIONS  est une société d’ingénierie par excellence et management de projet, Le but est de proposer à nos clients une offre complète de services dans l’études,
+                    réalisations industrielles et nouvelles technologies. 
+                    <br>Notre objectif est d’être à terme un acteur incontournable dans le marche, tout en maîtrisant notre croissance 
+                    à travers la cohérence de nos métiers et de nos offres. c’est avant tout un savoir-faire et un esprit d’équipe dont les enjeux sont la satisfaction de nos clients et 
+                    l’épanouissement professionnel de nos candidats.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Mot du DG End-------> 
+
+<!-------Moyens Technique Start------->
+<section class="faq section-padding prelative" data-scroll-index='5'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Moyens Technique</h3>
+          <span class="line"></span>
+          <p>Disponibilité de 2 Ateliers:Superficie de 1800 m2 pour la charpente métallique et 450 m2 pour usinage industriel:</p>
+        </div>
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.2s">
+              <h4>Postes de soudage à l’arc électrique</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.2s">
+              <h4>Poste de soudage semi-automatique 400A</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.4s">
+              <h4>Postes de découpage oxyacétylénique</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.4s">
+              <h4>Une plieuse</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.6s">
+              <h4>Une cisaille</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.6s">
+              <h4>Centre d’usinage</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.8s">
+              <h4>Tour à commande numérique</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="0.8s">
+              <h4>Fraiseuse universelle</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="01.0s">
+              <h4>Perceuse + Tronçonneuse</h4>
+            </div>
+            <div class="col-md-6 faq-content wow fadeInUp" data-wow-delay="01.0s">
+              <h4>Bras de mesure et Laser scanning</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Moyens Technique End-------> 
+
+<!-------Contact Start------->
+<section class="contact section-padding" data-scroll-index='6'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="sectioner-header text-center">
+          <h3>Contacter nous</h3>
+          <span class="line"></span>
+          {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+        </div>
+        <div class="container" style="text-align: center; ">
+        <a href="/candidature" class="about-btn">Candidature</a> </div></div>
+        <div class="section-content">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-8">
+              <form id="contact_form" method="POST" action="{{ url_for('home') }}">
+                {{ contactform.csrf_token }}
+                <div class="row">
+                  <div class="col">
+                    <input type="text" id="your_name" class="form-input w-100" name="name" placeholder="Full Name" required>
+                  </div>
+                  <div class="col">
+                    <input type="email" id="email" class="form-input w-100" name="email" placeholder="Email" required>
+                  </div>
+                </div>
+                <input type="text" id="subject" class="form-input w-100" name="subject" placeholder="Subject">
+                <textarea class="form-input w-100" id="message" placeholder="Message" name="message"></textarea>
+                <button class="btn-grad w-100 text-uppercase" type="submit" name="contactformsubmit">submit</button>
+              </form>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-4">
+              <div class="contact-info white">
+                <div class="contact-item media"> <i class="fa fa-map-marker-alt media-left media-right-margin"></i>
+                  <div class="media-body">
+                    <p class="text-uppercase">Addresse</p>
+                    <p class="text-uppercase">Technopark Tanger, Immeuble Pavillon International,<br> Bd Mohamed V, CP 90 000, Tanger, Maroc.</p>
+                  </div>
+                </div>
+                <div class="contact-item media"> <i class="fa fa-mobile media-left media-right-margin"></i>
+                  <div class="media-body">
+                    <p class="text-uppercase">Téléphone</p>
+                    <p class="text-uppercase"><a class="text-white" href="tel:+212539343960">(+212) 539-343960</a> </p>
+                    <p class="text-uppercase"><a class="text-white" href="tel:+212539349000">(+212) 539-349000</a> </p>
+                  </div>
+                </div>
+                <div class="contact-item media"> <i class="fa fa-envelope media-left media-right-margin"></i>
+                  <div class="media-body">
+                    <p class="text-uppercase">E-mail</p>
+                    <p class="text-uppercase"><a class="text-white" href="mailto:contact@bengyhsolutions.com">contact@bengyhsolutions.com</a> </p>
+                  </div>
+                </div>
+                <div class="contact-item media"> <i class="fa fa-clock media-left media-right-margin"></i>
+                  <div class="media-body">
+                    <p class="text-uppercase">Horaires de travail</p>
+                    <p class="text-uppercase">Lundi – Vendredi: 8h – 18h, <br>Samedi et Dimanche Fermé.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-------Contact End-------> 
+
+<!-------Download End------->
+<section class="download section-padding">
+  <div class="container">
+    <div class="row">
+        <div class="sectioner-header text-center white">
+          <h3>Localisation</h3>
+          <span class="line"></span>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.9776656343!2d-5.805697524392938!3d35.77592497255691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f580f56224f%3A0x10633cdbe9d95d5b!2sTechnopark!5e0!3m2!1sfr!2sma!4v1712530560619!5m2!1sfr!2sma" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+  </div>
+</section>
+
+<!-------Download End------->
+
+<footer class="footer-copy">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        &copy; Copyright 2024 by <a href="https://github.com/kaoutharmsafri"><i class="fab fa-github"></i> kaouthar M'safri</a>.
+        <p style="color: #dcdbdb;">2018 &copy; Applight. Website Designed by <a style="color: #dcdbdb;" href="http://w3Template.com" target="_blank" rel="dofollow">W3 Template</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script> 
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script> 
+
+<!-- scrollIt js --> 
+<script src="../static/js/scrollIt.min.js"></script> 
+<script src="../static/js/wow.min.js"></script> 
+<script>
+	wow = new WOW();
+	wow.init();
+$(document).ready(function(e) {
+
+	$('#video-icon').on('click',function(e){
+	e.preventDefault();
+	$('.video-popup').css('display','flex');
+	$('.iframe-src').slideDown();
+	});
+	$('.video-popup').on('click',function(e){
+	var $target = e.target.nodeName;
+	var video_src = $(this).find('iframe').attr('src');
+	if($target != 'IFRAME'){
+	$('.video-popup').fadeOut();
+	$('.iframe-src').slideUp();
+	$('.video-popup iframe').attr('src'," ");
+	$('.video-popup iframe').attr('src',video_src);
+	}
+	});
+
+	$('.slider').bxSlider({
+	pager: false
+	});
+});
+    
+$(window).on("scroll",function () {
+
+	var bodyScroll = $(window).scrollTop(),
+	navbar = $(".navbar");
+	
+	if(bodyScroll > 50){
+	$('.navbar-logo img').attr('src','../static/images/logo-black.png');
+	navbar.addClass("nav-scroll");
+
+}else{
+	$('.navbar-logo img').attr('src','../static/images/logo.png');
+	navbar.removeClass("nav-scroll");
+}
+
+});
+$(window).on("load",function (){
+	var bodyScroll = $(window).scrollTop(),
+	navbar = $(".navbar");
+	
+	if(bodyScroll > 50){
+	$('.navbar-logo img').attr('src','../static/images/logo-black.png');
+	navbar.addClass("nav-scroll");
+	}else{
+	$('.navbar-logo img').attr('src','../static/images/logo-white.png');
+	navbar.removeClass("nav-scroll");
+	}
+
+	$.scrollIt({
+	
+	easing: 'swing',      // the easing function for animation
+	scrollTime: 900,       // how long (in ms) the animation takes
+	activeClass: 'active', // class given to the active nav element
+	onPageChange: null,    // function(pageIndex) that is called when page is changed
+	topOffset: -63
+	});
+});
+
+</script>
+</body>
+</html>

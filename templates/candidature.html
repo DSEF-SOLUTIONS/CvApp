@@ -1,0 +1,88 @@
+{% extends "layout.html" %}
+{% block title %}Candidature{% endblock %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" href="../static/css/style.css">
+{% endblock %}
+
+{% block content %}
+<h1>
+    Candidature Spontanée
+</h1>
+<hr>
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">{{ message }}</div>
+            {% endfor %}
+    {% endif %}
+{% endwith %}
+<div class="container d-flex justify-content-center back">
+<form method="POST" id="AddCVForm" name="AddCVForm" class="mt-4">
+    {{ add_cv_form.csrf_token }}
+    <div  class="form-group">
+        <label class="form-control-label" for="Nom">Nom :</label>
+        {{ add_cv_form.Nom(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Prenom">Prénom :</label>
+        {{ add_cv_form.Prenom(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Gender">Genre :</label>
+        {{ add_cv_form.Gender(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Fonction">Fonction :</label>
+        {{ add_cv_form.Fonction(class="form-control form-control-login-register", placeholder="Décrivez en quelques mots votre poste", required="required") }}
+        <div id="fonction-counter" class="character-counter">100</div>
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Domaine">Domaine :</label>
+        {{ add_cv_form.Domaine(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Niveau">Niveau :</label>
+        {{ add_cv_form.Niveau(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="ColonneExperience">Expérience :</label>
+        {{ add_cv_form.ColonneExperience(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Localisation">Ville :</label>
+        {{ add_cv_form.Localisation(class="form-control form-control-login-register", placeholder=" ") }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Url">Lien Linkedin :</label>
+        {{ add_cv_form.Url(class="form-control form-control-login-register", placeholder="Entrer le lien de votre profil Linkedin si vous en avez") }}
+    </div>
+
+    {{ add_cv_form.addcvsubmit (class="btn custom-btn custom-btn-login-register")}}
+</div>
+</form>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    var input = document.querySelector('#Fonction');
+    var counter = document.querySelector('#fonction-counter');
+    
+    if (input && counter) {
+        // Initialize the counter
+        updateCounter(input.value.length);
+        
+        input.addEventListener('input', function() {
+            updateCounter(input.value.length);
+        });
+    }
+
+    function updateCounter(length) {
+        var maxLength = 100; // Maximum allowed characters
+        counter.textContent = length + '/' + maxLength;
+    }
+});
+
+
+</script>
+{% endblock %}

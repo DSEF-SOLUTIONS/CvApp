@@ -1,0 +1,1038 @@
+ID,Nom,Prénom,Fonction,Domaine,Niveau,ColonneNiveau,Niveau d'experience en conception,ColonneExperience,Localisation,Salaire Actuel,Prétention,Préavis,Commentaire,TJM,target,Source,Url,Colonne1,ID2,Gender
+1, EL JANATI,Salim ,Management de qualité,ingénieu qualité,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salim-el-janati-455459183/,salim-el-janati-455459183,f934b06e-bbdc-4d5f-b3b8-75c0e2a14df3,M
+2,AALILECH,Khouloud ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khouloud-aalilech-3a2b04296/,khouloud-aalilech-3a2b04296,,F
+3,AATTAR,Zakaria ,Génie Mecanique,technicien spécialisé,Bac+2,2,3 ans,3.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-aattar-731342214/,zakaria-aattar-731342214,715afa81-a5f7-4313-87f4-bd7ecef1f3a3,M
+4,ABABOU,Asaad ,systemes electronique,ingénieur,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/asaad-ababou-1507225a/,asaad-ababou-1507225a,,M
+5,ABAHRI,Hamza,Ingénieur en électricité et industrie,Ingénieur Industriel,Bac+5,5,2 ans,2.0,Tanger ,,,,,,1.0,cv,,,,M
+6,ABAKOUY,Abdelhakim,-,ingénieur,Bac+7,7,-,0.0,Tetouan,,,,,,,cv Architecte automobile,,,,M
+7,ABALI,Chaimae ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/chaimae-abali/,chaimae-abali,b6f79c63-d7e1-48f4-8a82-14a38ac7f30e,F
+8,ABBIDIA,Amine ,Génie Mécanique,opérateur,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/amine-abbidia-02506b232/,amine-abbidia-02506b232,48d40b9a-a82b-45c9-b271-b3c7459e33ec,M
+9,ABBOU,Mohamed ,produsctique mecatroniue,chargé de développement,Bac+5,5,1 an,1.0,Beni Mellal,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-abbou-5167a3199/,mohamed-abbou-5167a3199,68ec61ba-3616-4e37-a46d-d141d8e1d1e5,M
+10,ABDELALI,Insaf ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,11 mois,0.9166666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/insaf-abdelali-3a30a6167/,insaf-abdelali-3a30a6167,8f5b8969-98da-4e84-b64a-42a8b1a8190d,F
+11,ABDOUSS,Boutaina ,ingénieur,ingénieu qualité,Bac+5,5,8 mois,2.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/boutaina-abdouss-513266150/,boutaina-abdouss-513266150,ff860ba2-3b77-41f6-87ba-58f9e35915c4,F
+12,ABEHROUZ,Abderrahman ,marketing,chargé de développement,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abehrouz/,abehrouz,8a0eb8f3-4d8b-4e5c-80b0-9280cb7bf449,M
+13,ABERRICH,Ayman ,génie des systemes industriels,concepteur/ dessinateur,Bac+5,5,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/ayman-aberrich-63b055151/,ayman-aberrich-63b055151,2b43a45f-07da-4aec-b853-eb0ba548034e,M
+14,ABOULAICH,Aymen ,management approvisionnements et logistique,logistique,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/aymen-aboulaich-6991831a3/,aymen-aboulaich-6991831a3,cfb6fa50-df64-4a24-a6cb-ce78e6c712df,M
+15,ABOULKACEM ALAOUI,Abdelouahed ,system embarque,ingénieur,Bac+5,5,6 mois,0.5,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelouahed-aboulkacem-alaoui-60a115175/,abdelouahed-aboulkacem-alaoui-60a115175,ea283455-d19f-4971-bef3-bf03710961c6,M
+16,ABOUNAIM,Safaa ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,10 mois,0.8333333333333334,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/safaa-abounaim-2554a2186/,safaa-abounaim-2554a2186,5c38171c-e5a3-4950-bb52-051751fe06e9,F
+17,ABOUR ,Hamza,Économie / Finance / Gestion,économie / gestion,Bac+3,3,-,0.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abour-hamza-39168a246/,abour-hamza-39168a246,922f29c1-87d1-4665-a1b2-80ffe0bb5cce,M
+18,ABOURHABA,Othmane ,Ingénieur Industriel,chargé de développement,Bac+5,5,3 ans,3.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/othmane-abourhaba/,othmane-abourhaba,8b21356a-d47d-42c7-bed4-af96b7e44ada,M
+19,ACHKI,El Mehdi,CAD Designer,concepteur/ dessinateur,Bac+5,5,3 ans,3.0,Casablanca,,,,,,1.0,cv,,,,M
+20,ACHLOUAOU,Issam ,systemes electronique embarques,ingénieur,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/issam-achlouaou-2b64621a3/,issam-achlouaou-2b64621a3,91284e02-153e-4ea3-8963-9d958d0752df,M
+21,ACHOUR,Boubker ,mécatronique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/boubker-achour-96150a155/,boubker-achour-96150a155,e0649867-6088-4e89-8c34-6c522ecb6b47,M
+22,ACOUDIR,Achraf ,management approvisionnements et logistique,logistique,Bac+7,7,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/achraf-acoudir-09bb24178/,achraf-acoudir-09bb24178,eda917f4-c6c4-4603-9c9c-5080fcdfa464,M
+23,ADDOUL,Mohmed ,-,logistique,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohmed-addoul-372428142/,mohmed-addoul-372428142,,M
+24,ADIL,Mohamed ,management des transports logistique,logistique,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-adil-5b173322b/,mohamed-adil-5b173322b,f16dd0d0-2403-49a3-af3a-fdb448a92d78,M
+25,ADLANE,Hicham ,management des transports logistique,logistique,Bac+5,5,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hicham-adlane-a34b27149/,hicham-adlane-a34b27149,c9b365ae-2ded-4f79-a946-2ec98513974a,M
+26,AFOURRY,Ali,Mécanique/Projet,ingénieur mécanique,Bac+5,5,4 ans,4.0,Casablanca,,,2 mois,,,1.0,cv,,,,M
+27,AGHBANI,Smail,Méthode En Fabrication Mécanique,concepteur/ dessinateur,Bac+2,2,2 mois,20.0,Kenitra,,,,,,,cv Architecte automobile,,,,M
+28,AGOUJILLE,Khaoula ,génie mécatronique,chargé de développement,Bac+5,5,-,0.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/khaoula-agoujille-391bb0199/,khaoula-agoujille-391bb0199,,F
+29,AGOUZAL,Abdallah ,Ingénieur Industriel,chargé de développement,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdallah-agouzal-81b194147/,abdallah-agouzal-81b194147,f3385574-99e0-447f-a511-f091846ea028,M
+30,AGUERDOUSRAF,Mohammed ,génie des materiaux,ingénieur process,Bac+5,5,8 mois,0.6666666666666666,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/aguerdousraf/,aguerdousraf,64230989-99a8-4c41-af20-27124854112b,M
+31,AHBOUCH,Bilal ,logistique et achats,logistique,Bac+5,5,11 mois,0.9166666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/bilal-ahbouch-10a758190/,bilal-ahbouch-10a758190,07abd4f3-0775-4b7c-9f18-8241bf1d3457,M
+32,AHJYAJE,Latifa ,-,chargé de développement,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/latifa-ahjyaje-2767b9128/,latifa-ahjyaje-2767b9128,96ccbd7a-0ee4-479c-8eb2-1f6fe87f8462,F
+33,AHMAMSI,Hicham ,Ingénieur Industriel,ingénieur process,Bac+5,5,3 ans,3.0,Tanger ,,,,,,,,,,,M
+34,AHMIMID,Mustapha ,management des ressources humaines,chargé de développement,Bac+5,5,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mustaphaahmimid/,mustaphaahmimid,ee6c0a8e-79a1-4b28-a085-653f67d45e70,M
+35,AHROUCH,Azzeddin,Ingénieur Industriel,ingénieur process,Bac+5,5,8 ans,8.0,Tanger ,,,,,,,,,,,M
+36,AISSI,Mohcine ,-,économie / gestion,bac+3,3,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohcine-aissi-45a630202/,mohcine-aissi-45a630202,7858a9bc-03b1-4dd5-89b6-2d03b1ffe159,M
+37,AIT AADOU,Khalid ,Ingénieur Industriel,ingénieur mécanique,Bac+5,5,2 ans,2.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/khalid-ait-aadou-b126b9187/,khalid-ait-aadou-b126b9187,294188f2-3510-4214-b291-32a23d314cde,M
+38,AIT ALLA,Hajar ,génie electrique,ingénieur,Bac+5,5,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-ait-alla-a27578263/,hajar-ait-alla-a27578263,55bef2a7-9ac7-41be-bc09-ee4afdbf647b,F
+39,AIT EL HOU,Hasna ,hygiene et qualite agroalimentaire,technicien spécialisé,Bac+2,2,1 an,1.0,Meknès,,,,,,,Linkedin,https://www.linkedin.com/in/hasna-ait-el-hou-a7407b151/,hasna-ait-el-hou-a7407b151,e7d36fc2-58f8-4ca6-936f-590eebaabd13,F
+40,AIT EL KAID,Mohamed Ali,Concepteur CAO,concepteur/ dessinateur,Bac+3,3,1 ans,1.0,Tanger ,,,1 mois,,,1.0,cv,,,,M
+41,AIT HAMMOU,Elhabib ,génie des systèmes electriques,ingénieur,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elhabib-ait-hammou-b6a250118/,elhabib-ait-hammou-b6a250118,8eb8e9e3-2024-4784-804e-34c12a1179ad,M
+42,AIT IKEN,Soundouss,Génie électromécanique,ingénieu qualité,Bac+5,5,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/soundouss-ait-iken-1a73aa98/,soundouss-ait-iken-1a73aa98,5d7a5a9a-3269-4ecf-acc4-b9bbe17cc878,F
+43,AIT KADDOUR,Mohammed ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/aitkaddour-mohammed/,aitkaddour-mohammed,a364aef3-746e-40f2-9d2b-1af8403cf530,M
+44,AIT MOUH,Ayoub ,Bureau D'Études En Conception Industrielle,concepteur/ dessinateur,Bac+2,2,4 ans,4.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-ait-mouh-077061171/,ayoub-ait-mouh-077061171,3becb8c7-cb20-4c88-8cc4-2d602061f107,M
+45,AIT OMAR,Aissam ,génie electrique,ingénieur,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/aissam-ait-omar-51687a182/,aissam-ait-omar-51687a182,aissam-ait-omar-51687a182,M
+46,AITOUNA,Hajar ,sytemes industriels intelligents,ingénieu qualité,Bac+8,8,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-aitouna-677b09141/,hajar-aitouna-677b09141,9e0cf1fa-a5cd-4d29-bc5a-6aebf40e9848,F
+47,AKASSOU,Anass,controleur de qualité,technicien spécialisé,Bac+2,2,1 an,1.0,Boulmane,,,,,,,Linkedin + CV,,,,M
+48,AKDIME ,Hassan,génie informatique,ingénieu qualité,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/akdime-hassan-78174b184/,akdime-hassan-78174b184,,M
+49,AKENOUN,Anas ,génie energetique,ingénieur,Bac+5,5,8 mois,0.6666666666666666,Agadir,,,,,,,Linkedin,https://www.linkedin.com/in/anas-akenoun-ab2b8b193/,anas-akenoun-ab2b8b193,,M
+50,AKROUT,Yahya ,Génie Mécanique,chargé de développement,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/yahya-akrout/,yahya-akrout,,M
+51,AL AABDALLAOUI,Yahya,Ingénieur en Génie mécatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,,,,,M
+52,ALAOUI,Mohammed,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+53,ALAOUI,Youness,Génie Mécanique,concepteur/ dessinateur,Bac+3,3,2 mois,0.1666666666666667,Berrechid,,,,,,,cv Concepteur H/F,,,,M
+54,ALAOUI,Ali ,Génie Environnement,ingénieu qualité,Bac+5,5,8 ans,8.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/ali-alaoui-3a21b640/,ali-alaoui-3a21b640,,M
+55,ALAOUI,Youssef ,Économie / Finance / Gestion,ingénieu qualité,Bac+2,2,18 ans,18.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-alaoui-793107141/,youssef-alaoui-793107141,,M
+56,ALAOUI ISMAILI,Malak ,génie des materiaux,ingénieur process,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/malak-alaoui-ismaili-b3495424a/,malak-alaoui-ismaili-b3495424a,,F
+57,ALAOUI MDEGHRI,Nouhaila ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/nouhaila-alaoui-mdeghri-299467204/,nouhaila-alaoui-mdeghri-299467204,,F
+58,ALLAM ,Abdallah,Génie Éléctrique,ingénieur process,Bac+5,5,1 an,1.0,Tanger ,,,,,,,,,,,M
+59,ALLAME,Wiam,Ingénieur en Génie industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Rabat,,,,,,,,,,,F
+60,ALLAOUI,Maryam ,Ingénieur des procédès,ingénieu qualité,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/maryam-allaoui-00b97b21b/,maryam-allaoui-00b97b21b,,F
+61,ALMARESE,Nouhaila ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Nador,,,,,,,Linkedin,https://www.linkedin.com/in/nouhaila-almarese-a89716238/,nouhaila-almarese-a89716238,,F
+62,ALOUALI,Reda ,Ingénieur Industriel,ingénieur,Bac+5,5,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/reda-alouali-065740a8/,reda-alouali-065740a8,,M
+63,ALOUAT,Zakaria ,Exploitation Logistique,logistique,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-alouat-11a3351b8/,zakaria-alouat-11a3351b8,,M
+64,AMALAOUI,Aymane ,Ingénieur Génie Mécanique et Systèmes Automatisés | Mécatronique,ingénieur mécanique,Bac+5,5,1 an,1.0,Fes,,,,,,,,,,,M
+65,AMEZIANE,Sara ,management des transports logistique,logistique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/sara-ameziane-63444392/,sara-ameziane-63444392,,F
+66,AMEZIANE,Siham ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/siham-ameziane-b36267206/,siham-ameziane-b36267206,,F
+67,AMEZZU,Yasmine,CAD-Coordinator/Industrial Engineer,ingénieur industriel,Bac+5,5,5 ans,5.0,Tanger ,14000,17000.0,2 mois,,,1.0,cv,,,,F
+68,AMGHAR,Oumaima ,management des transports logistique,logistique,Bac+4,4,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oumaima-amghar-6b2758160/,oumaima-amghar-6b2758160,,F
+69,AMGHAR,Radia ,Génie électromécanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/radia-amghar/,radia-amghar,,F
+70,AMNAD,Mounir ,Ingénieur Industriel,logistique,Bac+5,5,11 ans,11.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mounir-amnad-719595165/,mounir-amnad-719595165,,M
+71,AMRAOUI,Omayma ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/omayma-amraoui-2bba62162/,omayma-amraoui-2bba62162,,F
+72,AMTAGHRI,Walid ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,6 mois,0.5,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/walid-amtaghri-986862188/,walid-amtaghri-986862188,,M
+73,AMTOUNE,Mbarek ,Ingénieur Industriel,concepteur/ dessinateur,Bac+3,3,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mbarek-amtoune-b8303013a/,mbarek-amtoune-b8303013a,,M
+74,AMZIL,Abdeljalil ,génie electrique,ingénieur,Bac+5,5,11 ans,11.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/amzilabdeljalil/,amzilabdeljalil,,M
+75,ANNABID,Charaf Eddine,Responsable Production,technicien spécialisé,Bac+2,2,18 ans,18.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+76,AOUAD,Faissal,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 mois,0.08333333333333333,Kenitra,,,,,,,cv Concepteur H/F,,,,M
+77,AOUAM,Jaber,Dessinateur Industriel,concepteur/ dessinateur,Bac+2,2,8 mois,0.6666666666666666,Tanger,,,,,,,cv Concepteur H/F,,,,M
+78,AOUIMAR,Chaimae,Ingénieur,ingénieur process,Bac+5,5,1 an,1.0,Casablanca,,,,,,,,,,,F
+79,AOUINATI,Yassin,Automotive CAD Designer,concepteur/ dessinateur,Bac+3,3,7 ans,7.0,Casablanca,,,1 mois,,,1.0,cv,,,,M
+80,AOULAD BEN BRAHIM,Wissal,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/wissal-aoulad-ben-brahim-b846261b4/,wissal-aoulad-ben-brahim-b846261b4,,F
+81,Aourfat,Mohamed ,mecatronique,technicien spécialisé,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-aourfat-918752230/,mohamed-aourfat-918752230,,M
+82,AQIL,Yassine,ingénieur électronique,ingénieur industriel,Bac+5,5,8 mois,0.6666666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-aqil-357a14152/,yassine-aqil-357a14152,,M
+83,ARBAOUI,Hamza ,economie et gestion,opérateur,Bac+3,3,1 an,1.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/hamzaarbaoui1/,hamzaarbaoui1,,M
+84,ARCHID,Zineb ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-archid-6072181a8/,zineb-archid-6072181a8,,F
+85,ARIFIA,Zohra ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,5 ans,5.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/zohra-arifia-587165168/,zohra-arifia-587165168,,F
+86,ARIGUET,Mounir ,management de la qualité,ingénieu qualité,Bac+5,5,9 ans,9.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mounir-ariguet-a2077b153/,mounir-ariguet-a2077b153,,M
+87,AROUAOUAT,Ibrahim,Génie des procédés industriels,ingénieur process,Bac+5,5,1 an,1.0,Tanger ,,,,,,,,,,,M
+88,ASLI,Othmane ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/othmane-asli-a8a3a1178/,othmane-asli-a8a3a1178,,M
+89,ASRIH,Yasser,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/yasser-asrih-285a6a183/,yasser-asrih-285a6a183,,M
+90,ASRIH,Khalid ,génie energétique et énergies renouvlables,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khalid-asrih-b4070b1b3/,khalid-asrih-b4070b1b3,,M
+91,ASSAMRI,Achraf ,Économie / Finance / Gestion,économie / gestion,Bac+5,5,3 mois,0.25,Beni Mellal,,,,,,,Linkedin,https://www.linkedin.com/in/achraf-assamri-9b3935226/,achraf-assamri-9b3935226,,M
+92,ASSEBAN,Zakariaa ,Ingénieur Industriel,ingénieur process,Bac+5,5,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zakariaa-asseban-29969b86/,zakariaa-asseban-29969b86,,M
+93,ASSIM,Soumiya,Ingénieur Systèmes Embarqués,ingénieur,bac+5,5,1 an,1.0,Rabat,,,,,,1.0,cv,,,,F
+94,ASSIOUI,Ghizlane ,Génie des procédés industriels,ingénieu qualité,Bac+5,5,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ghizlaneassioui/,ghizlaneassioui,,F
+95,ATBIR,Ammar,Concepteur Et Dessinateur Mécanique,concepteur/ dessinateur,Bac+3,3,1 an,1.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+96,ATHMANI,Meryeme ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,10 mois,0.8333333333333334,fes,,,,,,,Linkedin,https://www.linkedin.com/in/meryeme-athmani-54319324b/,meryeme-athmani-54319324b,,F
+97,ATIA,Aymane,Technicien Spécialiser En Diagnostic Automobile Et Systéme Embarquer,technicien spécialisé,Bac+2,2,3 ans,3.0,Marrakech,,,,,,,cv Architecte automobile,,,,M
+98,ATIFI,Zakariae,-,technicien spécialisé,Bac+2,2,-,0.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+99,ATLAGH,Hajar ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-atlagh-0bab50230/,hajar-atlagh-0bab50230,,F
+100,ATMANI,Mohamed Nour,Ingénieur en Génie industriel,ingénieur industriel,Bac+5,5,11 mois,0.9166666666666666,Casablanca,,,,,,,,,,,M
+101,ATTAR,Oussama,Génie Mecanique,ingénieur mécanique,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/attar-oussama/,attar-oussama,,M
+102,ATTIJJI,Rachid ,génie thermique et energetique,technicien spécialisé,Bac+2,2,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/rachid-attijji/,rachid-attijji,,M
+103,ATTOU,Mohamed ,génie electrique,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-attou-733473138/,mohamed-attou-733473138,,M
+104,AYAD,Solaf ,-,ingénieu qualité,Bac+5,5,9 ans,9.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/solaf-ayad-492b21a5/,solaf-ayad-492b21a5,,M
+105,AZAIKO,Eatimade ,management international et logistique,logistique,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/eatimade-azaiko-58b178166/,eatimade-azaiko-58b178166,,F
+106,AZAOUY,Mohamed ,Mécatronique,technicien spécialisé,Bac+3,3,4 mois,0.3333333333333333,Tafilalet,,,,,,,,,,,M
+107,AZDAD,Mohamed ,sciences de données,ingénieur process,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-azdad-590416190/,mohamed-azdad-590416190,,M
+108,AZGHOUL,Ismail ,Génie Mecanique,ingénieur mécanique,Bac+5,5,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ismail-azghoul-8b4946158/,ismail-azghoul-8b4946158,,M
+109,AZNAG,Samir ,Génie Mécanique,ingénieur mécanique,Bac+5,5,4 ans,4.0,Ouarzazate,,,,,,,,,,,M
+110,AZOULAY,Anas ,Génie Mecanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/anas-azoulay-3b63861b8/,anas-azoulay-3b63861b8,,M
+111,AZRI,Abdessamad ,systemes reseaux et securite ,technicien spécialisé,Bac+2,2,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdessamad-azri-9ba240269/,abdessamad-azri-9ba240269,,M
+112,AZZMAN,Said ,Ingénieur électronique,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,,,,,M
+113,BAAHMED ,Samir,-,logistique,bac,0,15 ans,15.0,Larache,,,,,,,Linkedin,https://www.linkedin.com/in/baahmed-samir-3918a714b/,baahmed-samir-3918a714b,8e99225c-a8b8-4711-86b0-c84b6e8dcf1a,M
+114,BABA,Aymane,Technicien Specialise En Diagnostic Et Électronique Embarquée,technicien spécialisé,Bac+3,3,10 mois,0.8333333333333334,sidi kacem,,,,,,,cv Architecte automobile,,,,M
+115,BADAOUI,Ayoub,Opérateur,opérateur,Bac+1,1,7 mois,0.5833333333333334,Tanger,,,,,,,cv Architecte automobile,,,,M
+116,BAHAJE,Hiba,Gestionnaire Des Entreprises,économie / gestion,Bac+2,2,2 ans,2.0,Rabat,,,,,,,Linkedin + CV,,,,F
+117,BAHHAMOU ,Mohammed ,-,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-bahhamou-%E2%9C%94%EF%B8%8F-15708419b/,mohammed-bahhamou-%E2%9C%94%EF%B8%8F-15708419b,,M
+118,BAHSINE,Mehdi ,management des ressources humaines,logistique,Bac+5,5,2 ANS,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-bahsine-1a2341169/,mehdi-bahsine-1a2341169,,M
+119,BAITE,Manal,Ingénieure Mécanique,ingénieur mécanique,Bac+6,6,2 ans,2.0,Casablanca,,,,,,,cv Concepteur H/F,,,,F
+120,BAKALI,Ahmed,Management et stratégie,ingénieu qualité,Bac+5,5,19 ans,19.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-bakali-96259775/,ahmed-bakali-96259775,,M
+121,BAKKOU,Imad ,Génie Mecanique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/imad-bakkou-1b0a3a208/,imad-bakkou-1b0a3a208,,M
+122,BALLA,Marouane ,Économie / Finance / Gestion,économie / gestion,Bac+10,10,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/marouane-balla-377b4114b/,marouane-balla-377b4114b,,M
+123,BAMBARA,Kamboma Joseph, Ingénieur en Génie des Systèmes Industriels,ingénieur industriel,Bac+5,5,11 mois,0.9166666666666666,Casablanca,,,,,,,,,,,M
+124,BANASSOU,Tarik,Ingénieur Industriel,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,,,,,M
+125,BARBIS,Abderrahim ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahim-barbis-945b38120/,abderrahim-barbis-945b38120,,M
+126,BARICH,Ayoub ,électromecanique,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-barich-759482287/,ayoub-barich-759482287,,M
+127,BASSAM,Mohamed karam allah,-,ingénieu qualité,Bac+5,5,7 ans,7.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-karam-allah-bassam-777519118/,mohamed-karam-allah-bassam-777519118,,M
+128,BASSI,Ibtissam,Ingénieur Industriel,ingénieur industriel,Bac+8,8,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/bassi-ibtissam/,bassi-ibtissam,,F
+129,BASSIROU,Gassama,Génie Mecanique,ingénieur mécanique,Bac+6,6,6 mois,0.5,Rabat,,,,,,,cv Architecte automobile,,,,M
+130,BAYMIK,El Mehdi,Génie Mécanique,chargé de développement,Bac+3,3,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/el-mehdi-baymik-ab2013155/,el-mehdi-baymik-ab2013155,,M
+131,BEHJA,Hamza ,management approvisionnements et logistique,logistique,Bac+5,5,2 mois,0.1666666666666667,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hamzabehja/,hamzabehja,,M
+132,BELAICHE,Imane ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/imane-belaiche-b7273a205/,imane-belaiche-b7273a205,,F
+133,BELAID,Nid Abdelmoumen,Technicien spécialisé,ingénieur industriel,Bac+3,3,7 ans,7.0,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+134,BELAIDI,Hajar,Ingénieur Industriel / automatisme,ingénieur industriel,Bac+5,5,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-belaidi-194376111/,hajar-belaidi-194376111,,F
+135,BELAISSAOUI,Youssef ,Ingénieur Industriel,ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,,,,,M
+136,BELAYADI,Asmae ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,6 mois,0.5,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/asmae-belayadi-457191259/,asmae-belayadi-457191259,,F
+137,BELGACHA,Asmae ,ingénieur,ingénieu qualité,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/asmae-belgacha-a90631100/,asmae-belgacha-a90631100,,F
+138,BELHADJ,Chafiq ,logistique et achats,logistique,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chafiq-belhadj-a55b701ba/,chafiq-belhadj-a55b701ba,,M
+139,BELHAJ,Zoubida ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/zoubida-belhaj-32b677a5/,zoubida-belhaj-32b677a5,,F
+140,BELHOUAOUI,Alae ,technicien aluminium,logistique,Bac+2,2,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/alae-belhouaoui-8117b7220/,alae-belhouaoui-8117b7220,,M
+141,BELKHIR,Mohammed ,Génie Éléctrique,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,,,,,M
+142,BELKOURI ,Bader,Économie / Finance / Gestion,chargé de développement,Bac+5,5,2 ans,2.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/belkouri-bader-423685171/,belkouri-bader-423685171,,M
+143,BELLAFQIH,Houssam ,topographie,technicien spécialisé,Bac+3,3,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/houssam-bellafqih-a54635224/,houssam-bellafqih-a54635224,,M
+144,BELLAHNA,Boubker ,génie mécatronique,ingénieur process,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/boubkerbellahna/,boubkerbellahna,,M
+145,BELYAZID,Soukaina ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,6 ans,6.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/soukaina-belyazid-491137146/,soukaina-belyazid-491137146,,F
+146,BEN ABDALLAH,Ismail ,Économie / Finance / Gestion,chargé de développement,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ismail-ben-abdallah-8a53b2127/,ismail-ben-abdallah-8a53b2127,,M
+147,BEN ABDELLAH,Badia ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Tetouan,,,,,,,,,,,F
+148,BEN ALLAL,Dina,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/dina-ben-allal-836498175/,dina-ben-allal-836498175,,F
+149,BEN AMAMOU,Abdelilah ,developpement informatique,technicien spécialisé,Bac+2,2,13 ans,13.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/abdelilah-ben-amamou-12919512a/,abdelilah-ben-amamou-12919512a,,M
+150,BEN DEBBA,Yahya,Méthode de fabrication mécanique,concepteur/ dessinateur,Bac+2,2,5 ans,5.0,Casablanca,,,,,,,,,,,M
+151,BEN EL KADI,Zakariae,Chargé Développement Mécatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Tetouan,9000,11000.0,1 mois,,,1.0,cv,,,,M
+152,BEN HARB,Ramzi,Concepteur Mécanique,concepteur/ dessinateur,Bac+5,5,7 ans,7.0,Tunisie,,,2 mois,,,1.0,cv,,,,M
+153,BEN HSAIEN,Ismail,Dessinateur / Concepteur,concepteur/ dessinateur,Bac+3,3,1 an,1.0,Tanger ,,,,,,,,,,,M
+154,BEN MAHJOUB,Mohamed,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,3 mois,0.25,Tanger,,,,,,,cv Architecte automobile,,,,M
+155,BEN MOUMOU,Fatima-Ezzahra,Économie / Finance / Gestion,économie / gestion,Bac+3,3,11 mois,0.9166666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-ezzahra-ben-moumou-013973237/,fatima-ezzahra-ben-moumou-013973237,,F
+156,BENABDALLAH,Farouk ,Ingénieur Systèmes Embarqués,ingénieu qualité,Bac+5,5,6 ans,6.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/farouk-benabdallah-b9229b153/,farouk-benabdallah-b9229b153,,M
+157,BENADDI,Ouafaa,Ingénieur Industriel,ingénieur industriel,Bac+5,5,8 mois,0.6666666666666666,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/ouafaa-benaddi/,ouafaa-benaddi,,F
+158,BENALI,Oumaima ,génie civil,technicien spécialisé,Bac+2,2,1 an,1.0,Meknès,,,,,,,Linkedin,https://www.linkedin.com/in/oumaima-benali-a24707203/,oumaima-benali-a24707203,,F
+159,BENALI,Hicham ,electromecanique,technicien spécialisé,Bac+2,2,11 ans,11.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/hicham-benali-4a6095156/,hicham-benali-4a6095156,,M
+160,BENBAHAKA,Maria ,Génie Mecanique,ingénieur mécanique,Bac+5,5,4 ans,4.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/maria-benbahaka-9788a1154/,maria-benbahaka-9788a1154,,F
+161,BENBAKRIM,Hicham,Ingénieur Industriel,ingénieur industriel,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hicham-benbakrim-b97709124/,hicham-benbakrim-b97709124,,M
+162,BENCHAABANE,Anass ,logistique et achats,logistique,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/anas-benchaabane/,anas-benchaabane,,M
+163,BENCHRA,Imane ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/imanebenchra/,imanebenchra,,F
+164,BENHACHEM,Hajar, électrotechnique Automatique et informatique Industrielle,ingénieur process,Bac+5,5,3ans,3.0,Oujda,,,,,,,,,,,F
+165,BENHAMMOU,Aya ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,10 mois,0.8333333333333334,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/aya-benhammou-3aa028200/,aya-benhammou-3aa028200,,F
+166,BEN-JAAFAR,Yassmine ,Génie des procédés industriels,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,,,,,F
+167,BENJEBLI,Hajar,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-benjebli-596303200/details/experience/,hajar-benjebli-596303200detailsexperience,,F
+168,BENKADDOUR,Zakaria ,Ingénieur Industriel,technicien spécialisé,Bac+3,3,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-benkaddour-2b3082215/,zakaria-benkaddour-2b3082215,,M
+169,BENKARROUM,Sara ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/sara-benkarroum-b4b435108/,sara-benkarroum-b4b435108,,F
+170,BENKERROUM,Riyad,Mesures Physiques,autres,Bac+4,4,-,0.0,Paris,,,,,,,Linkedin + CV,,,,M
+171,BENKHAJOU,Ilyas ,management des transports logistique,logistique,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ilyas-benkhajou-34b938278/,ilyas-benkhajou-34b938278,,M
+172,BENKHALEQ,Zakariae ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/zakariae-benkhaleq-72031114a/,zakariae-benkhaleq-72031114a,,M
+173,BENKMIL,Manal ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,1 an,1.0,Rabat,,,,,,,,,,,F
+174,BENMESSAOUD,Meriam ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 mois,0.4166666666666667,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/meriam-benmessaoud-66b626146/,meriam-benmessaoud-66b626146,,F
+175,BENMOUSSA,Abdelilah ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelilah-benmoussa-14a33428b/,abdelilah-benmoussa-14a33428b,,M
+176,BENOMAR,Najlae ,management des transports logistique,logistique,Bac+5,5,3 mois,0.25,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/najlae-benomar-861a79218/,najlae-benomar-861a79218,,F
+177,BENSAID,Smail,Dessinateur/Programmeur,concepteur/ dessinateur,Bac+6,6,3 ans,3.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+178,BENSRHAYAR,Kamal ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/kamal-bensrhayar-99368969/,kamal-bensrhayar-99368969,,M
+179,BENTAIB ,Ismail ,management des ressources humaines,chargé de développement,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ismail-bentaib-cr%C3%A9dit-du-maroc-193829194/,ismail-bentaib-cr%C3%A9dit-du-maroc-193829194,,M
+180,BENTHAMI,Kawtar ,Génie Environnement,ingénieu qualité,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/kawtar-benthami-222707246/,kawtar-benthami-222707246,,F
+181,BENY,Imane ,Ingénieur Industriel,logistique,Bac+7,7,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/imane-beny-74035024/,imane-beny-74035024,,F
+182,BENZAHRA,Anas,"Ingénieur Industriel
+Et Automobile",ingénieur industriel,Bac+5,5,8 ans,8.0,Casablanca,,,,,,1.0,cv,,,,M
+183,BENZZOUBEIR,Oussama,Génie Mécanique,ingénieur mécanique,Bac+5,5,6 ans,6.0,Casablanca,,,,,,1.0,cv,,,,M
+184,BERCHIL,Assia ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,5 mois,0.4166666666666667,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/assia-berchil-7ba7871a3/,assia-berchil-7ba7871a3,,F
+185,BERGADI,Soukaina ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/soukaina-bergadi-8352b9219/,soukaina-bergadi-8352b9219,,F
+186,BERHIL,Naoufal ,Génie Mécanique,chargé de développement,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/naoufal-berhil-276099215/,naoufal-berhil-276099215,,M
+187,BERKANI,Anass ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/anass-berkani-47211557/,anass-berkani-47211557,,M
+188,BERRAHAL,Souhil,Génie Électronique,ingénieur,Bac+5,5,_,0.0,Ksar El Kebir,_,,_,,,1.0,,,,,M
+189,BERROUAN,Marouane ,Ingénieur Industriel,concepteur/ dessinateur,Bac+3,3,7 ans,7.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/marouane-berrouan-883940165/,marouane-berrouan-883940165,,M
+190,BESBESS,Ilham ,Génie Mecanique,ingénieur mécanique,Bac+5,5,7 mois,0.5833333333333334,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ilham-besbess-0b7623171/,ilham-besbess-0b7623171,,F
+191,BI,Asma ,Économie / Finance / Gestion,logistique,Bac+3,3,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/asma-bl-218949194/,asma-bl-218949194,,F
+192,BIKOUR,Nouhayla ,logistique et achats,logistique,Bac+5,5,8 mois,0.6666666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nouhayla-bikour-4b9452232/,nouhayla-bikour-4b9452232,,F
+193,BLIHA,Mahdi,Chart Quality Manager,ingénieur industriel,Bac+5,5,4 ans,4.0,Tanger ,,,2 mois,,,1.0,cv,,,,M
+194,BOUALEM,Mohamed ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,5 mois,0.4166666666666667,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-boualem-536b15178/,mohamed-boualem-536b15178,,M
+195,BOUAYOUN,Firdaws,"Technicien De Laboratoire ,Qualite Et Production",ingénieur process,Bac+3,3,1 an,1.0,Fes,,,,,,,Linkedin + CV,,,,F
+196,BOUAZIZ,Ihssane,Génie Mecanique,concepteur/ dessinateur,Bac+5,5,1 an,1.0,Mohammedia,,,,,,,cv,,,,F
+197,BOUAZZAOUI,Houda ,Ingénieur Mécatronique,ingénieur process,Bac+5,5,3 ans,3.0,Tanger ,,,,,,,,,,,F
+198,BOUBAKRI,Ilham ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 mois,0.25,Safi,,,,,,,Linkedin,https://www.linkedin.com/in/ilham-boubakri-226047228/,ilham-boubakri-226047228,,F
+199,BOUBOT,Otmane ,Génie Mecanique,technicien spécialisé,Bac+2,2,6 mois,0.5,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/otmane-boubot/,otmane-boubot,,M
+200,BOUBOU,Bouchra ,electronique,chargé de développement,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/bouchra-boubou-115490115/,bouchra-boubou-115490115,,F
+201,BOUBRAAL,Meriem,Chef De Projet,ingénieur industriel,Bac+5,5,5 ans,5.0,Berrechid,,,2 mois,,,1.0,cv,,,,F
+202,BOUCH,Anwar,Génie Éléctrique / Contrôle De Commandes,ingénieur,Bac+6,6,1 an,1.0,Casablanca,,,,,,,Linkedin + CV,,,,M
+203,BOUCHRI,Ahmed,Ingénieur Industriel,ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,,,,,M
+204,BOUDAD ,Mouad,systemes electronique embarques,ingénieur,Bac+5,5,3 ans,3.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/boudad-mouad/,boudad-mouad,,M
+205,BOUDHAN,Souhaila ,Économie / Finance / Gestion,ingénieu qualité,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/souhaila-boudhan-79a882196/,souhaila-boudhan-79a882196,,F
+206,BOUDOUDA,Sara ,Génie des procédés industriels,ingénieur process,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/sara-boudouda-52224a13a/,sara-boudouda-52224a13a,,F
+207,BOUFTINI,Ayoub ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,6 ans,6.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-bouftini-2852a918a/,ayoub-bouftini-2852a918a,,M
+208,BOUGATF,Ahmed,Génie Mécanique,ingénieur mécanique,Bac+5,5,1 an,1.0,France,,,,,,,Linkedin + CV,,,,M
+209,BOUGHLAM,Wissal ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,8 mois,0.6666666666666666,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/wissal-boughlam-43b762222/,wissal-boughlam-43b762222,,F
+210,BOUGTAIB,Mohamed Amine,Génie En Energieselectriques Et Industries Numériques,ingénieur industriel,Bac+5,5,1 an,1.0,Rabat,,,,,,1.0,cv,,,,M
+211,BOUHAFRA,Mouad,Electricien Industriel / Batiment,technicien spécialisé,Bac+4,4,4 mois,0.3333333333333333,Agadir,,,,,,,Linkedin + CV,,,,M
+212,BOUHARRAT,Laila ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/laila-bouharrat-4a9017202/,laila-bouharrat-4a9017202,,F
+213,BOUHDADI,Othmane,Pilote Technique Et Concepteur,ingénieur mécanique,Bac+5,5,4 ans,4.0,Tanger ,9000,12000.0,1 mois,,,1.0,cv,,,,M
+214,BOUHDAS,Younes ,Génie Mecanique,ingénieur mécanique,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/younes-bouhdas-446513213/,younes-bouhdas-446513213,,M
+215,BOUHLAL,Hiba,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,-,0.0,Tanger ,,,,,,,Linkedin + CV,,,,F
+216,BOUHLALA,Nizar ,Génie Mecanique,concepteur/ dessinateur,Bac+5,5,2 ans,2.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/nizar-bouhlala-12486b1b6/,nizar-bouhlala-12486b1b6,,M
+217,BOUHMAIDI,Zaid ,génie energetique,ingénieur,Bac+5,5,8 mois,0.6666666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zaid-bouhmaidi/,zaid-bouhmaidi,,M
+218,BOUHMAL,Chaimaa ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chaimaa-bouhmal-53297914a/,chaimaa-bouhmal-53297914a,,F
+219,BOUHRARA,Ayoub,Technicien Junior,technicien spécialisé,Bac+3,3,-,0.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+220,BOUHSISSINE,Hajar ,Eco-énergétique et environnement industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-bouhsissine-632362183/,hajar-bouhsissine-632362183,,F
+221,BOUIDOUKANE,Zainab,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 mois,0.4166666666666667,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zainabbouidoukane/,zainabbouidoukane,,F
+222,BOUIHI,Nassima ,management approvisionnements et logistique,logistique,Bac+5,5,6 ans,6.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/nassima-bouihi-45319613b/,nassima-bouihi-45319613b,,F
+223,BOUITA,Chaimae ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,linkedin.com/in/chaimae-bouita-780a18157/,linkedin.cominchaimae-bouita-780a18157,,F
+224,BOUJARRA,Soufiane ,droit privé en arabe,opérateur,Bac+3,3,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-boujarra-a14a351b7/,soufiane-boujarra-a14a351b7,,M
+225,BOUKAFA,Ilyasse ,-,chargé de développement,bac,0,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ilyasse-boukafa-a651b9223/,ilyasse-boukafa-a651b9223,0f4760b0-9536-41b2-8e7c-2f2b98c45440,M
+226,BOUKHBOUZ,Mohamed ,génie electrique,ingénieur,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-boukhbouz-54ab18166/,mohamed-boukhbouz-54ab18166,,M
+227,BOUKHOUBZA,Wiam ,Génie des procédés industriels,ingénieur process,Bac+5,5,1 an,1.0,Meknes,,,,,,,Linkedin,https://www.linkedin.com/in/wiam-boukhoubza-262b311a3/,wiam-boukhoubza-262b311a3,,F
+228,BOUKHSSIBI,Hiba ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,2 ans,2.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/hiba-boukhssibi-2648a2210/,hiba-boukhssibi-2648a2210,,F
+229,BOUKOUMASS,Amina ,ingénieur,ingénieu qualité,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/amina-boukoumass-4962bb159/,amina-boukoumass-4962bb159,,F
+230,BOUKTIBA,Ouidad ,management approvisionnements et logistique,logistique,Bac+3,3,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ouidad-bouktiba-579724150/,ouidad-bouktiba-579724150,,F
+231,BOULAARAB,Abdelhakim ,Génie Mecanique,ingénieur mécanique,Bac+5,5,6 ans,6.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/abdelhakim-boulaarab-48b10b80/,abdelhakim-boulaarab-48b10b80,,M
+232,BOULAICH HASSANI,Mohammed ,génie mécatronique,ingénieur,Bac+5,5,11 ans,11.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-boulaich-hassani-98411667/,mohammed-boulaich-hassani-98411667,,M
+233,BOUMLIK,Zakaria ,éléctromécanique des systèmes autom,technicien spécialisé,Bac+3,3,9 ans,9.0,Tanger ,,,,,,,,,,,M
+234,BOUMUARET,Ibrahim,Diagnostic Électronique Embarquée,technicien spécialisé,Bac+2,2,4 mois,0.3333333333333333,Tetouan,,,,,,,cv Architecte automobile,,,,M
+235,BOUNAZZA,Oussama,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,7 mois,0.5833333333333334,Kenitra,,,,,,,cv Architecte automobile,,,,M
+236,BOUNEDDI,Mehdi ,Génie des procédés industriels,ingénieur process,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-bouneddi-567b37154/,mehdi-bouneddi-567b37154,,M
+237,BOUR,Anas ,Ingénieur Industriel,chargé de développement,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/anas-bour-44b37b12a/,anas-bour-44b37b12a,,M
+238,BOURCHBANE,Sara ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,6 ans,6.0,Ben Guerrir,,,,,,,Linkedin,https://www.linkedin.com/in/sara-bourchbane-803b2512b/,sara-bourchbane-803b2512b,,F
+239,BOUSLIL,Majid,Opérateur,opérateur,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+240,BOUSLIM,Soufiane ,electromecanique,ingénieur process,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-bouslim-741575177/,soufiane-bouslim-741575177,,M
+241,BOUSSEFERJEL,Salma,Ingénieur Mecatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Casablanca,,,,,,1.0,cv,,,,F
+242,BOUSSO,Mouhamed El Bachir,System And Plm Engineer,ingénieur,Bac+5,5,2 ans,2.0,Casablanca,,,,,,1.0,cv,,,,M
+243,BOUTAHAR,Imane,Analyse Qualité,ingénieu qualité,Bac+5,5,_,0.0,Tanger ,,,2 mois,,,1.0,,,,,F
+244,BOUTAHAR,Omar ,Génie électromécanique,ingénieur process,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/omar-boutahar-552b1586/,omar-boutahar-552b1586,,M
+245,BOUTARF,Youssef ,génie electrique,ingénieur,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/youssefboutarf/,youssefboutarf,,M
+246,BOUZIYANE,Khadija ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,7 mois,0.5833333333333334,Tanger ,,,,,,,,,,,F
+247,BRAIMI,Khadija ,Ingénieur Mécatronique,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,,,,,F
+248,BUKAR,Mariam,Concepteur Dessinateur En CAO,concepteur/ dessinateur,Bac+7,7,2 ans,2.0,Tanger,,,,,,,cv Architecte automobile,,,,F
+249,BZIOUI,Driss ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/driss-bzioui/,driss-bzioui,,M
+250,CHAABI,Amine ,génie electrique,ingénieur,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/amine-chaabi-005360178/,amine-chaabi-005360178,,M
+251,CHAARA,Iyad ,Ingénieur Industriel,ingénieur mécanique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/iyad-chaara-739160150/,iyad-chaara-739160150,,M
+252,CHAER,Nihad,Exploitation Logistique,logistique,Bac+2,2,7 mois,0.5833333333333334,Tanger,,,,,,,cv Concepteur H/F,,,,F
+253,CHAFI,Hind ,Génie Mécanique,ingénieu qualité,Bac+5,5,5 ans,5.0,Sekhirat,,,,,,,Linkedin,https://www.linkedin.com/in/hind-chafi-3061b210b/,hind-chafi-3061b210b,,F
+254,CHAHBOUN,Zakaria ,Génie Mecanique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-chahboun-230942167/,zakaria-chahboun-230942167,,M
+255,CHAHID,Adil ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/adil-chahid-57844b79/,adil-chahid-57844b79,,M
+256,CHAHID,Saida ,management de la qualité,ingénieu qualité,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/saida-chahid-363b64184/,saida-chahid-363b64184,,F
+257,CHAJDI,Mohcine,Ingénieur Architecture Véhicule,ingénieur,Bac+10,10,5 ans,5.0,Casablanca,,,,,,1.0,cv,,,,M
+258,CHAKIRI,Zineb ,sciences environnementale,chargé de développement,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-chakiri-1b58b3271/,zineb-chakiri-1b58b3271,,F
+259,CHAKKAF,Yassine ,Génie Mécatronique et systèmes intelligents,ingénieur mécanique,Bac+5,5,1 an,1.0,Berrechid,,,,,,,,,,,M
+260,CHALHE,Zakaria,Génie des procédés industriels,ingénieur process,Bac+6,6,4 ans,4.0,Casablanca,,,,,,,,,,,M
+261,CHALHE ,Zakaria,Génie des procédés industriels,ingénieur process,Bac+6,6,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/chalhe-zakaria-2197b0107/,chalhe-zakaria-2197b0107,,M
+262,CHAMMAMI,Mehdi ,Génie Mécanique,chargé de développement,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-chammami-607b64167/,mehdi-chammami-607b64167,,M
+263,CHAOUKI,Youness,droit arabe,autres,Bac+3,3,-,0.0,sidi kacem,,,,,,,cv Architecte automobile,,,,M
+264,CHARROUF,Youssef,Conception Du Produit Industriel,concepteur/ dessinateur,Bac+2,2,2 mois,0.1666666666666667,SIDI SLIMANE,,,,,,,cv Concepteur H/F,,,,M
+265,CHATER,Rahima ,Génie Mecanique,chargé de développement,Bac+3,3,1 an,1.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/rahima-chater-45b5a2231/,rahima-chater-45b5a2231,,F
+266,CHBIBBANE,Maroua ,Ingénieur Industriel,chargé de développement,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/maroua-chbibbane-41458017a/,maroua-chbibbane-41458017a,,F
+267,CHEHIMA,Nisrine,It Development Specialist,technicien spécialisé,Bac+2,2,1 mois,0.08333333333333333,Tanger,,,,,,,cv Architecte automobile,,,,F
+268,CHEKKOURI,Omniya ,Management de qualité,ingénieu qualité,Bac+5,5,15 ans,15.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/omniya-chekkouri-11200173/,omniya-chekkouri-11200173,,F
+269,CHELDI,Hamza,Ingénieur Mécatronique,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,,,,,M
+270,CHEMSI,Amine,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Casablanca,,,,,,,,,,,M
+271,CHENTOUF,Hassan ,Conception Mécanique Et Innovation,concepteur/ dessinateur,Bac+2,2,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hassan-chentouf/,hassan-chentouf,,M
+272,CHERKAOUI,Omar ,-,logistique,bac,0,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/omar-cherkaoui-8b97761a3/,omar-cherkaoui-8b97761a3,b7d61571-5564-4785-884a-7a3868343323,M
+273,CHGUIGUI,Salem ,management des transports logistique,logistique,Bac+4,4,29 ans,29.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salem-chguigui-7ab53926b/,salem-chguigui-7ab53926b,,M
+274,CHIBANI,Nabil,Technicien CAO / FAO,concepteur/ dessinateur,Bac+4,4,3 ans,3.0,Tanger ,,,,,,,,,,,M
+275,CHIFA,Mohammed ,Ingénieur Industriel,concepteur/ dessinateur,Bac+3,3,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-chifa-503320144/,mohammed-chifa-503320144,,M
+276,CHIHABI,Abdelhamid ,ingénieurie statistique,logistique,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelhamid-chihabi/,abdelhamid-chihabi,,M
+277,CHIHI ,Saloua,management des transports logistique,logistique,Bac+2,2,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chihi-saloua-111679199/,chihi-saloua-111679199,,F
+278,CHIKAR,Chakir ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chakir-chikar-75a117244/,chakir-chikar-75a117244,,M
+279,CHIKH,Imane ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/imane-chikh-890504174/,imane-chikh-890504174,,F
+280,CHKIH,Asmaa ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 ans,5.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/asmaa-chkih-260112141/,asmaa-chkih-260112141,,F
+281,CHLILI,Mohammed ,management et pilotage des systèmes industriels,ingénieur process,Bac+5,5,10 ans,10.0,Tanger ,,,,,,,,,,,M
+282,CHMAIMI,Mohammed ,génie electrique,ingénieur,Bac+5,5,1 an,1.0,Meknès,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-chmaimi/,mohammed-chmaimi,,M
+283,CHOKRALLAH EL IDRISSI,Hanane ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hanane-chokrallah-el-idrissi-29b577152/,hanane-chokrallah-el-idrissi-29b577152,,F
+284,CHOUAIB,Samir ,génie en automatisme,ingénieur,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/samir-chouaib-804b03177/,samir-chouaib-804b03177,,M
+285,CHOUAIRI LOUMOU,Khadija ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/ilyas-ettouhami-0b10a0278/,ilyas-ettouhami-0b10a0278,,F
+286,CHOUINI,Mohamed ,génie en automatisme,ingénieur,Bac+6,6,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chouini-mohamed/,chouini-mohamed,,M
+287,CORBA,Hajar ,bureau d'études en construction métallique,technicien spécialisé,Bac+2,2,1 an,1.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-corba-96bba1264/,hajar-corba-96bba1264,,F
+288,DAAOUAN,Firdaouss ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,2 an,2.0,Tanger ,,,,,,,,,,,F
+289,DADAS,Zineb ,Économie / Finance / Gestion,chargé de développement,Bac+7,7,11 ans,11.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-dadas-a1770b6b/,zineb-dadas-a1770b6b,,F
+290,DAGHMOUMI ,Kaoutar,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/daghmoumi-kaoutar-07762a208/,daghmoumi-kaoutar-07762a208,,F
+291,DAHDAH,Mohamed Larbi,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,7 mois,0.5833333333333334,Tanger ,,,,,,,,,,,M
+292,DAHIOUI,Anass,Technicien En Ingénieurie Automobile,technicien spécialisé,Bac+3,3,4 mois,0.3333333333333333,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+293,DAHMAN,Yassine ,management des ressources humaines,chargé de développement,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-dahman-0244a2163/,yassine-dahman-0244a2163,,M
+294,DAHMANI,Kaoutar,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin + CV,,,,F
+295,DAHOU,Soufiane,management et pilotage des systèmes industriels,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,,,,,M
+296,DAIM,Hanane ,Économie / Finance / Gestion,logistique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hanane-daim-229522150/,hanane-daim-229522150,,F
+297,DAKOUANE ,Abdelfettah,ingénieur de boite,ingénieur,Bac+5,5,26 ans,26.0,Ait Melloul,,,,,,,Linkedin,https://www.linkedin.com/in/dakouane-abdelfettah-a1090b89/,dakouane-abdelfettah-a1090b89,,M
+298,DAMI,Anass,Conception Mécanique Et Innovation,ingénieur mécanique,Bac+6,6,2 mois,0.1666666666666667,Tanger,,,,,,,cv Architecte automobile,,,,M
+299,DAMOUN,Mohammed Said ,management des transports logistique,logistique,Bac+3,3,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-damoun-2058131b7/,mohammed-damoun-2058131b7,,M
+300,DAMOUN,Meriem ,management de la qualité,ingénieu qualité,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/meriem-damoun-04b880114/,meriem-damoun-04b880114,,F
+301,DANAN,Hamza ,Génie Mecanique,concepteur/ dessinateur,Bac+3,3,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-danan-969438161/,hamza-danan-969438161,,M
+302,DANNI,Mohammed,Technicien Spécialisé De Méthodes En Fabrication Mécanique,concepteur/ dessinateur,Bac+4,4,5 ans,5.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+303,DAOUDI,Khalissa,Génie des procédés industriels,ingénieur industriel,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khalissa-daoudi/,khalissa-daoudi,,F
+304,DARITI,Ismail,Responsable De Production,économie / gestion,Bac+7,7,28 ans,28.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+305,DELMAKI,Adnane ,Génie Mécanique,chargé de développement,Bac+5,5,3 ans,3.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/adnane-delmaki-28ab531b4/,adnane-delmaki-28ab531b4,,M
+306,DEMBELE,Farida Ramatoulaye,QHSE,ingénieu qualité,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/farida-ramatoulaye-dembele-3b4891195/,farida-ramatoulaye-dembele-3b4891195,,F
+307,DERGOUL ,mohamed,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+4,4,9 ans,9.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/dergoul-mohamed-a81699119/,dergoul-mohamed-a81699119,,M
+308,DEROUI ,Hamza,management approvisionnements et logistique,logistique,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin + CV,,,,M
+309,DINAR,Imane ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,5 mois,0.4166666666666667,Beni Mellal,,,,,,,Linkedin,https://www.linkedin.com/in/imane-dinar-532570298/,imane-dinar-532570298,,F
+310,DKHISSENE,Imad-Eddine,Consulting Technician,ingénieur industriel,Bac+5,5,2 ans,2.0,Casablanca,,,2 mois,,,1.0,cv,,,,M
+311,DLIZA,Soufiane,Commercial,économie / gestion,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+312,DOHOUCH,Khalid,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khalid-dohouch-745036114/,khalid-dohouch-745036114,,M
+313,DOUMARI,Salwa ,électromécanique et systèmes automatisés ,chargé de développement,Bac+2,2,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/salwa-doumari-8581701a2/,salwa-doumari-8581701a2,,F
+314,DRIDOU,Chakir ,Ingénieur Industriel,ingénieur process,Bac+5,5,9 ans,9.0,Tanger ,,,,,,,,,,,M
+315,DRIOUECH,Drissia ,Gestion Des Entreprises,opérateur,Bac+2,2,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/drissia-driouech-5b4755244/,drissia-driouech-5b4755244,,F
+316,E.,Maryam ,Génie des procédés industriels,ingénieur process,Bac+5,5,10 mois,0.8333333333333334,Al hoceima,,,,,,,Linkedin,https://www.linkedin.com/in/maryamesskifati/,maryamesskifati,,F
+317,E.,Manal ,Ingénieur Industriel,ingénieur process,Bac+5,5,6 ans,6.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/manal-e-865225135/,manal-e-865225135,,F
+318,EAUADEN ,Alaeddine,-,opérateur,Bac,0,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/eauaden-alaeddine-67b38113a/,eauaden-alaeddine-67b38113a,,M
+319,EDDAHISS,Assia ,Génie Mecanique,concepteur/ dessinateur,Bac+5,5,1 an,1.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/assia-eddahiss-16b573221/,assia-eddahiss-16b573221,,F
+320,EDDAKICHE,Houda, Ingénieure En Procédés Et Génie Chimique,ingénieur process,Bac+6,6,1 an,1.0,Fes,,,,,,,,,,,F
+321,EDDAMOUN,Ouafaa ,-,opérateur,Bac,0,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ouafaa-eddamoun-6810261b9/,ouafaa-eddamoun-6810261b9,,F
+322,EDOUIBI,Kaouthar,Développement Multimédia,technicien spécialisé,bac+2,2,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,F
+323,EL AARSAOUI,Mohamed,Automatisation Et Instrumentation Industrielle,technicien spécialisé,Bac+2,2,1 mois,0.08333333333333333,ES SEMARA,,,,,,,Linkedin + CV,,,,M
+324,EL ABBAOUI,Inssaf,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,2 mois,0.1666666666666667,Tanger ,,,,,,,Linkedin + CV,,,,F
+325,EL ABBOUS,Bilal,Génie Énérgétique Et Environnement Industriel,ingénieur industriel,Bac+5,5,5ans,5.0,Casablanca,,,,,,1.0,cv,,,,M
+326,EL ABBOUTI,Youssef,Économie / Gestion,économie / gestion,Bac+3,3,3 ans,3.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+327,EL ABBOUTI,Youssef ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 mois,0.3333333333333333,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-el-abbouti-747596238/,youssef-el-abbouti-747596238,,M
+328,EL ABDALI,Imad,Ingénieur des procédès,ingénieur process,Bac+5,5,1 an,1.0,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+329,EL ABDELLAOUI,Abdeljabbar ,génie des matériaux ,ingénieu qualité,Bac+5,5,10 mois,0.8333333333333334,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdeljabbar-el-abdellaoui-633263223/,abdeljabbar-el-abdellaoui-633263223,,M
+330,EL ABDI,Abdelbaki ,Génie Mecanique,chargé de développement,Bac+5,5,3 ans,3.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/abdelbaki-el-abdi-663774203/,abdelbaki-el-abdi-663774203,,M
+331,EL ABED,Mustapha,Éléctromécanique Des Systèmes Automatisées,technicien spécialisé,Bac+4,4,2 mois,0.1666666666666667,Taza,,,,,,,cv Architecte automobile,,,,M
+332,EL AIMCHI,Nabil,Ingénieur Industriel,ingénieur industriel,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/el-aimchi-nabil-1ba79b106/,el-aimchi-nabil-1ba79b106,,M
+333,EL AISSAOUI,Hamza ,Génie Mécanique,chargé de développement,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-el-aissaoui-68a135163/,hamza-el-aissaoui-68a135163,,M
+334,EL AISSAOUI,Achraf ,système éolien,technicien spécialisé,Bac+2,2,11 mois,0.9166666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/achraf-el-aissaoui/,achraf-el-aissaoui,,M
+335,EL AISSI,Abdelhak,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdelhak-el-aissi-b219b5160/,abdelhak-el-aissi-b219b5160,,M
+336,EL AKHAL,Mohamed,Éseaux Informatique,technicien spécialisé,Bac+2,2,-,0.0,Ksar El Kebir,,,,,,,cv Architecte automobile,,,,M
+337,EL AKHAL,Chaymae ,Management de qualité,ingénieur process,Bac+5,5,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chaymae-el-akhal-20a65b85/,chaymae-el-akhal-20a65b85,,F
+338,EL ALAOUI,Mohamed,Chef De Chantier,technicien spécialisé,Bac+4,4,17 ans,17.0,Berrechid,,,,,,,Linkedin + CV,,,,M
+339,EL ALAOUI,Farha,conception et industrialisaton des prdts,chargé de développement,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/el-alaoui-farha-499369177/,el-alaoui-farha-499369177,,F
+340,EL ALLAMI,Ismail,Peinture Automobile,technicien spécialisé,Bac+2,2,4 ans,4.0,Oujda,,,,,,,cv Concepteur H/F,,,,M
+341,EL AMRANI,Youssef ,Ingénieur Industriel,ingénieur process,Bac+8,8,4 ans,4.0,Tanger ,,,,,,,,,,,M
+342,EL AMRANI,El Bachir,génie electrique,chargé de développement,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/el-bachir-el-amrani-8a6140202/,el-bachir-el-amrani-8a6140202,,M
+343,EL ANDALOUSSI BENBRAHIM,Idriss ,logistique et achats,logistique,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/idriss-el-andaloussi/,idriss-el-andaloussi,,M
+344,EL ANSARI,Khaoula ,génie logiciel et systèmes informatiques,ingénieu qualité,Bac+5,5,6 ans,6.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/khaoula-el-ansari-85b434145/,khaoula-el-ansari-85b434145,,F
+345,EL AOUADI,Anass ,Génie Mecanique,ingénieur mécanique,Bac+5,5,7 ans,7.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/anass-el-aouadi-9b181687/,anass-el-aouadi-9b181687,,M
+346,EL ARRAKI,Youness ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,2 mois,0.1666666666666667,Beni Mellal,,,,,,,,,,,M
+347,EL ASRAOUI,Soufiane,Ingénieur R&D Automobile Et Aéronautique,ingénieur,Bac+5,5,5 ans,5.0,Casablanca,,,,,,1.0,cv,,,,M
+348,EL ASSADI,Meriem ,Génie des systèmes en management de la qualité,ingénieu qualité,Bac+5,5,7 mois,0.5833333333333334,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/meriem-el-assadi-633299168/,meriem-el-assadi-633299168,,F
+349,EL ATCHANI,Mohammed,Diagnostic Éléctronique,technicien spécialisé,Bac+2,2,8 mois,0.6666666666666666,Tanger,,,,,,,cv Architecte automobile,,,,M
+350,EL ATMANI,Mehdi,Ingénieur Industriel,ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,,,,,M
+351,EL ATTAR,Ibtisame ,Génie Eco-Énergétique et Environnement Industriel,ingénieur,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ibtisame-el-attar-26b0b91b5/,ibtisame-el-attar-26b0b91b5,,F
+352,EL AYACHI,Zakariae,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zakariae-el-ayachi-21475217b/,zakariae-el-ayachi-21475217b,,M
+353,EL AYADI,Mohammed ,Ingénieur Industriel,ingénieur process,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohammedelayadi1998/,mohammedelayadi1998,,M
+354,EL AZIZI,Houda ,génie electrique,ingénieur,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/houda-el-azizi-a571681b9/,houda-el-azizi-a571681b9,,F
+355,EL AZRAK,Ahmed,-,technicien spécialisé,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-el-azrak-654aa1271/,ahmed-el-azrak-654aa1271,,M
+356,EL BACHIRI,Khadija,Économie / Gestion,économie / gestion,Bac+3,3,8 mois,0.6666666666666666,Tanger,,,,,,,cv Concepteur H/F,,,,F
+357,EL BADRA,Smahan,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elbadrasmahan/,elbadrasmahan,,F
+358,EL BAGHAZAOUI,Otmane,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,El kelaa des sraghnas,,,,,,,Linkedin + CV,,,,M
+359,EL BAKALI,Kaoutar,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,-,0.0,Tanger ,,,,,,,,,,,F
+360,EL BAKKALI,Hajar ,génie des matériaux,ingénieu qualité,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-el-bakkali/,hajar-el-bakkali,,F
+361,El BAKKALI,Brahim ,Conception Du Produit Industriel,concepteur/ dessinateur,Bac+2,2,9 ans,9.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/brahim-el-bakkali-00b506171/,brahim-el-bakkali-00b506171,,M
+362,EL BAKKARI,Mohamed ,génie electrique,ingénieur,Bac+5,5,10 mois,0.8333333333333334,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-elbakkari/,mohamed-elbakkari,,M
+363,EL BAKKOURI,Nadia ,management des transports logistique,logistique,Bac+2,2,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nadia-el-bakkouri-8a997552/,nadia-el-bakkouri-8a997552,,F
+364,EL BAKKOURI,Nizar ,systemes electronique et automatique,ingénieur,Bac+5,5,11 mois,0.9166666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nizar-el-bakkouri/,nizar-el-bakkouri,,M
+365,EL BALBAL,El Mahdi,Mécanique,technicien,Niveau bac,0,6 mois,0.5,Tifelt,,,,,,,cv Concepteur H/F,,,,M
+366,EL BALDY,Hamza,Opérateur,opérateur,Bac+4,4,1 an,1.0,El Hajeb,,,,,,,cv Architecte automobile,,,,M
+367,EL BEJAUI AHMIMES,Mouhssine,Peintre En Carrosserie Automobile,technicien,Niveau bac+2,0,6 ans,6.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+368,EL BOHDIDI,Oumaima ,génie electrique,ingénieur,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/oumaima-el-bohdidi-582785189/,oumaima-el-bohdidi-582785189,,F
+369,EL BOUAMRI,Zoubair ,systemes electriques,ingénieur,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zoubair-el-bouamri-0a9494216/,zoubair-el-bouamri-0a9494216,,M
+370,EL BOUHALI,El Houssaine,transport et logistique,logistique,Bac+2,2,-,0.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+371,EL BOUNIA,Oumaima ,Économie / Finance / Gestion,économie / gestion,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/oumaima-el-bounia-41b747198/,oumaima-el-bounia-41b747198,,F
+372,EL BOURI,Ayoub ,-,opérateur,bac,0,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-el-bouri-243804247/,ayoub-el-bouri-243804247,4924d4a8-05d7-4e4b-9407-c0672c645fda,M
+373,EL BOUSAIDY,Mohammed ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-el-bousaidy-79ba6a1a7/,mohammed-el-bousaidy-79ba6a1a7,,M
+374,EL BOUZIDI,Oumayma ,-,logistique,Bac+3,3,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oumayma-el-bouzidi-b9344a164/,oumayma-el-bouzidi-b9344a164,,F
+375,EL BTIMI,Mohamed,Ingénieur Mécatronique,ingénieur process,Bac+5,5,2 ans,2.0,Tanger ,,,,,,,,,,,M
+376,EL FARIDI,Fatima Zahra,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,6 mois,0.5,Fes,,,,,,,,,,,F
+377,EL FECH,Marwa ,management des ressources humaines,chargé de développement,Bac+8,8,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/marwa-el-fech-08b43719a/,marwa-el-fech-08b43719a,,F
+378,EL FRAYJI,Achraf,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/achraf-el-frayji-86a081217/,achraf-el-frayji-86a081217,,M
+379,EL GANNOUNI,Ahlame,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ahlame-el-gannouni-099b3616a/,ahlame-el-gannouni-099b3616a,,F
+380,EL GHALI,Inass ,management des transports logistique,logistique,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/inasselghali/,inasselghali,,F
+381,EL GHALLALI,Alae ,Ingénieur Industriel,logistique,Bac+5,5,9 ans,9.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/alae-el-ghallali-799611180/,alae-el-ghallali-799611180,,M
+382,EL GHEMARY,Fatima zahra,Ingénieur Systèmes Embarqués,ingénieur mécanique,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-zahra-el-ghemary-83b625156/,fatima-zahra-el-ghemary-83b625156,,F
+383,EL GHOUAL,Hafsa ,Ingénieur Industriel,ingénieur process,Bac+5,5,3 ans,3.0,Tanger ,,,,,,,,,,,F
+384,EL GHRIBI,Soufiane,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,2 ans,2.0,-,,,,,,,,,,,M
+385,EL GHRIBI,Soufiane,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,11 mois,0.9166666666666666,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/el-ghribi-soufiane-188b71194/,el-ghribi-soufiane-188b71194,,M
+386,EL GOURJA,Sara ,Génie Mecanique,ingénieur mécanique,Bac+5,5,11 mois,0.9166666666666666,Agadir,,,,,,,Linkedin,https://www.linkedin.com/in/sara-el-gourja-6662a31b3/,sara-el-gourja-6662a31b3,,F
+387,EL GUANYARY,Yahya ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yahya-el-guanyary-8747611a2/,yahya-el-guanyary-8747611a2,,M
+388,EL H’SAINY,Aiman,Vendeur,économie / gestion,Bac+3,3,2 ans,2.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+389,EL HADDAD,Aicha ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,4 mois,0.3333333333333333,Tetouan,,,,,,,,,,,F
+390,EL HADI,Yassine ,génie electrique,ingénieur,Bac+5,5,5 mois,0.4166666666666667,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-el-hadi-58727b182/,yassine-el-hadi-58727b182,,M
+391,EL HADRAMY,Abdallahi,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,8 mois,0.6666666666666666,Tanger ,,,,,,,,,,,M
+392,EL HAIMER,Zakaria ,Génie Mecanique,ingénieur mécanique,Bac+5,5,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-el-haimer-43a759152/,zakaria-el-haimer-43a759152,,M
+393,EL HAJOUI,Marouane,Destinateur - Concepteur Mécanique,concepteur/ dessinateur,Bac+2,2,2 ans,2.0,Tanger ,,,1 mois,,,1.0,cv,,,,M
+394,EL HAKKOUNY,Ayyoub,Technicien De Méthodes De Fabrication Mécanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Tifelt,,,,,,,cv Architecte automobile,,,,M
+395,EL HAMDIA,Mohamed ,Génie Mecanique,concepteur/ dessinateur,Bac+5,5,6 ans,6.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-el-hamdia-2b2a11b9/,mohamed-el-hamdia-2b2a11b9,,M
+396,EL HAMRI EL MAHDAOUI,Salma ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 mois,0.3333333333333333,Ksar El Kebir,,,,,,,Linkedin,https://www.linkedin.com/in/salma-el-hamri-el-mahdaoui-b09ba4202/,salma-el-hamri-el-mahdaoui-b09ba4202,,F
+397,EL HANBALI,Ayoub ,Génie Mecanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-el-hanbali-39a688125/,ayoub-el-hanbali-39a688125,,M
+398,EL HANINE,Otman ,mécatronique,chargé de développement,Bac+3,3,3 ans,3.0,Berrechid,,,,,,,Linkedin,https://www.linkedin.com/in/otman-el-hanine-22a0151a3/,otman-el-hanine-22a0151a3,,M
+399,EL HAOUARI,Mohamed ,management des transports logistique,logistique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-el-haouari-3a2820155/,mohamed-el-haouari-3a2820155,,M
+400,EL HARRAK,Jaouad ,Ingénieur Industriel,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/jaouad-el-harrak-b93a1421a/,jaouad-el-harrak-b93a1421a,,M
+401,EL HARRAS,Mohamed ,banque et finance,chargé de développement,Bac+5,5,12 ans,12.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elharrasmohamed/,elharrasmohamed,,M
+402,EL HASSOUNI,Adnan,Réceptionniste,autres,Bac+3,3,2 ans,2.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+403,EL HESSENOUI,Nouhaila ,Gestion Des Entreprises,logistique,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nouhaila-el-hessenoui-5a0b73201/,nouhaila-el-hessenoui-5a0b73201,,F
+404,EL HIBA,Kaouthar ,génie electrique,ingénieur,Bac+5,5,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/kaouthar-el-hiba-a79b9a239/,kaouthar-el-hiba-a79b9a239,,F
+405,EL HILALI,Ismail ,energies renouvlables,chargé de développement,Bac+9,9,10 ans,10.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/ismailelhilali/,ismailelhilali,,M
+406,EL HILALI,Mohamed ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-el-hilali-7a6282ab/,mohamed-el-hilali-7a6282ab,,M
+407,EL HIMES,Imane ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/imane-el-himes-b65b15110/,imane-el-himes-b65b15110,,F
+408,EL HOR,Taghi Amine,management des ressources humaines,chargé de développement,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/taghi-amine-elhor/,taghi-amine-elhor,,M
+409,EL HOUTMI,Imane ,Ingénieur Industriel,chargé de développement,Bac+5,5,2 ans,2.0,Berrechid,,,,,,,Linkedin,https://www.linkedin.com/in/imane-el-houtmi-31879a1b0/,imane-el-houtmi-31879a1b0,,F
+410,EL IHYAOUI,Houdaifa ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/houdaifa-el-ihyaoui-7b2078155/,houdaifa-el-ihyaoui-7b2078155,,M
+411,EL IRAOUI,Saida ,génie des materiaux,ingénieur process,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/saida-el-iraoui-4b692b181/,saida-el-iraoui-4b692b181,,F
+412,EL ISSAOUI,Nossair ,management des transports logistique,logistique,Bac+5,5,3 mois,0.25,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/elissaoui/,elissaoui,,M
+413,EL JAADOUNI,Omar,Ingénieur Process,ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,1.0,cv,,,,M
+414,EL JABLI,Bilal ,énergies renouvlables,ingénieur,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/bilal-el-jabli-b54516157/,bilal-el-jabli-b54516157,,M
+415,EL JAMAOUI,Othmane,Génie Mécanique,ingénieur mécanique,Bac+5,5,-,0.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+416,EL JANATI,Salim,Génie des systèmes en management de la qualité,ingénieu qualité,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salim-el-janati-455459183/,salim-el-janati-455459183,,M
+417,EL JARJINI,Abdelkhaleq ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelkhaleq-el-jarjini/,abdelkhaleq-el-jarjini,,M
+418,EL JARRAY,Zineb,Génie Environnement,ingénieu qualité,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/el-jarray-zineb-3b683a159/,el-jarray-zineb-3b683a159,,F
+419,EL JEBARI,Yassin,Ingénieur Industriel,ingénieur industriel,Bac+5,5,11 mois,0.9166666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yassin-el-jebari-002546142/,yassin-el-jebari-002546142,,M
+420,EL KABIRI,Charaf,Mechanical Design Consultant,ingénieur mécanique,Bac+5,5,_,0.0,Casablanca,,,2 mois,,,1.0,,,,,M
+421,EL KACIMI,Mourad,Ingénieur En Génie Mécanique,ingénieur mécanique,Bac+8,8,2 ans,2.0,Salé-Rabat,,,,,,,cv Architecte automobile,,,,M
+422,EL KALAI,Houda,-,opérateur,bac,0,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/el-kalai-houda-085a221b5/,el-kalai-houda-085a221b5,c67d596b-fbb6-4932-bff4-8c6901fb8fe9,F
+423,EL KALLOUCHI,Said,Opérateur,opérateur,Bac+3,3,-,0.0,SIDI SLIMANE,,,,,,,cv Architecte automobile,,,,M
+424,EL KAZAL,Maria ,logistique et achats,logistique,Bac+5,5,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/maria-el-kazal-66617673/,maria-el-kazal-66617673,,F
+425,EL KHADIR,Omar,Ingénieur CAO,ingénieur,Bac+5,5,4 ans,4.0,Boulmane,,,,,,1.0,cv,,,,M
+426,EL KHADRAOUY,Abdel Fettah,génie electrique,ingénieur,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/abdel-fettah-el-khadraouy-32873a150/,abdel-fettah-el-khadraouy-32873a150,,M
+427,EL KHALDOUNI,Youssef ,Système Electronique,ingénieur process,Bac+9,9,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-el-khaldouni-214036185/,youssef-el-khaldouni-214036185,,M
+428,EL KHALOUFI,Abdelilah ,génie des materiaux,ingénieur process,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelilah-el-khaloufi-842504208/,abdelilah-el-khaloufi-842504208,,M
+429,EL KHAMMARI,Ibrahim ,génie electrique,ingénieur,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/ibrahim-el-khammari-b29305185/,ibrahim-el-khammari-b29305185,,M
+430,EL KHANCHAOUI,Ihssane ,management des transports logistique,logistique,Bac+5,5,7 mois,0.5833333333333334,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ihssane-el-khanchaoui-66002b215/,ihssane-el-khanchaoui-66002b215,,F
+431,EL KHANNOUSSI,Khadija,Génie Mécatronique,ingénieur mécanique,Bac+5,5,_,0.0,Tanger ,_,8500.0,_,,,1.0,cv,https://www.linkedin.com/in/abderrahmane-elrhazi-675ab4277/,abderrahmane-elrhazi-675ab4277,,F
+432,EL KHARRAZI,Fadwa ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 ans,3.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/fadwa-el-kharrazi-596aa419a/,fadwa-el-kharrazi-596aa419a,,F
+433,El KHRICHI,Oulaya ,Ingénieur Industriel,ingénieur process,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oulaya-el-khrichi-167100143/,oulaya-el-khrichi-167100143,,F
+434,EL MAHBOUB,Yasmine ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/yasmine-el-mahboub-426a77212/,yasmine-el-mahboub-426a77212,,F
+435,EL MANSOURI,Fatima Ezzahra,Ingénieur Mécatronique,ingénieur mécanique,Bac+6,6,1 an,1.0,meknes,,,,,,,Linkedin,https://www.linkedin.com/in/eddakiche-houda-b99758235/,eddakiche-houda-b99758235,,F
+436,EL MANSOURI,Tarik ,Génie des procédés industriels,ingénieur process,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/tarik-el-mansouri/,tarik-el-mansouri,,M
+437,EL MARSANY,Kamal ,Génie Mecanique,ingénieur mécanique,Bac+5,5,8 mois,0.6666666666666666,Tafilalet,,,,,,,Linkedin,https://www.linkedin.com/in/kamal-el-marsany-58b394104/,kamal-el-marsany-58b394104,,M
+438,EL MAZOUZI,Ihssane ,management approvisionnements et logistique,logistique,Bac+2,2,10 mois,0.8333333333333334,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ihssane-el-mazouzi-0766131a2/,ihssane-el-mazouzi-0766131a2,,F
+439,EL MENGOUG,Hajar ,génie electrique,ingénieur,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hajar-el-mengoug-b71b49161/,hajar-el-mengoug-b71b49161,,F
+440,EL MERRASSI,Weam ,génie electrique,ingénieur,Bac+5,5,2 ans,2.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/weam-el-merrassi-6a7849b7/,weam-el-merrassi-6a7849b7,,F
+441,EL METOUGHI,Hasnae ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,-,0.0,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/hiba-el-ouajdi-17555b1bb/,hiba-el-ouajdi-17555b1bb,,F
+442,EL M'KADEM,Oumaima,Génie Des Systèles Indus,ingénieur industriel,Bac+3,3,4 mois,0.3333333333333333,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/wiam-allame-60385718b/,wiam-allame-60385718b,,F
+443,EL MORABET,Fatima Zohra,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-zohra-el-morabet-2bb24a13a/,fatima-zohra-el-morabet-2bb24a13a,,F
+444,EL MOUADDAB,Sanae ,Génie Mecanique,chargé de développement,Bac+5,5,10 ans,10.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/sanae-el-mouaddab-4aa461116/,sanae-el-mouaddab-4aa461116,,F
+445,EL MOUJDI,Abdelaziz,Ingénierie Etmanagement De Innovation Technologique,ingénieur,Bac+5,5,5 ans,5.0,Casablanca,,,,,,1.0,cv,https://www.linkedin.com/in/atmani-mohamed-nour-483859277/,atmani-mohamed-nour-483859277,,M
+446,EL MOUMEN,Dina,Système Electronique,technicien spécialisé,Bac+2,2,4 mois,0.3333333333333333,Martil,,,,,,,cv Concepteur H/F,,,,F
+447,EL MOUSSAOUI,Chaimae,Département Bureau D’Étude,ingénieur,Bac+5,5,2 ans,2.0,Rabat,,,,,,,cv Concepteur H/F,,,,F
+448,EL MSIYAH,Ibtissam ,génie electrique,ingénieur,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ibtissam-elmsyah-/,ibtissam-elmsyah-,,F
+449,EL OIADOUDI,Hamza,science psychologique,autres,Bac+1,1,-,0.0,Taza,,,,,,,cv Architecte automobile,,,,M
+450,EL OUAJDI,Hiba,Ingénieur en Génie industriel,ingénieur industriel,Bac+5,5,4 mois,0.3333333333333333,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdellah-fadlaoui-059765231/,abdellah-fadlaoui-059765231,,F
+451,EL OUARDI,Nouhayla,Ingénieur En Conception Mécanique,ingénieur mécanique,Bac+5,5,1 ans,1.0,Fes,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/oumaima-layche-2b718a1a3/,oumaima-layche-2b718a1a3,,F
+452,EL OUARDI,Manal ,Ingénieur Industriel,ingénieur,Bac+5,5,1 an,1.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/manal-el-ouardi-b43027217/,manal-el-ouardi-b43027217,,F
+453,EL WAZZANI,Mohamed Said,management des transports logistique,logistique,Bac+4,4,2 ans,2.0,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-said-el-wazzani-920b79181/,mohamed-said-el-wazzani-920b79181,,M
+454,EL YAACOUBI,Karim ,Économie / Finance / Gestion,chargé de développement,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/karim-el-yaacoubi-53164017b/,karim-el-yaacoubi-53164017b,,M
+455,EL YAZIDI,Nadia,Gestion De Informatisée,économie / gestion,Bac+2,2,4 ans,4.0,Tanger,,,,,,,cv Concepteur H/F,,,,F
+456,EL YAZIZI,Driss ,génie des matériaux,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,,,,,M
+457,EL YAZYDY,Abdelmalik,Opérateur Polyvalent,opérateur,Bac,0,1 an,1.0,Kenitra,,,,,,,cv Architecte automobile,,,,M
+458,EL YEFRAHI,Mohamed ,maintenance des machines,technicien spécialisé,Bac+2,2,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-el-yefrahi-32a380150/,mohamed-el-yefrahi-32a380150,,M
+459,ELABID,Manana,,autres,bac,0,-,0.0,,,,,,,1.0,,,,,F
+460,ELABOUBI,Mohammed,Diagnostic Éléctronique,technicien spécialisé,Bac+2,2,2 mois,0.1666666666666667,Benslimane,,,,,,,cv Architecte automobile,,,,M
+461,ELAIDI,Rihab ,management des systemes d'information,ingénieur process,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/rihab-elaidi/,rihab-elaidi,,F
+462,ELALAOUI,Abdelhakim,Opérateur,opérateur,Bac,0,5 ans,5.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+463,EL-ANNAS,Soufiane,Réseaux Informatique,technicien spécialisé,Bac+4,4,3 ans,3.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+464,EL-ANNID,Hassan ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,23 ans,23.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hassan-el-annid-b7663897/,hassan-el-annid-b7663897,,M
+465,ELAOULI,Oussama ,-,logistique,bac,0,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oussama-elaouli-2559151a3/,oussama-elaouli-2559151a3,4da50c3e-85b3-4da1-962e-759bf37a0d60,M
+466,EL-AQRAA,Fedoua ,génie electrique,ingénieur,Bac+5,5,1 an,1.0,Meknès,,,,,,,Linkedin,https://www.linkedin.com/in/fedoua-el-aqraa-9766261b0/,fedoua-el-aqraa-9766261b0,,F
+467,ELARROUJI,Nidal,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nidal-elarrouji-067152199/,nidal-elarrouji-067152199,,F
+468,ELASRI,Rajaa,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 mois,0.3333333333333333,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/rajaa-elasri-732807252/,rajaa-elasri-732807252,,F
+469,ELATIRABBI,Meryem,Ingénieur Industriel,ingénieu qualité,Bac+6,6,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/meryem-elatirabbi-a5b388188/,meryem-elatirabbi-a5b388188,,F
+470,ELAZZOUZI,Narjiss ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,9 mois,0.75,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/al-aabdallaoui-yahya-4aa61a215/,al-aabdallaoui-yahya-4aa61a215,,F
+471,ELAZZOUZI,Mohamed ,mathematiques et informatique,opérateur,Bac+3,3,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-elazzouzi-623165248/,mohamed-elazzouzi-623165248,,M
+472,ELBÂAL,Soufiane ,Génie Mecanique,technicien spécialisé,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-elb%C3%A2al-857a9722b/,soufiane-elb%C3%A2al-857a9722b,,M
+473,EL-BAKKAL,Issam ,Ingénieur Industriel,chargé de développement,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/issam-el-bakkal-4627861a3/,issam-el-bakkal-4627861a3,,M
+474,ELBAKKALI,Chaymae,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,6 mois,0.5,Tanger,,,,,,,cv Concepteur H/F,,,,F
+475,ELBAKKOUCHI,Abderrahman ,mathematiques et informatique,chargé de développement,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahman-elbakkouchi-51501b126/,abderrahman-elbakkouchi-51501b126,,M
+476,ELBARKAOUI,Abderrahim ,génie des matériaux industriel,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahim-elbarkaoui-0327aa1a0/,abderrahim-elbarkaoui-0327aa1a0,,M
+477,ELBASRAOUI,Youssef ,système embarque,ingénieur,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-elbasraoui-6161551a0/,youssef-elbasraoui-6161551a0,,M
+478,ELBEKARY,Reda,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/reda-el-bekary/,reda-el-bekary,,M
+479,EL-BOUCHTI,Noufaila ,génie electrique,ingénieur,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/noufaila-el-bouchti-a596a3132/,noufaila-el-bouchti-a596a3132,,F
+480,EL-BOUZNANI,Ismail ,Ingénieur Systèmes Embarqués,ingénieur mécanique,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ismail-el-bouznani/,ismail-el-bouznani,,M
+481,ELEEMRANI,Rania ,electrique,chargé de développement,Bac+5,5,12 ans,12.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/rania-eleemrani-803176105/,rania-eleemrani-803176105,,F
+482,ELGALI,Aya,Ingénieure Industriel/Matériaux,ingénieur industriel,Bac+5,5,5 mois,0.4166666666666667,Tanger,,,,,,,cv Architecte automobile,,,,F
+483,ELGARNI,Taha,Bureau D'Étude En Automobile,technicien spécialisé,Bac+2,2,7 ans,7.0,Marrakech,,,,,,,cv,,,,M
+484,ELGHARBAOUI,Anass ,Génie Mecanique,concepteur/ dessinateur,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/anass-elgharbaoui-7a20671ba/,anass-elgharbaoui-7a20671ba,,M
+485,ELGHAZI ,Touhami,-,technicien spécialisé,Bac+3,3,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elghazi-touhami-720ab520b/,elghazi-touhami-720ab520b,,M
+486,ELGHAZLANI,Halima,Gestion /Économie,économie / gestion,Bac+3,3,1 an,1.0,Tanger ,,,,,,,Linkedin + CV,,,,F
+487,ELHADAF,Abdellah ,Ingénieur Industriel,ingénieur process,Bac+3,3,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdellah-elhadaf-3a2079b3/,abdellah-elhadaf-3a2079b3,,M
+488,ELHADIOUI,Abdessadek ,génie electrique,ingénieur,Bac+5,5,7 mois,0.5833333333333334,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdessadek-elhadioui/,abdessadek-elhadioui,,M
+489,ELHARKATY,Hamza ,Génie des procédés industriels,ingénieur process,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-elharkaty/,hamza-elharkaty,,M
+490,ELHEJBANI,Mohammed,Mechanical Engineer & Project,ingénieur mécanique,Bac+3,3,11 ans,11.0,Casablanca,,,,,,1.0,cv,https://www.linkedin.com/in/omaribnoussina/,omaribnoussina,,M
+491,ELHELLAOUI,Khalid ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,5 mois,0.4166666666666667,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/khalid-elhellaoui-604b19187/,khalid-elhellaoui-604b19187,,M
+492,ELHIMER,Inas ,Génie des procédés industriels,ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/azdine-kheyi-a617241a6/,azdine-kheyi-a617241a6,,F
+493,ELIDRISSI,Moulay Oussama,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,3 mois,0.25,Kenitra,,,,,,,cv Concepteur H/F,,,,M
+494,ELIDRISSI,Haitam ,management des transports logistique,logistique,Bac+3,3,2 ans,2.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/haitam-elidrissi-92b56b1a7/,haitam-elidrissi-92b56b1a7,,M
+495,ELKAOUNI,Youssef,Systéme Et Réseau Informtique,technicien spécialisé,Bac+2,2,2 mois,0.1666666666666667,Ksar El Kebir,,,,,,,cv Architecte automobile,,,,M
+496,ELKHETTABI,Yassine ,management de l'innovation technologique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-elkhettabi/,yassine-elkhettabi,,M
+497,El-Kouaze,Yassmine ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,7 mois,0.5833333333333334,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/imane-jariba-2a01a8176/,imane-jariba-2a01a8176,,M
+498,ELLOUZA,Anass,Technicien De Maintenance,technicien spécialisé,Bac+2,2,1 mois,0.08333333333333333,YOUSSOUFIA,,,,,,,cv Architecte automobile,,,,M
+499,ELMAACHI,Wassim,Ingénieur Industriel,ingénieu qualité,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elmaachi-wassim-4a67841b6/,elmaachi-wassim-4a67841b6,,M
+500,ELMAATAOUI,Souad ,Génie des procédés industriels,ingénieur process,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/souad-elmaataoui-7162901b3/,souad-elmaataoui-7162901b3,,F
+501,ELMALKI,Taoufik ,Génie des procédés industriels,ingénieur process,Bac+5,5,9 ans,9.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/taoufik-elmalki-b7839086/,taoufik-elmalki-b7839086,,M
+502,ELMAMOUNI ,ismail,management des transports logistique,logistique,Bac+3,3,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elmamouni-ismail-7148b382/,elmamouni-ismail-7148b382,,M
+503,ELMANSOURI ,Mouhsine,systemes electronique et automatique,ingénieur,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/elmansouri-mouhsine-9660ab193/,elmansouri-mouhsine-9660ab193,,M
+504,EL'MESAOURI,Kaoutar,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,8 mois,0.6666666666666666,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-touil-248300160/,soufiane-touil-248300160,,F
+505,ELMESSAOUDI,Sanae ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,-,0.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/sanae-elmessaoudi-24886a14a/,sanae-elmessaoudi-24886a14a,,F
+506,EL-MOUSLIFI,Nabil ,Économie / Finance / Gestion,logistique,Bac+3,3,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nabil-el-mouslifi-5b404360/,nabil-el-mouslifi-5b404360,,M
+507,ELOUAHIDI,Fatimazahra ,Économie / Finance / Gestion,économie / gestion,bac+2,2,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/fatimazahra-elouahidi-546bbb220/,fatimazahra-elouahidi-546bbb220,f93e184a-a11e-430d-a971-47fea5371aab,F
+508,EL-OUEDRHIRI,Said,Ingénieur Industriel,ingénieur industriel,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/said-el-ouedrhiri-aa2a71110/,said-el-ouedrhiri-aa2a71110,,M
+509,ELOUKAFI,Ichrak ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 mois,0.1666666666666667,Meknès,,,,,,,Linkedin,https://www.linkedin.com/in/ichrak-eloukafi-3681911a3/,ichrak-eloukafi-3681911a3,,F
+510,ELRHACHOUI,Ahlam ,génie logistique,logistique,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ahlam-elrhachoui-064345284/,ahlam-elrhachoui-064345284,,F
+511,ELRHAZI,Abderrahmane,Ingénieur en Génie industriel,ingénieur industriel,Bac+6,6,3 mois,0.25,Safi,,,,,,,Linkedin + CV,,,,M
+512,ELRHAZI,Anas ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,9 ans,9.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/anas-elrhazi-6b917489/,anas-elrhazi-6b917489,,M
+513,ELYOUBI,Meryem ,management des transports logistique,logistique,Bac+3,3,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/meryem-elyoubi-260b25177/,meryem-elyoubi-260b25177,,F
+514,EMBARY,Wail ,matière plastique et composite,concepteur/ dessinateur,Bac+2,2,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/wail-embary-784230194/,wail-embary-784230194,,M
+515,EN NIAJI,Salma,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/salma-en-niaji-91922418a/,salma-en-niaji-91922418a,,F
+516,ENNASSIRI,Fatima Zahra,Biotechnologie,ingénieu qualité,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-zahra-ennassiri/,fatima-zahra-ennassiri,,F
+517,EN-NEASSI,Bilal ,chimie appliquée environnement durable,ingénieu qualité,Bac+5,5,3 ans,3.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/bilal-en-neassi-a11191195/,bilal-en-neassi-a11191195,,M
+518,ENNOUINOU,Asmae ,Responsable d'exploitation logistique,logistique,Bac+2,2,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/asmae-ennouinou-8111b9142/,asmae-ennouinou-8111b9142,,F
+519,ER RAMI,Mustapha ,génie electrique,ingénieur,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/errami-mustapha/,errami-mustapha,,M
+520,ERRAHALI,Najwa,Génie Mécanique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Casablanca,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/el-ghribi-soufiane-188b71194/,el-ghribi-soufiane-188b71194,,F
+521,ERRAMI,Abdelhak ,Génie des procédés industriels,ingénieur process,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdelhak-errami-819a09a6/,abdelhak-errami-819a09a6,,M
+522,ERRAYAD,Hakime ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/yahya-ben-debba-4baa10199/,yahya-ben-debba-4baa10199,,F
+523,ERRIDHI ,Ayoub,Ingénieur Industriel,ingénieu qualité,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/erridhi-ayoub-125900179/,erridhi-ayoub-125900179,,M
+524,ER-ROKANY,Nouhaila ,management de la qualité,ingénieu qualité,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nouhaila-er-rokany/,nouhaila-er-rokany,,F
+525,ERROUH,Saloua ,Gestion Des Entreprises,technicien spécialisé,Bac+2,2,1 an,1.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/saloua-errouh-9253b11b9/,saloua-errouh-9253b11b9,,F
+526,ESSAÂDI,Rajae ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/rajae-essa%C3%A2di-b05638167/,rajae-essa%C3%A2di-b05638167,,F
+527,ESSADKI ,Zobida,Ingénieur Mécatronique,ingénieur process,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/essadki-zobida-7b0427134/,essadki-zobida-7b0427134,,F
+528,ESSAIDI,Oussama,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Bouznika,,,,,,,cv Architecte automobile,,,,M
+529,ESSALAMI,Mahmoud,Génie Mécanique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mahmoud-e-a22a68167/,mahmoud-e-a22a68167,,M
+530,ES-SALEMY,Mohammed,Génie des matériaux et contôle qualité,ingénieu qualité,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-es-salemy-304132152/,mohammed-es-salemy-304132152,,M
+531,ESSAMOUH,Saad,Génie Mécanique,concepteur/ dessinateur,Bac+4,4,1 an,1.0,Kenitra,,,,,,,Linkedin + CV,https://www.linkedin.com/in/abdelbari-zerrad-05a29a19b/,abdelbari-zerrad-05a29a19b,,M
+532,ESSARHANI,Soufiane,Bureau D'Études En Conception Industrielle,ingénieur industriel,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+533,ESSEBBAR,Saif Eddine,Génie Mécanique,ingénieur mécanique,Bac+5,5,-,0.0,Agadir,,,,,,,cv Concepteur H/F,,,,M
+534,ES-SOBKI,Hamza,Génie Mécanique,ingénieur mécanique,Bac+2,2,1 an,1.0,El Hajeb,,,,,,,cv Concepteur H/F,,,,M
+535,ES-SOUSY,El Mostafa,génie electrique,chargé de développement,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/el-mostafa-es-sousy-01abab79/,el-mostafa-es-sousy-01abab79,,M
+536,ET -TAHERY,Laila ,habillement industrialisation ,technicien spécialisé,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/laila-et-tahery-b04389285/,laila-et-tahery-b04389285,,F
+537,ETHMANE,Mohamed Lemine,Génie Mecanique,ingénieur mécanique,Bac+5,5,11 mois,0.9166666666666666,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-lemine-ethmane-72a470208/,mohamed-lemine-ethmane-72a470208,,M
+538,ETTAHIJI,Aya ,Économie / Finance / Gestion,économie / gestion,Bac+2,2,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/aya-ettahiji-44926a248/,aya-ettahiji-44926a248,,F
+539,ETTAHYRY,Kaoutar,Gestion Des Entreprises,économie / gestion,bac+2,2,2 ans,2.0,Tanger,,,,,,,cv Architecte automobile,,,,F
+540,ETTANOUNI,Mohamed,Logistique,logistique,Bac+2,2,-,0.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+541,ETTAZROUTI,Lamiae ,génie electrique,ingénieur,Bac+5,5,3 ans,3.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/lamiae-ettazrouti-28b951165/,lamiae-ettazrouti-28b951165,,F
+542,ETTIWALI ,Driss,droit,logistique,Bac+3,3,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ettiwali-driss-118515193/,ettiwali-driss-118515193,,M
+543,ETTOUHAMI,Ilyas,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,3 mois,0.25,Kenitra,,,,,,,,,,,M
+544,ETTOUHAMI,Ilyas ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,-,0.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/ilyas-ettouhami-0b10a0278/,ilyas-ettouhami-0b10a0278,,M
+545,EZ ZEKKARI,Hakima ,electronique embarquee ,ingénieu qualité,Bac+8,8,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/hakima-ez-zekkari-9254901b8/,hakima-ez-zekkari-9254901b8,,F
+546,EZBAKHE,Ayman ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ayman-ezbakhe-90a379261/,ayman-ezbakhe-90a379261,,M
+547,EZBAKHE,Omar ,génie electrique,ingénieur,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,linkedin.com/in/omar-ezbakhe-047234187/,linkedin.cominomar-ezbakhe-047234187,,M
+548,EZZAHI,Moad,Technicien Spécialisé En Bureau D’Études De Construction Métallique,technicien spécialisé,Bac+2,2,5 ans,5.0,Settat,,,,,,,cv Concepteur H/F,,,,M
+549,EZZAOUI,Mehdi ,electronique,ingénieur,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-ezzaoui-4a700b193/,mehdi-ezzaoui-4a700b193,,M
+550,EZZIYATI,Hamza ,Diagnostic Automobile ,technicien spécialisé,Bac+2,2,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-ezziyati-436b74195/,hamza-ezziyati-436b74195,,M
+551,FADAOUI,Rajae,Gestion /Économie,économie / gestion,Bac+3,3,5 ans,5.0,Casablanca,,,,,,,Linkedin + CV,https://www.linkedin.com/in/moad-mansouri-75082216b/,moad-mansouri-75082216b,,F
+552,FADIL,Bader,Technicien Mecanique Automobile,concepteur/ dessinateur,Bac+4,4,1 an,1.0,LAAYOUNE,,,,,,,cv Architecte automobile,,,,M
+553,FADLAOUI,Abdellah,Ingénieur en Génie mécatronique,ingénieur mécanique,Bac+5,5,11 mois,0.9166666666666666,Beni Mellal,,,,,,,,,,,M
+554,FAHLAOUI,Abderrahim,Opérateur,opérateur,Bac+1,1,-,0.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+555,FAIROUZ,Fatima ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,9 mois,0.75,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-fairouz/,fatima-fairouz,,F
+556,FAKIHI,Yassine ,Ingénieur Mécatronique,ingénieur process,Bac+5,5,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mourad-tallal-901ba3292/,mourad-tallal-901ba3292,,M
+557,FALAH,Youness,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 mois,0.08333333333333333,khouribga,,,,,,,Linkedin + CV,https://www.linkedin.com/in/salah-eddine-loukili-40341420/,salah-eddine-loukili-40341420,,M
+558,FANGOUR,Hatim,Développement Systèmes Embarqués,ingénieur,Bac+5,5,1 ans,1.0,Taza,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/hasnae-el-metoughi-471799286/,hasnae-el-metoughi-471799286,,M
+559,FARARE ,Hamza,methodes de fabrication mecanique,chargé de développement,Bac+2,2,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/farare-hamza-36556a156/,farare-hamza-36556a156,,M
+560,FARCHI,Mohamed ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-farchi-2b439a223/,mohamed-farchi-2b439a223,,M
+561,FARID,Saad,Concepteur CAO,concepteur/ dessinateur,Bac+2,2,5 ans,5.0,Casablanca,,,1 mois,,,1.0,Linkedin,https://www.linkedin.com/in/aicha-mhassani-723461200/,aicha-mhassani-723461200,,M
+562,FARTMIS,Faouzi ,arts des fibres ,ingénieu qualité,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/faouzi-fartmis-377532140/,faouzi-fartmis-377532140,,M
+563,FASSIH,Zakaria ,management public et GRH,chargé de développement,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zakariafassih/,zakariafassih,,M
+564,FATHI,Adil,Automatisation Et Instrumentation Industrielle,technicien spécialisé,Bac+2,2,1 mois,0.08333333333333333,khouribga,,,,,,,Linkedin + CV,https://www.linkedin.com/in/aymane-amalaoui/,aymane-amalaoui,,M
+565,FATIHI,Karim ,logistique et achats,logistique,Bac+5,5,15 ans,15.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/karim-fatihi-038baa116/,karim-fatihi-038baa116,,M
+566,FATIHI,Imane ,Génie des procédés industriels,ingénieur process,Bac+5,5,1 an,1.0,Khouribga,,,,,,,Linkedin,https://www.linkedin.com/in/imane-fatihi/,imane-fatihi,,F
+567,FATOUAKI,Khalid ,Génie des procédés industriels,ingénieur process,Bac+5,5,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khalid-fatouaki-51252835/,khalid-fatouaki-51252835,,M
+568,FAZAZI MCHACHTI,Mohammed,Technicien De Maintenance,technicien spécialisé,Bac+4,4,10 ans,10.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+569,FELLOUS,Hicham ,génie des materiaux,concepteur/ dessinateur,Bac+2,2,11 ans,11.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hicham-fellous/,hicham-fellous,,M
+570,FERAH,Hamid ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hamid-ferah-ing-53a444b6/,hamid-ferah-ing-53a444b6,,M
+571,FERHAT,Abdelilah ,bureau d etude des methodes,technicien spécialisé,Bac+2,2,10 ans,10.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/abdelilah-ferhat-76380513a/,abdelilah-ferhat-76380513a,,M
+572,FERMAK ,Nawal ,génie des systemes electriques,ingénieur,Bac+5,5,3 ans,3.0,Ouarzazate,,,,,,,Linkedin,https://www.linkedin.com/in/nawal-fermak-%D9%81%D8%B1%D9%85%D8%A7%D9%82-45b426160/,nawal-fermak-%D9%81%D8%B1%D9%85%D8%A7%D9%82-45b426160,,F
+573,FILALI,Mohamed,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+574,FONTIS,Ikram ,Ingénieur Industriel,technicien spécialisé,Bac+3,3,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ikram-fontis-36b050188/,ikram-fontis-36b050188,,F
+575,FOUHAMY,Chaimae ,management des transports logistique,logistique,Bac+3,3,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chaimae-fouhamy-94289b1b7/,chaimae-fouhamy-94289b1b7,,F
+576,GALLOUH,Abderahmane,Marketing Digital,économie / gestion,Bac+2,2,3 ans,3.0,Tetouan,,,,,,,cv Architecte automobile,,,,M
+577,GAOUZI,Mohamed,Technicien Supérieur En Conception Du Produit Industriel,technicien spécialisé,Bac+2,2,5 ans,5.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+578,GARTITE,Zineb ,Ingénieur Industriel,ingénieur,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-gartite-616657168/,zineb-gartite-616657168,,F
+579,GASMAOUI,Morad ,Génie Mecanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/morad-gasmaoui-5487b5b4/,morad-gasmaoui-5487b5b4,,M
+580,GHAILANI,Ilias,Ingénieur Industriel,technicien spécialisé,Bac+3,3,6 ans,6.0,Tanger,,,,,,,cv,,,,M
+581,GHAZAL,Mohcine ,Génie Mecanique,concepteur/ dessinateur,Bac+3,3,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohcine-ghazal-3a982219b/,mohcine-ghazal-3a982219b,,M
+582,GHAZALI,Sara ,Ingénieur Industriel,ingénieur process,Bac+9,9,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/sara-ghazali-16975a134/,sara-ghazali-16975a134,,F
+583,GHAZI,Fatima Ezzahra,energies et environnement,chargé de développement,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ghazi-fatima-ezzahra/,ghazi-fatima-ezzahra,,F
+584,GHIATI,Mohamed ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-ghiati-841871127/,mohamed-ghiati-841871127,,M
+585,GHIOUT,Sarah ,génie electrique,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/sarah-ghiout-486014200/?originalSubdomain=ma,sarah-ghiout-486014200?originalSubdomain=ma,,F
+586,GHONAMI,Fatima Ez-Zahraa,electrotechnique,chargé de développement,Bac+5,5,6 ans,6.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/firdaouss-daaouan-657087225/,firdaouss-daaouan-657087225,,F
+587,GHONAMI,Fatima Ez-Zahraa,electronique electrotechnique,chargé de développement,Bac+5,5,6 ans,6.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-ez-zahraa-ghonami-8464ab140/,fatima-ez-zahraa-ghonami-8464ab140,,F
+588,GHOUMARI,Nadia,Ingénieur Industriel,ingénieur process,Bac+3,3,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/khadija-bouziyane-404b21227/,khadija-bouziyane-404b21227,,F
+589,GIRI,Ahmed ,systemes electronique et automatique,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-giri-b78957193/,ahmed-giri-b78957193,,M
+590,GNAOUAT,Amine ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/amine-gnaouat-9b87a418a/,amine-gnaouat-9b87a418a,,M
+591,GOUALI,Hicham,Développement Multimédia,technicien spécialisé,Bac+4,4,2 ans,2.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+592,GOUALI,Soufiane ,Ingénieur Industriel,ingénieur,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-gouali-ba95996a/,soufiane-gouali-ba95996a,,M
+593,GRAICHI,Adam,Gestion Des Entreprises,économie / gestion,Bac+2,2,8 ans,8.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+594,GUARMOUCH,Amine ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 mois,0.08333333333333333,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/amine-guarmouch-58b565202/,amine-guarmouch-58b565202,,M
+595,GUENNOUNI,Meryem ,Génie Mecanique,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/meryem-guennouni-6162b818a/,meryem-guennouni-6162b818a,,F
+596,GUEYE,Mouhamed,Génie Civil,ingénieur,Bac+3,3,3 mois,0.25,-,,,,,,,Linkedin + CV,https://www.linkedin.com/in/latifa-yerrou-bab547236/,latifa-yerrou-bab547236,,M
+597,H.,Oumayma ,management des systemes d'information,ingénieur process,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/oumayma-had/,oumayma-had,,F
+598,H’MAMI,Zaid,Gestion Des Entreprises,économie / gestion,Bac+3,3,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+599,HACHIMI,Fatima-Zahra,génie des matériaux qualité,ingénieu qualité,Bac+5,5,6 ans,6.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-zahra-hachimi-420099154/,fatima-zahra-hachimi-420099154,,F
+600,HADDAD,Kawtar ,Système aeronautique,ingénieur process,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/kawtar-haddad-68878818a/,kawtar-haddad-68878818a,,F
+601,HADDAOUI,Aymen ,productique mécatronique,ingénieur mécanique,Bac+6,6,7 mois,0.5833333333333334,Beni Mellal,,,,,,,Linkedin,https://www.linkedin.com/in/lachhab-akram/,lachhab-akram,,M
+602,HADDAQ,Mouhssine ,génie electrique,ingénieur,Bac+5,5,11 mois,0.9166666666666666,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mouhssine-haddaq-6b1b5a226/,mouhssine-haddaq-6b1b5a226,,M
+603,HADDOU,Mehdi ,management des ressources humaines,chargé de développement,Bac+5,5,9 mois,0.75,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-haddou-8a732a209/,mehdi-haddou-8a732a209,,M
+604,HADDOUCHE,Youssef ,Génie aérautique,chargé de développement,Bac+5,5,3 ans,3.0,Berrechid,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-haddouche-8baab4182/,youssef-haddouche-8baab4182,,M
+605,HADRI,Ossama ,génie electronique ,ingénieur,Bac+5,5,7 mois,0.5833333333333334,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/ossama-hadri-1312a423a/,ossama-hadri-1312a423a,,M
+606,HAFIDI,Amine,Chargé De Projet,ingénieur industriel,Bac+5,5,4ans,4.0,Mohammedia,11000,12000.0,1 mois,,,1.0,cv,https://www.linkedin.com/in/aicha-el-haddad-975377255/,aicha-el-haddad-975377255,,M
+607,HAIDA,Hind ,génie electrique,ingénieur,Bac+5,5,9 mois,0.75,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/hind-haida-b543891ba/,hind-haida-b543891ba,,F
+608,HAITACHE,Soulaimane ,Économie / Finance / Gestion,logistique,Bac+3,3,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/soulaimane-haitache-07b54822a/,soulaimane-haitache-07b54822a,,M
+609,HAITAK,Meriem,management des ressources humaines,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/meriem-haitak-45956b1b8/,meriem-haitak-45956b1b8,,F
+610,HAJJANI,Islam ,Ingénieur Industriel,ingénieur process,Bac+5,5,7 ans,7.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/el-hadramy-abdallahi-10b520140/,el-hadramy-abdallahi-10b520140,,F
+611,HAJJI,Zakaria ,Ingénieur Industriel,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/said-majdouli-aa6724224/,said-majdouli-aa6724224,,M
+612,HAJJI,Ayoub ,génie electrique,ingénieur,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-hajji-ensem/,ayoub-hajji-ensem,,M
+613,HAJRAOUI,Manal ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-larbi-dahdah-655567202/,mohamed-larbi-dahdah-655567202,,F
+614,HAJRAOUI,Manal ,-,chargé de développement,Bac+5,5,2 ans,2.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/manal-hajraoui-51594a1a2/,manal-hajraoui-51594a1a2,,F
+615,Halhoul,Abdelhafid ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelhafid-halhoul-553195203/,abdelhafid-halhoul-553195203,,M
+616,HAMAOUI,Zouhir ,maintenance ,technicien spécialisé,Bac+2,2,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zouhir-hamaoui/,zouhir-hamaoui,,M
+617,HAMCHAOUI,Mohamed,Concepteur Et Dessinateur Mécanique,concepteur/ dessinateur,Bac+3,3,1 an,1.0,Mohammedia,,,,,,1.0,cv Concepteur H/F,,,,M
+618,HAMDI,Salima ,Économie / Finance / Gestion,logistique,Bac+5,5,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salima-hamdi-872a6162/,salima-hamdi-872a6162,,F
+619,HAMMI,Asmaa,Économie / Finance / Gestion,économie / gestion,Bac+3,3,6 mois,0.5,Safi,,,,,,,Linkedin,https://www.linkedin.com/in/asmaa-hammi-365b24246/,asmaa-hammi-365b24246,,F
+620,HAMMOUCH,Amina ,génie electrique,chargé de développement,Bac+5,5,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/amina-hammouch-junior-electrique/,amina-hammouch-junior-electrique,,F
+621,HAMMOUNI,Youssef ,génie en automatisme,ingénieur,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-hammouni-588349168/,youssef-hammouni-588349168,,M
+622,HAMOUCHI,Hamid ,génie electrique,ingénieur,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hamid-hamouchi/,hamid-hamouchi,,M
+623,HAMOUZI,Reda,Concepteur CAO,concepteur/ dessinateur,Bac+5,5,3 ans,3.0,Casablanca,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/amina-tabich-165650178/,amina-tabich-165650178,,M
+624,HAMOUZI ,Reda,-,chargé de développement,bac+5,5,8 ans,8.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hamouzi-reda-012bb4120/,hamouzi-reda-012bb4120,4a8b3467-f47b-4d42-9a4a-1d140cd37852,M
+625,HAMR-ERRAS,Anouar,Aide Commerçant.,économie / gestion,Bac,0,4 ans,4.0,Taounate,,,,,,,cv Concepteur H/F,,,,M
+626,HAMZA,Anouar,Génie des procédés industriels,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/khadija-chouairi-loumou-971546171/,khadija-chouairi-loumou-971546171,,M
+627,HAMZANE,Anas ,sciences de gestion,chargé de développement,Bac+9,9,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/anas-hamzane-00bb68221/,anas-hamzane-00bb68221,,M
+628,HANAFI,Anass ,génie electrique,ingénieur,Bac+5,5,3 ans,3.0,France,,,,,,,Linkedin,https://www.linkedin.com/in/anass-hanafi-785430195/,anass-hanafi-785430195,,M
+629,HANNOU,Hafid ,Gestion Des Entreprises,logistique,Bac+4,4,19 ans,19.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hafid-hannou-727b06125/,hafid-hannou-727b06125,,M
+630,HARMOUCHE,Mohamed,Ingénieur Industriel,ingénieur industriel,Bac+5,5,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamedharmouche/,mohamedharmouche,,M
+631,HARRAK SRIFI,Moussab , Ingénieur en Génie des Systèmes Industriels,ingénieur industriel,Bac+5,5,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/moussab-harrak-srifi-77a25647/,moussab-harrak-srifi-77a25647,,M
+632,HARRAS,Abderrahman ,logistique et achats,logistique,Bac+5,5,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahman-harras-213395140/,abderrahman-harras-213395140,,M
+633,HARRIZI,Youssef,Conception,concepteur/ dessinateur,Bac+2,2,7 ans,7.0,Emirate Arabe Unis,,,,,,,Linkedin + CV,https://www.linkedin.com/in/abdelilah-lafrouji-4326b1282/,abdelilah-lafrouji-4326b1282,,M
+634,HAZIB,Ibrahim,Interior Equipment Designer,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger ,10000,13000.0,2 mois,,,1.0,cv,https://www.linkedin.com/in/yassmine-el-kouaze-702086225/,yassmine-el-kouaze-702086225,,M
+635,HAZZAZ,Mehdi ,management des ressources humaines,chargé de développement,Bac+5,5,5 ans,5.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-hazzaz-8b7833b2/,mehdi-hazzaz-8b7833b2,,M
+636,HECHOUR,Hanane,Économie / Finance / Gestion,économie / gestion,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hanane-hechour/,hanane-hechour,,F
+637,HETTITI,Youssra ,Économie / Finance / Gestion,économie / gestion,Bac+5,5,4 mois,0.3333333333333333,Berkane,,,,,,,Linkedin,https://www.linkedin.com/in/youssra-hettiti-495879217/,youssra-hettiti-495879217,,F
+638,HILALI,Youssef ,management des ressources humaines,chargé de développement,Bac+5,5,15 ans,15.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-hilali-914640157/,youssef-hilali-914640157,,M
+639,HILASS,Hanane ,-,ingénieur process,Bac+6,6,7 mois,0.5833333333333334,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/hanane-hilass/,hanane-hilass,,F
+640,HJJOUJI,Zouhair,Opérateur,opérateur,Bac+1,1,2 ans,2.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+641,HMIMIS,Marouane,Ingénieur Automobile Et Aéronautique,technicien spécialisé,Bac+3,3,9 mois,0.75,Casablanca,,,,,,,Linkedin + CV,https://www.linkedin.com/in/salma-slimi-2634761ab/,salma-slimi-2634761ab,,M
+642,HMITO,Hiba ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hiba-hmito-582730141/,hiba-hmito-582730141,,F
+643,HNINE,Manal ,Ingénieur Industriel,ingénieur process,Bac+5,5,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/manal-hnine-862817b4/,manal-hnine-862817b4,,F
+644,HOUARI,Manale ,management de la qualité,ingénieu qualité,Bac+5,5,4 ans,4.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/manale-houari-40b62215a/,manale-houari-40b62215a,,F
+645,HOURIR,Latifa,Assistant Comptable,économie / gestion,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,F
+646,HSANOU,Oussama ,Conception Mécanique Et Innovation,concepteur/ dessinateur,Bac+2,2,1 mois,0.08333333333333333,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/oussama-hsanou-02383a1a5/,oussama-hsanou-02383a1a5,,M
+647,IBN EL HAJ,Mohammed ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-ibn-el-haj-772b85167/,mohammed-ibn-el-haj-772b85167,,M
+648,IBNOUSSINA,Omar,management et pilotage des systèmes industriels,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger ,,,,,,,,,,,M
+649,IBRAHIMI,Salim ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/salim-ibrahimi-41ba20212/,salim-ibrahimi-41ba20212,,M
+650,IDALI,Mariam ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mariam-idali-a13a7616b/,mariam-idali-a13a7616b,,F
+651,IDIL,Mohamed ,Ingénieur en Electricité et Industrie,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-azaouy-950155228/,mohamed-azaouy-950155228,,M
+652,IDIR,Soukayna ,Management de qualité,ingénieu qualité,Bac+5,5,10 mois,0.8333333333333334,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/soukayna-idir-a73848234/,soukayna-idir-a73848234,,F
+653,IDOUBIR,Yassir ,Génie Mecanique,ingénieur mécanique,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/yassir-idoubir-a148621ba/,yassir-idoubir-a148621ba,,M
+654,IDRISSI,Hakim ,Ingénieur Industriel,technicien spécialisé,Bac+3,3,5 ans,5.0,Safi,,,,,,,Linkedin,https://www.linkedin.com/in/hakim-idrissi-892b0617a/,hakim-idrissi-892b0617a,,M
+655,IDRISSI KAITOUNI,Zineb,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-idrissi-kaitouni-121413189/,zineb-idrissi-kaitouni-121413189,,F
+656,IKASSRIEN,Oualid,Opérateur,opérateur,Bac+3,3,8 mois,0.6666666666666666,Tanger,,,,,,,cv Architecte automobile,,,,M
+657,ISAAD,Oussama,Diagnostic Automobile Et Électronique Embarquée,technicien spécialisé,Bac+2,2,1 an,1.0,Mohammedia,,,,,,,cv Architecte automobile,,,,M
+658,JAADI,Saad ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/saad-jaadi-b44b1ba6/,saad-jaadi-b44b1ba6,,M
+659,JABBARI,Yacine ,management approvisionnements et logistique,logistique,Bac+3,3,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yacine-jabbari-574251189/,yacine-jabbari-574251189,,M
+660,JALIDI,El amine,management des transports logistique,logistique,Bac+3,3,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/el-amine-jalidi-ba662b175/,el-amine-jalidi-ba662b175,,M
+661,JAMAL,Maryame ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,7 mois,0.5833333333333334,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/maryame-jamal-992085291/,maryame-jamal-992085291,,F
+662,JANAT,Hamza,Mécanique Automobile,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Mechraa Belksiri,,,,,,,cv Architecte automobile,,,,M
+663,JANBOUBI,Jamila ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,10 mois,0.8333333333333334,Agadir,,,,,,,Linkedin,https://www.linkedin.com/in/jamila-janboubi-530943261/,jamila-janboubi-530943261,,F
+664,JAOUHARI,Mariam ,Génie Mécanique,chargé de développement,Bac+5,5,8 ans,8.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/mariam-jaouhari/,mariam-jaouhari,,F
+665,JARIBA,Imane,Ingénieur en Génie industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,,,,,F
+666,JBILAT ,Khadija,génie des matériaux,ingénieu qualité,Bac+5,5,2 ans,2.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/jbilat-khadija-91a65020a/,jbilat-khadija-91a65020a,,F
+667,JCHIRI,Ismail ,management de  production,logistique,Bac+6,6,13 ans,13.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ismail-jchiri-ab0444172/,ismail-jchiri-ab0444172,,M
+668,JEBARI,Manal ,Exploitation Logistique,logistique,Bac+4,4,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/manal-jebari-5277871ba/,manal-jebari-5277871ba,,F
+669,JERRARI,Achraf,Déssinateur De Batimant,technicien spécialisé,Bac+2,2,-,0.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+670,JGHAIMI,Asma ,management des ressources humaines,chargé de développement,Bac+5,5,2 ans,2.0,Agadir,,,,,,,Linkedin,https://www.linkedin.com/in/asma-jghaimi-a15716197/,asma-jghaimi-a15716197,,F
+671,JLIH,Aicha ,génie electrique,ingénieu qualité,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/aicha-jlih-8b8535169/,aicha-jlih-8b8535169,,F
+672,JOUALI,Adam ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/adam-jouali-4758b2153/,adam-jouali-4758b2153,,M
+673,JOUALLA,Bahiya ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,8 mois,0.6666666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/bahiya-joualla-394658291/,bahiya-joualla-394658291,,F
+674,JOUHAINI,Mohammed Amine,"manageme,ent et négociation",logistique,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-amine-jouhaini-8b249a115/,mohammed-amine-jouhaini-8b249a115,,M
+675,JOUI,Sana ,génie electrique,ingénieur,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/sana-joui-35017a15b/,sana-joui-35017a15b,,F
+676,JRYDA ,Marouan,maintenance,technicien spécialisé,Bac+2,2,15 ans,15.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/jryda-marouan-ba7960142/,jryda-marouan-ba7960142,,M
+677,JYA,Mohammed ,Ingénieur Industriel,chargé de développement,Bac+6,6,4 ans,4.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-jya-a4262710b/,mohammed-jya-a4262710b,,M
+678,K.,Mohcine ,Ingénieur Industriel,ingénieur process,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mohcine-k-a865b11ab/,mohcine-k-a865b11ab,,M
+679,KABBOURI,Ikram,Ingénieur Mécanique,ingénieur mécanique,Bac+5,5,4 ans,4.0,Tanger ,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/mohammed-zirar-a89556243/,mohammed-zirar-a89556243,,F
+680,KABIRI,Mouhcine ,systemes automobiles,concepteur/ dessinateur,Bac+3,3,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mouhcine-kabiri-27a371188/,mouhcine-kabiri-27a371188,,M
+681,KADIRI,Jamila,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/jamila-kadiri/,jamila-kadiri,,F
+682,KADOUANE,Said,Génie Mécanique,ingénieur mécanique,Bac+3,3,3 ans,3.0,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+683,KAMAL,Mohamed ,Génie Mecanique,concepteur/ dessinateur,Bac+3,3,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-kamal-a595b4173/,mohamed-kamal-a595b4173,,M
+684,KAMRANI,Khaoula ,-,ingénieur mécanique,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/khaoula-kamrani-b89754115/,khaoula-kamrani-b89754115,,F
+685,KANOUT,Ismail,Conception,concepteur/ dessinateur,Bac+5,5,2 ans,2.0,Casablanca,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/fatima-ezzahra-el-mansouri-91a097126/,fatima-ezzahra-el-mansouri-91a097126,,M
+686,KARIM,Mehdi ,management des ressources humaines,chargé de développement,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mehdikarim1/,mehdikarim1,,M
+687,KARKOURI,Fatimazahra ,génie electronique ,ingénieur,Bac+5,5,6 mois,0.5,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/fatimazahra-karkouri-736432234/,fatimazahra-karkouri-736432234,,F
+688,KASMI,Jabir ,management des ressources humaines,opérateur,Bac+1,1,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/jabeereel/,jabeereel,,M
+689,KATTAF,Zakariae,Réparation Des Engins À Moteur,technicien spécialisé,Bac+2,2,4 ans,4.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+690,KBIRI,Safae Alaoui,Génie des procédés industriels,ingénieur process,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/safae-alaoui-kbiri-544903100/,safae-alaoui-kbiri-544903100,,F
+691,KHABBAZ,Ilham,Conceptrice Cao,concepteur/ dessinateur,Bac+5,5,3 ans,3.0,Tit Melil,,,,,,,cv Concepteur H/F,,,,F
+692,KHABIZ,Aimad ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/aimad-khabiz/,aimad-khabiz,,M
+693,KHADIOUI ,Khadija,administration des affaires,opérateur,Bac+5,5,6 ans,6.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/khadioui-khadija-65b40926a/,khadioui-khadija-65b40926a,,F
+694,KHADLAOUI,Mourad ,ingénieurie de la chime industrielle,ingénieu qualité,Bac+5,5,6 ans,6.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/mourad-khadlaoui-b68b02145/,mourad-khadlaoui-b68b02145,,M
+695,KHADRAOUI,Anass,Ingénieur Industriel,ingénieur industriel,Bac+5,5,8 mois,0.6666666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/anass-khadraoui-358b47213/,anass-khadraoui-358b47213,,M
+696,KHALIE ,Mohamed,génie electrique,ingénieur,Bac+3,3,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khalie-mohamed-52223b1bb/,khalie-mohamed-52223b1bb,,M
+697,KHARCHOUFA,Abderrahim,Gestion Des Entreprises,économie / gestion,Bac+1,1,7 ans,7.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+698,KHARRAZ,Anas,Ingénieur Industriel,ingénieur mécanique,Bac+5,5,7 ans,7.0,Mohammedia,,,,,,,cv,,,,M
+699,KHASSALI,Ezzouhra ,Management de qualité,ingénieu qualité,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ezzouhra-khassali-ab47b71aa/,ezzouhra-khassali-ab47b71aa,,F
+700,KHATTABI,Imad,génie des systèmes de télécommunication et réseaux,ingénieu qualité,Bac+5,5,8 ans,8.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/imad-khattabi-2428a668/,imad-khattabi-2428a668,,M
+701,KHAYRI,Hichame ,management des systemes d'information,ingénieu qualité,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hichame-khayri-9ba2b4137/,hichame-khayri-9ba2b4137,,M
+702,KHEYI,Azdine,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+4,4,4 ans,4.0,Tanger ,,,,,,,,,,,M
+703,KHOUCHA,Mohammed,Ingénieur Industriel,ingénieur process,Bac+5,5,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/youness-el-arraki-400368242/,youness-el-arraki-400368242,,M
+704,KIBOUCH,Mohcine ,Génie électromécanique,ingénieur mécanique,Bac+5,5,5 ans,5.0,Beni Mellal,,,,,,,Linkedin,https://www.linkedin.com/in/mohcine-kibouch-9a38a6139/,mohcine-kibouch-9a38a6139,,M
+705,KIFOUNI,Yousra ,Ingénieur Industriel,logistique,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yousra-kifouni-b42763145/,yousra-kifouni-b42763145,,F
+706,KOUIDRI,Hind ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,12 ans,12.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hind-kouidri-423199139/,hind-kouidri-423199139,,F
+707,KOUIZA,Fouad,Comptabilité De L’Entreprise,économie / gestion,Bac+2,2,4 ans,4.0,-,,,,,,,cv Concepteur H/F,,,,M
+708,Kounaidil,Ayoub ,Ingénieur Industriel,ingénieur process,Bac+5,5,12 ans,12.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-kounaidil-8a51a15a/,ayoub-kounaidil-8a51a15a,,M
+709,KOURCHAL,Fatima Ezzahraa,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-ezzahraa-kourchal-9a439a15a/,fatima-ezzahraa-kourchal-9a439a15a,,F
+710,KRAFESS,Omar ,Ingénieur Industriel,logistique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/omar-krafess/,omar-krafess,,M
+711,KRIOUCH,Badr ,electromecanique,technicien spécialisé,Bac+2,2,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/badr-kriouch-26b1a9166/,badr-kriouch-26b1a9166,,M
+712,LAABYECH,Soufiane ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,1 an,1.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-laabyech-0458a7194/,soufiane-laabyech-0458a7194,,M
+713,LAACHACH,Ibrahim ,Gestion Des Entreprises,technicien spécialisé,Bac+2,2,9 mois,0.75,fes,,,,,,,Linkedin,https://www.linkedin.com/in/ibrahim-laachach-a7212920a/,ibrahim-laachach-a7212920a,,M
+714,LAAROUSSI,Anass ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 mois,0.1666666666666667,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/anass-laaroussi-b05546a9/,anass-laaroussi-b05546a9,,M
+715,LABAIOUI,Mohamed ,Ingénieur Industriel,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-labaioui-127965202/,mohamed-labaioui-127965202,,M
+716,LABNINE,Oumaïma,Ingénieur Industriel,ingénieur industriel,Bac+5,5,11 mois,0.9166666666666666,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/oumaima-labnine/,oumaima-labnine,,F
+717,LABRIBRI,Salh Eddine,Construction Métallique,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+718,LACHHAB ,Akram,Automotive architecture engineer,ingénieur mécanique,Bac+5,5,8 ans,8.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/manal-hajraoui-51594a1a2/,manal-hajraoui-51594a1a2,,M
+719,LAFROUJI,Abdelilah ,Mécatronique,technicien spécialisé,Bac+2,2,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-laabyech-0458a7194/,soufiane-laabyech-0458a7194,,M
+720,LAGBOURI,Najat ,Économie / Finance / Gestion,économie / gestion,Bac+2,2,-,0.0,Safi,,,,,,,Linkedin,https://www.linkedin.com/in/najat-lagbouri-71307b155/,najat-lagbouri-71307b155,,F
+721,LAGHMICH,Youssef,Génie Mécanique,ingénieur mécanique,Bac+5,5,1 an,1.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+722,LAHBIRI,Mouhssin,Technicien En Fabrication Mécanique,technicien spécialisé,Bac+2,2,-,0.0,Salé,,,,,,,cv Concepteur H/F,,,,M
+723,LAHBOUB,Meryem,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,3 mois,0.25,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/manal-benkmil/,manal-benkmil,,F
+724,LAHLOU,Meryem,Gestion /Économie,économie / gestion,Bac+4,4,4 ans,4.0,Casablanca,,,,,,,Linkedin + CV,https://www.linkedin.com/in/yassine-chakkaf-a83631175/,yassine-chakkaf-a83631175,,F
+725,LAHMIDI,Anass,Opérateur,opérateur,Niveau bac+2,0,7 ans,7.0,Sefrou,,,,,,,Linkedin + CV,https://www.linkedin.com/in/narjiss-elazzouzi-6832ab173/,narjiss-elazzouzi-6832ab173,,M
+726,LAHNITI ,Elhassan,Ingénieur Industriel,logistique,Bac+7,7,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/lahniti-elhassan-a69481149/,lahniti-elhassan-a69481149,,M
+727,LAKHAL,Youssef ,Ingénieur Industriel,ingénieur process,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-lakhal-aa3368148/,youssef-lakhal-aa3368148,,M
+728,LAKHNATI,Rafiq,Contrôle Qualité Automobiles,technicien spécialisé,Bac+2,2,3 ans,3.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+729,LAKHOUIRATE,Anass ,systemes electronique embarques,chargé de développement,Bac+5,5,3 ans,3.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/anass-lakhouirate-47733a1a2/,anass-lakhouirate-47733a1a2,,M
+730,LAKHYARI,Mohamed,Chef De Projet / Ingénieur Qualité/Responsable Production,ingénieu qualité,Bac+7,7,20 ans,20.0,Casablanca,,,,,,1.0,cv,https://www.linkedin.com/in/badia-ben-abdellah-b387b31b9/,badia-ben-abdellah-b387b31b9,,M
+731,LAKMIM,Ayoub ,matière plastique et composite,technicien spécialisé,Bac+2,2,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-lakmim-7a881b227/,ayoub-lakmim-7a881b227,,M
+732,LAKTIRI,Youssef ,Ingénieur Industriel,chargé de développement,Bac+5,5,1 an,1.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-laktiri/,youssef-laktiri,,M
+733,LAMANE,Mohamed ,génie electrique,ingénieur,Bac+5,5,3 ans,3.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-lamane-439560185/,mohamed-lamane-439560185,,M
+734,LAMARA,Amina ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,9 mois,0.75,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/amina-lamara-661014219/,amina-lamara-661014219,,F
+735,LAMHAMDI,Mohamed,Automotive Technician,technicien spécialisé,Bac+4,4,5 ans,5.0,Fquih Ben Salah,,,,,,,cv Architecte automobile,,,,M
+736,LAMLOUM,Fadwa,Architecture,ingénieur,Bac+5,5,2 mois,0.1666666666666667,Italie,,,,,,,cv Architecte automobile,,,,F
+737,LAMOTTE,Amina ,management des ressources humaines,chargé de développement,Bac+5,5,5 ans,5.0,France,,,,,,,Linkedin,https://www.linkedin.com/in/amina-lamotte-b7aa661b9/,amina-lamotte-b7aa661b9,,F
+738,LAMRABET,Souhayle ,Génie Mecanique,ingénieur process,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/souhayle-lamrabet/,souhayle-lamrabet,,M
+739,LAMRIBAH,Nabil ,management approvisionnements et logistique,logistique,Bac+5,5,4 mois,0.3333333333333333,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/nabil-lamribah-244085250/,nabil-lamribah-244085250,,M
+740,LAMTIOUI,Hajar,reseaux informatique,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,linkedin.com/in/lamtioui-hajar-4a902323a/,linkedin.cominlamtioui-hajar-4a902323a,,F
+741,LARHMICH,Kawtar,Eco-énergétique et environnement industriel,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-mahboub-306490162/,hamza-mahboub-306490162,,F
+742,LAYCHE,Oumaima,Ingénieur en Génie industriel,ingénieur industriel,Bac+5,5,8 mois,0.6666666666666666,Casablanca,,,,,,,,,,,F
+743,LAZRAK,Imane ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 ans,3.0,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/imane-lazrak-559996222/,imane-lazrak-559996222,,F
+744,LEKHBIOUI,Youssef ,Ingénieur Mécatronique,ingénieur process,Bac+5,5,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/achraf-mansouri-61528a16a/,achraf-mansouri-61528a16a,,M
+745,LGHAZOULI,Marouan,management de la qualité,ingénieu qualité,Bac+7,7,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/marouan-lghazouli-32461b156/,marouan-lghazouli-32461b156,,M
+746,LHSAINI,Youssef ,ingénieur,ingénieu qualité,Bac+5,5,8 ans,8.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-lhsaini-56b72b115/,youssef-lhsaini-56b72b115,,M
+747,LIBIRI,Amal ,management et pilotage des systèmes industriels,ingénieur process,Bac+5,5,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/aymen-haddaoui-2545b1263/,aymen-haddaoui-2545b1263,,F
+748,LILA,Amine,Ingénieur En Mécatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+749,LOUARDI,Zineb,Ingénieur Électrique,ingénieur,Bac+6,6,5 mois,0.4166666666666667,Casablanca,,,,,,1.0,cv,https://www.linkedin.com/in/samir-aznag-74396b152/,samir-aznag-74396b152,,F
+750,LOUKILI,Salah Eddine,Ingénieur en génie Mécanique/Mécatronique,ingénieur mécanique,Bac+6,6,9 ans,9.0,Tetouan,,,,,,,Linkedin,https://www.linkedin.com/in/hakime-errayad/,hakime-errayad,,M
+751,MAACH,Marouane,Diagnostic,technicien spécialisé,Bac+2,2,3 mois,0.25,Tanger,,,,,,,cv Architecte automobile,,,,M
+752,MAAROURI,Zineb ,Génie Mecanique,ingénieur mécanique,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-maarouri-466603114/,zineb-maarouri-466603114,,F
+753,MABCHOUR,Doha ,Management de qualité,ingénieu qualité,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/doha-mabchour-474272138/,doha-mabchour-474272138,,F
+754,MACHKOUR,Khadija ,aéronautique,ingénieur,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/khadija-machkour/,khadija-machkour,,F
+755,MAGHRAB,Zineb ,génie electrique,ingénieur,Bac+5,5,4 ans,4.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-maghrab-1bb866115/,zineb-maghrab-1bb866115,,F
+756,MAGHRAOUI,Mohammed,Automatisation Et Instrumentation Industrielle,technicien spécialisé,Bac+3,3,2 ans,2.0,Kenitra,,,,,,,Linkedin + CV,https://www.linkedin.com/in/wissal-taibi-a5a08b195/,wissal-taibi-a5a08b195,,M
+757,MAHBOUB,Hamza ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,-,0.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/fatima-zahra-el-faridi-480452207/,fatima-zahra-el-faridi-480452207,,M
+758,MAHBOUBI,Mohamed,Technicien Dessinateur,technicien spécialisé,Bac+2,2,1 an,1.0,Laâyoune,,,,,,,Linkedin + CV,https://www.linkedin.com/in/ayoub-sabbahi-20b535123/,ayoub-sabbahi-20b535123,,M
+759,MAHFOUD,Ayman ,management des ressources humaines,chargé de développement,Bac+5,5,2 ans,2.0,France,,,,,,,Linkedin,https://www.linkedin.com/in/ayman-mahfoud-0181821b0/,ayman-mahfoud-0181821b0,,M
+760,MAHRACH,Abderrazak ,-,ingénieur mécanique,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abderrazak-mahrach-45b83839/,abderrazak-mahrach-45b83839,,M
+761,MAJDOUBI,Abdouelali,Technicien Des Systèmes D'Information,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+762,MAJDOUBI,Bilal ,conduit de chariot,logistique,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/bilal-majdoubi-049891192/,bilal-majdoubi-049891192,,M
+763,MAJDOULI,Said ,Mécanique avancée,ingénieur mécanique,Bac+5,5,10 mois,0.8333333333333334,khouribga,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-el-amrani-6b8150161/,youssef-el-amrani-6b8150161,,M
+764,MAKBOUL,Mohamed,Dessinateur Projeteur,concepteur/ dessinateur,Bac+3,3,4 ans,4.0,Casablanca,,,,,,,cv Concepteur H/F,,,,M
+765,MAKHLOUF,Mariam ,mécatronique,technicien spécialisé,Bac+2,2,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mariam-makhlouf-447965237/,mariam-makhlouf-447965237,,F
+766,MALAININE,Ballali,Conception Métier Icm,concepteur/ dessinateur,Bac+5,5,6 ans,6.0,Tanger ,12000,14000.0,1 mois,,,1.0,cv,https://www.linkedin.com/in/driss-el-yazizi-71791a146/,driss-el-yazizi-71791a146,,M
+767,MALAL,Hanane ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hanane-malal-656172174/,hanane-malal-656172174,,F
+768,MALHOUNI,Mohamed,Génie Mecanique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/malhouni-mohamed-821b5b162/,malhouni-mohamed-821b5b162,,M
+769,MAMDOUHI,Iqbal ,Génie Mecanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/iqbal-mamdouhi-b9ba4a173/,iqbal-mamdouhi-b9ba4a173,,F
+770,MANDAR,Hassan ,Génie Mecanique,ingénieur mécanique,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hassan-mandar-050389127/,hassan-mandar-050389127,,M
+771,MANSOURI,Moad,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,6 ans,6.0,Tanger ,,,,,,,,,,,M
+772,MANSOURI,Achraf ,electronique embarquee automobile,ingénieur mécanique,Bac+3,3,5 ans,5.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/allam-abdallah-19b1461a0/,allam-abdallah-19b1461a0,,M
+773,MAR-GHANE,Sanaa ,Génie des procédés industriels,ingénieur process,Bac+5,5,1 an,1.0,Meknes,,,,,,,Linkedin,https://www.linkedin.com/in/sanaa-mar-ghane-262042171/,sanaa-mar-ghane-262042171,,F
+774,MARZOQI,Ayat,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/ayat-marzoqi-1ba273175/,ayat-marzoqi-1ba273175,,F
+775,MARZOUK,Zakaria ,ingénieur en technologies pour l'énergie ,logistique,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-marzouk-258751ab/,zakaria-marzouk-258751ab,,M
+776,MAS,Abdelilah ,Génie Mecanique,technicien spécialisé,Bac+2,2,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abdelilah-mas-3293a0217/,abdelilah-mas-3293a0217,,M
+777,MASKI,Mohamed ,management approvisionnements et logistique,logistique,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-maski-177880211/,mohamed-maski-177880211,,M
+778,MASLAHI,Nisrine ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nisrine-maslahi-493a46180/,nisrine-maslahi-493a46180,,F
+779,MECHHEDAN AYAD,Abderrahim ,electromecanique,technicien spécialisé,Bac+2,2,6 mois,0.5,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahim-mechhedan-ayad-55aa03211/,abderrahim-mechhedan-ayad-55aa03211,,M
+780,MEKROUTI,Omar,Technicien Spécialiser En Diagnostic Automobile Et Systéme Embarquer,technicien spécialisé,Bac+4,4,5 ans,5.0,Casablanca,,,,,,,cv Architecte automobile,,,,M
+781,MESBAHI,Anas ,génie des systemes industriels,concepteur/ dessinateur,Bac+5,5,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/anas-mesbahi-6b11811ba/,anas-mesbahi-6b11811ba,,M
+782,MESSAOUDI,Imane,Ingénieur en Electricité et Industrie,technicien spécialisé,Bac+2,2,3 mois,0.25,Oujda,,,,,,,Linkedin + CV,https://www.linkedin.com/in/jawad-tallih-a994b1115/,jawad-tallih-a994b1115,,F
+783,MEZIANI,Mohamed ,Ingénieur Industriel,chargé de développement,Bac+5,5,10 ans,10.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-meziani-2669205b/,mohamed-meziani-2669205b,,M
+784,M'HAMDI,Sofia ,management des transports logistique,logistique,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/sofia-m-hamdi-782002199/,sofia-m-hamdi-782002199,,F
+785,MHASSANI,Aicha ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-fakihi-702847232/,yassine-fakihi-702847232,,F
+786,MIFTAH,Abdelmoumen ,ingénieurie de conception et de développement d'application,ingénieu qualité,Bac+5,5,11 ans,11.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdelmouman-miftah/,abdelmouman-miftah,,M
+787,MINAR,Mohammed,Concepteur Plan De Forme (CAO),concepteur/ dessinateur,Bac+2,2,2 ans,2.0,Casablanca,,,,,,1.0,cv,https://www.linkedin.com/in/zakaria-boumlik-511663a4/,zakaria-boumlik-511663a4,,M
+788,MOBTAHIJ,Anas ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/anas-mobtahij-b51865244/,anas-mobtahij-b51865244,,M
+789,MOKDAD,Mouad ,Génie Mecanique,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mouad-mokdad-a809441b1/,mouad-mokdad-a809441b1,,M
+790,MORHIR,Oumaima ,Génie aérautique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/oumaima-morhir-7a107223a/,oumaima-morhir-7a107223a,,F
+791,MOSTABCHIR,Mohamed nour,-,technicien spécialisé,Bac+2,2,24 ans,24.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-nour-mostabchir-8b7b4ba2/,mohamed-nour-mostabchir-8b7b4ba2,,M
+792,MOUAFIK,Meryem ,Économie / Finance / Gestion,économie / gestion,Bac+2,2,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/meryem-mouafik-038800264/,meryem-mouafik-038800264,,F
+793,MOUAQ,Mouad ,génie electronique ,ingénieur,Bac+6,6,3 ans,3.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/mouad-mouaq-91683418b/,mouad-mouaq-91683418b,,M
+794,MOUBHI,Hamza ,Génie Environnement,ingénieu qualité,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-moubhi-29167a145/,hamza-moubhi-29167a145,,M
+795,MOUEDEN,Zakariae,Diagnostic Électronique Et Embarquée,technicien spécialisé,Bac+2,2,2 mois,0.1666666666666667,Kenitra,,,,,,,cv Architecte automobile,,,,M
+796,MOUHIB,Aziz ,réseaux telecoms,chargé de développement,Bac+5,5,17 ans,17.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/aziz-mouhib-a10a2484/,aziz-mouhib-a10a2484,,M
+797,MOUIMI,Hicham ,Génie Mécanique,ingénieu qualité,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hicham-mouimi-bba551205/,hicham-mouimi-bba551205,,M
+798,MOUJOUD,Anouar ,Ingénieur Industriel,chargé de développement,Bac+5,5,9 mois,0.75,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/anouarmoujoud/,anouarmoujoud,,M
+799,MOUKOUL,Boutaina ,Génie des procédés industriels,ingénieur process,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/boutaina-moukoul-93397b219/,boutaina-moukoul-93397b219,,F
+800,MOUKTADIBILLAH,Wissal ,Ingénieur Industriel,chargé de développement,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/wissal-mouktadibillah-b22509171/,wissal-mouktadibillah-b22509171,,F
+801,MOULOUDI,Adnane ,Ingénieur Industriel,ingénieur mécanique,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/adnane-mouloudi-0533aa12a/,adnane-mouloudi-0533aa12a,,M
+802,MOUSSA,Ayoub ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-moussa-2a9a74173/,ayoub-moussa-2a9a74173,,M
+803,MOUSSAOUI,Youssef ,génie mécatronique,chargé de développement,Bac+5,5,2 ans,2.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/moussaoui-youssef-90843b135/,moussaoui-youssef-90843b135,,M
+804,MOUSSAOUI,Oussama ,management des transports logistique,logistique,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oussama-moussaoui-792785189/,oussama-moussaoui-792785189,,M
+805,MOUSSELLAK,Abdoullatif ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,-,0.0,Taroudant,,,,,,,Linkedin,https://www.linkedin.com/in/abdoullatif-moussellak-743bb6245/,abdoullatif-moussellak-743bb6245,,M
+806,MOUTAABBID,Aymane ,dévellopement informatique,chargé de développement,Bac+3,3,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/aymane-moutaabbid-0445801b9/,aymane-moutaabbid-0445801b9,,M
+807,MOUTAKI,Abdelali ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdelali-moutaki-38b7a8204/,abdelali-moutaki-38b7a8204,,M
+808,MRABET,Boutaina ,Management de qualité,ingénieu qualité,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/boutaina-mrabet-884a43144/,boutaina-mrabet-884a43144,,F
+809,MSELLEK,Aymane ,ingénieur,ingénieu qualité,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/aymane-msellek-2577ab103/,aymane-msellek-2577ab103,,M
+810,MSYEH,Layla ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,6 ans,6.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/layla-msyeh-48a183a2/,layla-msyeh-48a183a2,,F
+811,MTTOUGUI,Yasmine,science d'environnement,ingénieu qualité,Bac+7,7,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yasmine-mttougui-7a36821a0/,yasmine-mttougui-7a36821a0,,F
+812,MZABI,Samiha ,Génie Mecanique,ingénieur mécanique,Bac+5,5,6 ans,6.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/samiha-mzabi-17a737131/,samiha-mzabi-17a737131,,F
+813,NACER,Sanaa ,Ingénieur Industriel,ingénieur,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/sanaanacer/,sanaanacer,,F
+814,NADI,Safaa ,génie en automatisme,ingénieur,Bac+5,5,9 mois,0.75,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/safaa-nadi-671026209/,safaa-nadi-671026209,,F
+815,NAFID,Chaimaa ,Génie aérautique,ingénieu qualité,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/chaimaa-nafid-88bba7146/,chaimaa-nafid-88bba7146,,F
+816,NAGHACH,Youssef ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-naghach-b472bb1b8/,youssef-naghach-b472bb1b8,,M
+817,NAGRAJI,Ismail,Pilot D'Étude/Chargé D'Affaire Produit,ingénieur industriel,Bac+5,5,4 ans,4.0,Tanger ,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/saad-ouartasi-20b2a5180/,saad-ouartasi-20b2a5180,,M
+818,NAIMI,Anas ,Génie Mecanique,chargé de développement,Bac+3,3,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/anas-naimi-550679199/,anas-naimi-550679199,,M
+819,NAIT SSI LAHCEN,Abdelkarim,Pilote Industrialisation,ingénieur industriel,Bac+5,5,5 ans,5.0,Casablanca,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/mohammed-khoucha-6791961b3/,mohammed-khoucha-6791961b3,,M
+820,NAJAOUI,Hamza ,Génie Mecanique,ingénieur mécanique,Bac+5,5,8 ans,8.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-najaoui-075610116/,hamza-najaoui-075610116,,M
+821,NAJDI,Meryem ,Économie / Finance / Gestion,économie / gestion,Bac+5,5,7 ans,7.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/meryem-najdi-1ab491150/,meryem-najdi-1ab491150,,F
+822,NAKOUB,Doha,Ingénieur Industriel,ingénieur industriel,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/doha-nakoub-48285578/,doha-nakoub-48285578,,F
+823,NAOUI,Sohaib,Agent En Transport Et Logistique,logistique,Bac+3,3,3 mois,0.25,Beni Mellal,,,,,,,cv Architecte automobile,,,,M
+824,NAOUI ,Manar,Génie civil,ingénieu qualité,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/naoui-manar-6168a2a0/,naoui-manar-6168a2a0,,F
+825,NASMI,Othmen ,Ingénieur Industriel,ingénieur process,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/othmen-nasmi-0233b8201/,othmen-nasmi-0233b8201,,M
+826,NASSAR,Fatiha ,management et pilotage des systèmes industriels,ingénieur process,Bac+5,5,2 ans,2.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-bouchri/,ahmed-bouchri,,F
+827,NASSI,Nouhaila ,Économie / Finance / Gestion,logistique,Bac+3,3,2 ans,2.0,Larache,,,,,,,Linkedin,https://www.linkedin.com/in/nouhaila-nassi-560425180/,nouhaila-nassi-560425180,,F
+828,NAYEB,Imane ,génie des matériaux,ingénieu qualité,Bac+5,5,7 ans,7.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/imane-nayeb-bab286139/,imane-nayeb-bab286139,,F
+829,NAZZI,Ikbal ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,8 ans,8.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ikbal-nazzi-78aa468a/,ikbal-nazzi-78aa468a,,F
+830,NBIKA,Idris ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/idris-nbika-b98898195/,idris-nbika-b98898195,,M
+831,NEBKHOUT,Amina ,génie energétique et énergies renouvlables,ingénieur,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/amina-nebkhout/,amina-nebkhout,,F
+832,NEGOURI,Hamza,Ingénieur Industrialisation,ingénieur industriel,Bac+5,5,5 ans,5.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+833,NEKKAS,Nabil,Technicien En Mécanique,concepteur/ dessinateur,Bac+3,3,4 mois,0.3333333333333333,El jadida,,,,,,,cv Architecte automobile,,,,M
+834,NHAILA,Dounia ,management des ressources humaines,chargé de développement,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/dounianhaila/,dounianhaila,,F
+835,NHILA,Abdeljalil ,systemes automobiles,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/abdeljalil-nhila-8a7881166/,abdeljalil-nhila-8a7881166,,M
+836,NISSOUL,Maryam ,banque et finance,logistique,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/maryam-nissoul-5372261a3/,maryam-nissoul-5372261a3,,F
+837,NKAITY,Amine ,Génie Mecanique,concepteur/ dessinateur,Bac+3,3,11 ans,11.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/amine-nkaity-42b522145/,amine-nkaity-42b522145,,M
+838,NOR,Najlae ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/najlae-nor-3774ba213/,najlae-nor-3774ba213,,F
+839,NOUAS ,Anass,Ingénieur Industriel,ingénieur industriel,Bac+3,3,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nouas-anass-04a02a264/,nouas-anass-04a02a264,,M
+840,NOUH,Mounia ,management des ressources humaines,chargé de développement,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mounia-nouh-7b183914a/,mounia-nouh-7b183914a,,F
+841,NOUICHI,Marouan ,génie des matériaux qualité,ingénieu qualité,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/marouan-nouichi/,marouan-nouichi,,M
+842,NOURI,Fakhreddine ,Économie / Finance / Gestion,chargé de développement,Bac+3,3,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/fakhreddine-nouri-4a6a48190/,fakhreddine-nouri-4a6a48190,,M
+843,OTMANI,Abderrahmane ,Génie des procédés industriels,ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mehdi-el-atmani-61a507128/,mehdi-el-atmani-61a507128,,M
+844,OUAHABI AL HASSANI,Mohammed,Génie Des Procédés,ingénieur process,Bac+3,3,2 ans,2.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+845,OUAHBI,Mohamed ,Génie Mécanique,chargé de développement,Bac+5,5,4 ans,4.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-ouahbi-544683192/,mohamed-ouahbi-544683192,,M
+846,OUAHJOUJOU,Hassane ,electricite,logistique,Bac+2,2,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hassane-ouahjoujou-bb703618a/,hassane-ouahjoujou-bb703618a,,M
+847,OUAICHA,Titrite ,génie electrique,ingénieur,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/titrite-ouaicha-b6380721a/,titrite-ouaicha-b6380721a,,F
+848,OUAKIL,Oussama ,management et pilotage des systèmes industriels,ingénieu qualité,Bac+6,6,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oussama-ouakil-746289139/,oussama-ouakil-746289139,,M
+849,OUALI,Oumayma,Ingénieur Industriel,ingénieu qualité,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oumayma-ouali-4a6410b7/,oumayma-ouali-4a6410b7,,F
+850,OUALI,Soukaina ,génie des matériaux qualité,ingénieu qualité,Bac+5,5,2 ans,2.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/soukaina-ouali-a4437520a/,soukaina-ouali-a4437520a,,F
+851,OUALLAL,Nezha ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,6 ans,6.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/nezha-ouallal-b99144112/,nezha-ouallal-b99144112,,F
+852,OUARAB,Mouad ,Génie Mecanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/mouad-ouarab-16792b147/,mouad-ouarab-16792b147,,M
+853,OUARSAL,Amine,Chef D’Équipe Automatique Et Mécatronique,ingénieur,Bac+5,5,4 ans,4.0,Fes,,,,,,,cv Architecte automobile,,,,M
+854,OUARTASI,Saad,"logistique , matériels",ingénieur process,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/anouar-hamza-3a58a7125/,anouar-hamza-3a58a7125,,M
+855,OUASSINI,Naoufal ,Génie civil,ingénieur,Bac+5,5,10 ans,10.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/naoufal-ouassini/,naoufal-ouassini,,M
+856,OUATIK ,Said,Management de qualité,ingénieu qualité,Bac+5,5,16 ans,16.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/ouatik-said-0bb97151/,ouatik-said-0bb97151,,M
+857,OUBAAKIL,Mohamed ,Ingénieur Industriel,ingénieur mécanique,Bac+5,5,2 ans,2.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-oubaakil-0381b017b/,mohamed-oubaakil-0381b017b,,M
+858,OUBALLOUCH,Ahmed ,Génie Mecanique,concepteur/ dessinateur,Bac+3,3,6 ans,6.0,Agadir,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-ouballouch-91b914124/,ahmed-ouballouch-91b914124,,M
+859,OUBELKHEIR,Amine ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,4 ans,4.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/amine-oubelkheir-9616a91a8/,amine-oubelkheir-9616a91a8,,M
+860,OUBENDRAA,Abderrahman,Méthode Fabrication Mécanique,concepteur/ dessinateur,Bac+3,3,-,0.0,Casablanca,,,,,,,cv Architecte automobile,,,,M
+861,OUCHAADID,Mohcine,Concepteur Et Dessinateur Mécanique,concepteur/ dessinateur,Bac+2,2,8 mois,0.6666666666666666,Kenitra,,,,,,,cv Concepteur H/F,,,,M
+862,OUFATNA,Hassna ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,11 ans,11.0,Beni Mellal,,,,,,,Linkedin,https://www.linkedin.com/in/hassna-oufatna-86376b182/,hassna-oufatna-86376b182,,F
+863,OUHHABI,Youssef ,Génie Mecanique,ingénieur,Bac+5,5,14 ans,14.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-ouhhabi-4012b2114/,youssef-ouhhabi-4012b2114,,M
+864,OUHMAMA,Khadija ,management des transports logistique,logistique,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khadija-ouhmama-689067178/,khadija-ouhmama-689067178,,F
+865,OUIZOUR,Mohamed Amine,Ingénieur Industriel,ingénieur industriel,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-amine-ouizour-224778143/,mohamed-amine-ouizour-224778143,,M
+866,OUJADOUR,Ayoub,Opérateur,opérateur,Bac+5,5,8 mois,0.6666666666666666,Meknès,,,,,,,cv Architecte automobile,,,,M
+867,OUKESSOU,Amine,Ingénieur En Mécatronique,ingénieur mécanique,Bac+5,5,3 mois,0.25,Khémisset,,,,,,,Linkedin + CV,https://www.linkedin.com/in/ibrahim-arouaouat-3247891ab/,ibrahim-arouaouat-3247891ab,,M
+868,OULAD HAMMADI,Abderrahmane ,Ingénieur Industriel,ingénieur process,Bac+5,5,8 mois,0.6666666666666666,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/oulad-hammadi/,oulad-hammadi,,M
+869,OULEHIANE,Meriem,Génie Mecanique,ingénieur mécanique,Bac+5,5,5 mois,0.4166666666666667,Tanger,,,,,,,cv,,,,F
+870,OULKHEIR,Mohamed ,maintenance,technicien spécialisé,Bac+2,2,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-oulkheir-9b193b36/,mohamed-oulkheir-9b193b36,,M
+871,OUNA,Hikmat ,Exploitation Logistique,logistique,Bac+3,3,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/hikmat-ouna-a60787175/,hikmat-ouna-a60787175,,M
+872,OURIBI,Elmiloud,Ingénieur Industriel,ingénieur industriel,Bac+5,5,10 mois,0.8333333333333334,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/elmiloud-ouribi-473294182/,elmiloud-ouribi-473294182,,M
+873,OUTALEB,Khadija ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Témara,,,,,,,Linkedin,https://www.linkedin.com/in/khadija-outaleb-850a95222/,khadija-outaleb-850a95222,,F
+874,OUTAR,Hamza ,énergies renouvlables,chargé de développement,Bac+2,2,5 ans,5.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-outar-2b32b6192/,hamza-outar-2b32b6192,,M
+875,OUTTASSI,Yasmine ,management des systemes d'information,ingénieur process,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/yasmine-outtassi/,yasmine-outtassi,,F
+876,QEDDI ,Khalid,Ingénieur Industriel,ingénieu qualité,Bac+5,5,11 ans,11.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/qeddi-khalid-15675783/,qeddi-khalid-15675783,,M
+877,QOBEIBA,Oulaya ,Génie Mecanique,ingénieur mécanique,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oulaya-qobeiba-261198147/,oulaya-qobeiba-261198147,,F
+878,QOURDOUCH,Yassine ,Génie Mecanique,ingénieur process,Bac+5,5,2 ans,2.0,France,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-qourdouch-68952b119/,yassine-qourdouch-68952b119,,M
+879,QUEDDI,Oussama ,Ingénieur Industriel,chargé de développement,Bac+5,5,1 mois,0.08333333333333333,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oussama-queddi-32617a1a3/,oussama-queddi-32617a1a3,,M
+880,RABAH,Hanane ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,6 mois,0.5,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/hanane-rabah-472391241/,hanane-rabah-472391241,,F
+881,RABIY ,Abdelkarim,management QSE,logistique,Bac+5,5,11 ans,11.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/rabiy-abdelkarim-a027b5117/,rabiy-abdelkarim-a027b5117,,M
+882,RACHDI,Salim ,management des transports logistique,logistique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salim-rachdi-08996815b/,salim-rachdi-08996815b,,M
+883,RACHID,Choaib ,Ingénieur Industriel,ingénieur mécanique,Bac+5,5,8 ans,8.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/choaib-rachid-732a34b4/,choaib-rachid-732a34b4,,M
+884,RADI,Mohammed Hamza,Ingénieur Industriel,chargé de développement,Bac+5,5,5 ans,5.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/radihamza/,radihamza,,M
+885,RADOUANE,Malika ,Économie / Finance / Gestion,économie / gestion,Bac+4,4,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/malika-radouane-76023a220/,malika-radouane-76023a220,,F
+886,RAFSI,Samir ,Méthode de fabrication mécanique,ingénieur process,Bac+4,4,16 ans,16.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/hamza-cheldi-56299512b/,hamza-cheldi-56299512b,,M
+887,RAHIM,Maroua ,génie energétique et énergies renouvlables,ingénieur,Bac+5,5,7 mois,0.5833333333333334,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/maroua-rahim-5a9627228/,maroua-rahim-5a9627228,,F
+888,RAHMANI,Rochdi,Conception,concepteur/ dessinateur,Bac+2,2,2 mois,0.1666666666666667,Taourirt,,,,,,,Linkedin + CV,https://www.linkedin.com/in/azzeddin-ahrouch-a29538135/,azzeddin-ahrouch-a29538135,,M
+889,RAIQ,Oumayma ,génie electrique,ingénieur,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oumayma-raiq-114bb7a4/,oumayma-raiq-114bb7a4,,F
+890,RAIS,Imane ,logistique et achats,logistique,Bac+5,5,7 ans,7.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/imane-rais-79045410b/,imane-rais-79045410b,,F
+891,RAIS,Nisrine ,ingénieurie financière,chargé de développement,Bac+5,5,4 ans,4.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/nisrine-rais-692a54229/,nisrine-rais-692a54229,,F
+892,RAMOUCH,Rachid ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 ans,4.0,Guelmim,,,,,,,Linkedin,https://www.linkedin.com/in/rachid-ramouch-961222152/,rachid-ramouch-961222152,,M
+893,RAY,Achraf,Génie Mécanique FAO,ingénieur mécanique,Bac+2,2,6 mois,0.5,Tanger ,,,,,,1.0,cv,https://www.linkedin.com/in/kawtar-larhmich-1ab516158/,kawtar-larhmich-1ab516158,,M
+894,RAYSS,Mohamed ,Ingénieur Industriel,logistique,Bac+5,5,4 ans,4.0,Agadir,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-rayss-456b29153/,mohamed-rayss-456b29153,,M
+895,RBAB,Achraf,Chargé Développement,chargé de développement,Bac+2,2,8 mois,0.6666666666666666,Tanger ,,,1 mois,,,1.0,Linkedin,https://www.linkedin.com/in/tarik-banassou-133675122/,tarik-banassou-133675122,,M
+896,RGHIOUI,Ibrahim ,Ingénieur Industriel,ingénieur process,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/rghioui-ibrahim/,rghioui-ibrahim,,M
+897,RHADDOU,Oualid ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/oualid-rhaddou-1787461aa/,oualid-rhaddou-1787461aa,,M
+898,RHAILANE,Wafae ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/wafae-rhailane-7bb246217/,wafae-rhailane-7bb246217,,F
+899,RIADI,Saad ,qutomatisme informatique industrielle,ingénieur,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/saad-riadi-67922549/,saad-riadi-67922549,,M
+900,RIFFI,Souad ,Management de qualité,ingénieu qualité,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/souad-riffi-6b719898/,souad-riffi-6b719898,,F
+901,RIMANI,Chaimae ,Ingénieur de production,ingénieur process,Bac+5,5,5 ans,5.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-sirri-2a2316152/,ayoub-sirri-2a2316152,,F
+902,RISSANI ,Hajar,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 mois,0.3333333333333333,fes,,,,,,,Linkedin,https://www.linkedin.com/in/rissani-hajar-84986522a/,rissani-hajar-84986522a,,F
+903,RKILA,Abdessamie,Dessinateur Industriel,concepteur/ dessinateur,Bac+3,3,3 ans,3.0,-,,,,,,,cv Concepteur H/F,,,,M
+904,ROTBI,Asmae ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,10 mois,0.8333333333333334,Berkane,,,,,,,Linkedin,https://www.linkedin.com/in/asmae-rotbi/,asmae-rotbi,,F
+905,ROUMADI,Manar,Conceptrice Mécanique,concepteur/ dessinateur,Bac+5,5,5 ans,5.0,Tanger ,,,,,,1.0,cv,https://www.linkedin.com/in/yassine-fakihi-702847232/,yassine-fakihi-702847232,,F
+906,ROUOUISS,Hamza,Électronique Embarqué,technicien spécialisé,Bac+2,2,1 mois,0.08333333333333333,Kenitra,,,,,,,Linkedin + CV,https://www.linkedin.com/in/hajar-benhachem-22760b189/,hajar-benhachem-22760b189,,M
+907,RUBIO,Mohamed Reda,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-reda-rubio-73633611b/,mohamed-reda-rubio-73633611b,,M
+908,SABAH,Hanae,Bureau D'Étude en constuction métallique,concepteur/ dessinateur,Bac+2,2,9 mois,0.75,Mohammedia,,,,,,,Linkedin + CV,https://www.linkedin.com/in/chaimae-aouimar-83b4811b2/,chaimae-aouimar-83b4811b2,,F
+909,SABBAHI,Ayoub ,Ingénieurie des matériaux organiques,ingénieur process,Bac+5,5,7 ans,7.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/chalhe-zakaria-2197b0107/,chalhe-zakaria-2197b0107,,M
+910,SABHI,Oumaima ,Ingénieur Industriel,ingénieur process,Bac+5,5,6 ans,6.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/nadia-ghoumari-743282197/,nadia-ghoumari-743282197,,F
+911,SADINI ,Kamal,logistique et achats,logistique,Bac+5,5,9 ans,9.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/sadini-kamal-39267486/,sadini-kamal-39267486,,M
+912,SAFFAH,Ayoub,Ingénieur Industriel,chargé de développement,Bac+5,5,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-saffah-413bbb146/,ayoub-saffah-413bbb146,,M
+913,SAGUYA,Yahya ,Économie / Finance / Gestion,économie / gestion,Bac+5,5,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yahya-saguya/,yahya-saguya,,M
+914,SAHA,Doha ,Ingénieur Industriel,ingénieur process,Bac+6,6,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/dohasaha/,dohasaha,,F
+915,SAHAR,Mohamed Aymane,Génie Mécanique,concepteur/ dessinateur,Bac+3,3,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+916,SAHI,Meryame ,Économie / Finance / Gestion,économie / gestion,Bac+5,5,6 ans,6.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/dr-meryame-sahi-586b03b8/,dr-meryame-sahi-586b03b8,,F
+917,SAHIR,Hassan,Concepteur Electromecanique,concepteur/ dessinateur,Bac+2,2,8 ans,8.0,Casablanca,,,1 mois,,,1.0,cv,https://www.linkedin.com/in/youssef-lekhbioui-40354b113/,youssef-lekhbioui-40354b113,,M
+918,SAHLOUF ,Saad,Génie des procédés industriels,ingénieur process,Bac+5,5,7 ans,7.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-dahou-1a9231151/,soufiane-dahou-1a9231151,,M
+919,SAHMI,Zineb ,Ingénieur Mécatronique,ingénieur process,Bac+5,5,6 ans,6.0,Fes ,,,,,,,Linkedin,https://www.linkedin.com/in/el-btimi-mohamed-4a31b0215/,el-btimi-mohamed-4a31b0215,,F
+920,SAID,Salah Eddine,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salah-eddine-said-a080151ab/,salah-eddine-said-a080151ab,,M
+921,SAIDI,Anass,Dévéloppeur Fullstack,technicien spécialisé,Bac+2,2,1 mois,0.08333333333333333,Tanger ,,,,,,,Linkedin + CV,https://www.linkedin.com/in/khadija-braimi-4472a7109/,khadija-braimi-4472a7109,,M
+922,SAIDI,Youssra ,Économie / Finance / Gestion,économie / gestion,Bac+11,11,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/dr-youssra-saidi-0a18b1146/,dr-youssra-saidi-0a18b1146,,F
+923,SAIDI BOUJOUMA,Mouad ,electromecanique,concepteur/ dessinateur,Bac+2,2,11 ans,11.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mouad-saidi-boujouma-529594190/,mouad-saidi-boujouma-529594190,,M
+924,SAISSI,Leila ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/leila-saissi-6029a0234/,leila-saissi-6029a0234,,F
+925,SAKIF,Meryam ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,7 ans,7.0,Khouribga,,,,,,,Linkedin,https://www.linkedin.com/in/meryam-sakif-a189a4144/,meryam-sakif-a189a4144,,F
+926,SALAFI,Leila,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,1 an,1.0,Safi,,,,,,,Linkedin + CV,https://www.linkedin.com/in/said-azzman-a66305155/,said-azzman-a66305155,,F
+927,SALIH,Fouad,Génie des procédés industriels,ingénieur process,Bac+5,5,9 ans,9.0,Safi,,,,,,,Linkedin,https://www.linkedin.com/in/fouad-salih-4bb96573/,fouad-salih-4bb96573,,M
+928,SALIMI,Youness ,electronique electrotechnique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/youness-salimi-132811191/,youness-salimi-132811191,,M
+929,SALLAY,Imad ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/imad-sallay-39bb7913b/,imad-sallay-39bb7913b,,M
+930,SALOUH,Faissal ,Management de qualité,ingénieu qualité,Bac+5,5,5 ans,5.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/faissalsalouh/,faissalsalouh,,M
+931,SAMADI,Ibrahim ,mécatronique,technicien spécialisé,Bac+2,2,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ibrahim-samadi-08744a175/,ibrahim-samadi-08744a175,,M
+932,SAMIH,Youssef ,Ingénieur Industriel,chargé de développement,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-samih-3500001a0/,youssef-samih-3500001a0,,M
+933,SAMSSEME ,Mohammed Saad,Ingénieur Industriel,logistique,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/samsseme-mohammed-saad-67a6441ab/,samsseme-mohammed-saad-67a6441ab,,M
+934,SAOUABI ,Marouane,management des transports logistique,logistique,Bac+5,5,14 ans,14.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/saouabi-marouane-1ab44b5a/,saouabi-marouane-1ab44b5a,,M
+935,SASSI,Yasmine ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,6 mois,0.5,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/yasmine-sassi-95a98118a/,yasmine-sassi-95a98118a,,F
+936,SEDDIKI,Kenza ,logistique et achats,logistique,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/kenza-seddiki-6866b01a0/,kenza-seddiki-6866b01a0,,F
+937,SENHAJI,Rim ,management des transports logistique,logistique,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/rim-senhaji-ba3350a7/,rim-senhaji-ba3350a7,,F
+938,SERE,yacouba ,génie electrique,ingénieur,Bac+5,5,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/yacouba-sere-987633164/,yacouba-sere-987633164,,M
+939,SHEHADAH,Adam ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/adam-shehadah-12075517b/,adam-shehadah-12075517b,,M
+940,SIDKI,Mohamed,Ingénieur en Electricité et Industrie,concepteur/ dessinateur,Bac+2,2,4 mois,0.3333333333333333,Casablanca,,,,,,,Linkedin + CV,https://www.linkedin.com/in/abderrahmane-otmani-73a385162/,abderrahmane-otmani-73a385162,,M
+941,SIRRI,Ayoub,Electricité de Maintenaince Industrielle,technicien spécialisé,Bac+2,2,5 ans,5.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/islam-hajjani-5a1162124/,islam-hajjani-5a1162124,,M
+942,SKIOUS,Widad ,aeronautique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/widad-skious-99146b111/,widad-skious-99146b111,,F
+943,SLIMANE,Nasser ,Génie Mécanique,opérateur,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nasser-slimane-9234ba239/,nasser-slimane-9234ba239,,M
+944,SLIMI,Salma ,Mécatronique / big data,chargé de développement,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/houda-bouazzaoui-522339177/,houda-bouazzaoui-522339177,,F
+945,SMOUD,Soufiane ,Réseaux Informatique,technicien spécialisé,Bac+2,2,6 ans,6.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/soufiane-smoud-b04851197/,soufiane-smoud-b04851197,,M
+946,SOALI,Oussama,Technicien Spécialiser En Diagnostic Éléctronique Automobile,technicien spécialisé,Bac+2,2,3 mois,0.25,Casablanca,,,,,,,cv Architecte automobile,,,,M
+947,SOBHI,Youssef,Construction Métallique,technicien spécialisé,Bac+4,4,3 ans,3.0,Casablanca,,,,,,,Linkedin + CV,https://www.linkedin.com/in/samir-rafsi-174551120/,samir-rafsi-174551120,,M
+948,SOHAIB,Hajri,Ingénieur Système,ingénieur,Bac+6,6,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-sahmi/,zineb-sahmi,,M
+949,SOU,Zouhair,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/zouhair-sou-909683156/,zouhair-sou-909683156,,M
+950,SOUIDIKA,Ahmed,Charge De Clientèle,économie / gestion,Bac+3,3,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+951,SOUIHEL,Khaoula ,management des transports logistique,logistique,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/khaoula-souihel-4496a2151/,khaoula-souihel-4496a2151,,F
+952,STILI,Radouane ,droit ,opérateur,Bac+3,3,2 mois,0.1666666666666667,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/radouane-stili-9672b324b/,radouane-stili-9672b324b,,M
+953,TAALABI,Abderrahmane ,maintenance ,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahmane-taalabi/,abderrahmane-taalabi,,M
+954,TABICH,Amina ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,5 ans,5.0,Tafilalet,,,,,,,Linkedin,https://www.linkedin.com/in/chakir-dridou-54a325131/,chakir-dridou-54a325131,,F
+955,TAF ,Yassin,Ingénieur Industriel,ingénieu qualité,Bac+5,5,8 ans,8.0,Ouazzane,,,,,,,Linkedin,https://www.linkedin.com/in/taf-yassin-4ba65912b/,taf-yassin-4ba65912b,,M
+956,TAFNI,Essaddik,reseaux informatique,technicien spécialisé,Bac+3,3,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/essaddik-tafni-b78460155/,essaddik-tafni-b78460155,,M
+957,TAGHBALOUT,Khadija ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,4 mois,0.3333333333333333,Fkih-Ben Saleh,,,,,,,Linkedin,https://www.linkedin.com/in/khadija-taghbalout-65026a248/,khadija-taghbalout-65026a248,,F
+958,TAHESSE,Hafsae,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 mois,0.1666666666666667,-,,,,,,,cv Concepteur H/F,,,,F
+959,TAHIRI,Yassine,Aide Comptable,économie / gestion,Bac+3,3,3 ans,3.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+960,TAHIRI,Siham ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,9 mois,0.75,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/siham-tahiri-3a60021b0/,siham-tahiri-3a60021b0,,F
+961,TAHIRI,Salima ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,3 mois,0.25,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/salima-tahiri-208529188/,salima-tahiri-208529188,,F
+962,TAIA,Brahim,Concepteur Mécanique,ingénieur industriel,Bac+5,5,9 ans,9.0,Tanger ,9000,12000.0,2 mois,,,1.0,cv,https://www.linkedin.com/in/amal-libiri-068870211/,amal-libiri-068870211,,M
+963,TAIBI,Wissal ,Génie Mécanique,ingénieur mécanique,Bac+5,5,6 ans,6.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-belaissaoui-5487a6169/,youssef-belaissaoui-5487a6169,,F
+964,TAIBI,Anass,Génie Mécanique,concepteur/ dessinateur,Bac+2,2,6 mois,0.5,Tanger,,,,,,,cv Concepteur H/F,,,,M
+965,TAIBI ALAOUI,Yousra ,Ingénieur Industriel,logistique,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/yousra-taibi-alaoui-729340149/,yousra-taibi-alaoui-729340149,,F
+966,TAJANE,Nardine ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nardine-tajane-750822155/,nardine-tajane-750822155,,F
+967,TAKKAL,Wiam ,génie electrique,ingénieur,Bac+5,5,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/wiam-takkal-07b9311a2/,wiam-takkal-07b9311a2,,F
+968,TALBI,Zakaria,Cadre Commercial,économie / gestion,Bac+5,5,4 ans,4.0,Tanger,,,,,,,cv Concepteur H/F,,,,M
+969,TALBI,Nassira ,Gestion Des Entreprises,opérateur,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/nassira-talbi-616866283/,nassira-talbi-616866283,,F
+970,TALBI,Chaymae ,Économie / Finance / Gestion,économie / gestion,Bac+2,2,1 an,1.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chaymae-talbi-6630b4204/,chaymae-talbi-6630b4204,,F
+971,TALEB,Hind,Technicien Spécialisé Responsable D’Exploitation Logistique,logistique,Bac+2,2,1 mois,0.08333333333333333,Meknès,,,,,,,Linkedin + CV,https://www.linkedin.com/in/fatiha-nassar-012124228/,fatiha-nassar-012124228,,F
+972,TALLAL,Mourad,Bureau D'Étude En Automobile,concepteur/ dessinateur,Bac+2,2,5 mois,0.4166666666666667,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/chaimae-tricha-966641184/,chaimae-tricha-966641184,,M
+973,TALLIH,Jawad ,Ingénieur Industriel,ingénieur process,Bac+5,5,12 ans,12.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-chlili-45477682/,mohammed-chlili-45477682,,M
+974,TANJIR,Laila ,management des transports logistique,logistique,Bac+5,5,8 mois,0.6666666666666666,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/laila-tanjir-100456177/,laila-tanjir-100456177,,F
+975,TANNOUCH,Imad ,Génie Mécanique,chargé de développement,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/imad-tannouch-1029761bb/,imad-tannouch-1029761bb,,M
+976,TAOURI,Ahmed ,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 ans,4.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-taouri-735864191/,ahmed-taouri-735864191,,M
+977,TAOUS,Chaimae ,Ingénieur Industriel,ingénieu qualité,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/chaimae-taous-0932a0129/,chaimae-taous-0932a0129,,F
+978,TEMSAMANI ,Yousra,Gestion Des Entreprises,technicien spécialisé,Bac+2,2,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/temsamani-yousra-b144b2170/,temsamani-yousra-b144b2170,,F
+979,TERHZAZ,Yassine ,management des ressources humaines,chargé de développement,Bac+5,5,1 an,1.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-terhzaz-7b5b48147/,yassine-terhzaz-7b5b48147,,M
+980,TIDIANE GAYE,Cheikh Ahmed,Génie Mecanique,ingénieur mécanique,Bac+5,5,4 mois,0.3333333333333333,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/cheikh-ahmed-tidiane-gaye-286470246/,cheikh-ahmed-tidiane-gaye-286470246,,M
+981,TIJANI,Fouad,Réparateur De Véhicules Automobiles,technicien,Niveau bac+2,0,13 ans,13.0,youssoufia,,,,,,,Linkedin + CV,https://www.linkedin.com/in/oumaima-sabhi-45b735133/,oumaima-sabhi-45b735133,,M
+982,TLALEK,Samir ,génie logistique,logistique,Bac+5,5,15 ans,15.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/samir-tlalek-a4533a143/,samir-tlalek-a4533a143,,M
+983,TLEMCANI,Dounia ,Génie Mecanique,ingénieur mécanique,Bac+5,5,9 ans,9.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/dounia-tlemcani-21223842/,dounia-tlemcani-21223842,,F
+984,TORRES,Omar,Ingénieur En Mécatronique,ingénieur mécanique,Bac+6,6,3 mois,0.25,Tanger,,,,,,,cv Architecte automobile,,,,M
+985,TOUATI,Hamza,Maintenance Et Réseaux Informatique,technicien spécialisé,Bac+2,2,1 an,1.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+986,TOUATI,Haytam,Ingénieur Industriel,ingénieur industriel,Bac+5,5,2 ans,2.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/haytam-touati/,haytam-touati,,M
+987,TOUATI,Marwane ,Génie Mecanique,concepteur/ dessinateur,Bac+3,3,15 ans,15.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/marwane-touati-278031149/,marwane-touati-278031149,,M
+988,TOUDA LACHIRI,Abderrahmane ,Économie / Finance / Gestion,logistique,Bac+5,5,9 mois,0.75,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahmanetoudalachiri/,abderrahmanetoudalachiri,,M
+989,TOUIL,Soufiane,Ingénieur en Génie industriel,concepteur/ dessinateur,Bac+3,3,5 ans,5.0,Tanger ,,,,,,,,,,,M
+990,TOUIL,Ayoub,Technicien Specialise En Diagnostic Et Électronique Embarquée,technicien spécialisé,Bac+2,2,7 mois,0.5833333333333334,Oued Wem,,,,,,,cv Architecte automobile,,,,M
+991,TOULALI,Adnane,Ingénieur Chef Chantier,ingénieur,Bac+5,5,2 ans,2.0,Khouribga,,,,,,,cv Architecte automobile,,,,M
+992,TRICHA,Chaimae ,Ingénieur Industriel,ingénieur process,Bac+5,5,4 ans,4.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/yassmine-ben-jaafar/,yassmine-ben-jaafar,,F
+993,TRIRAHE,Bakere ,developpement informatique,technicien spécialisé,Bac+2,2,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/bakere-trirahe-6b47a3216/,bakere-trirahe-6b47a3216,,M
+994,WAJID,Chaimaa ,Génie des systèmes en management de la qualité,ingénieu qualité,Bac+5,5,1 an,1.0,El jadida,,,,,,,Linkedin,https://www.linkedin.com/in/chaimaa-wajid-690236213/,chaimaa-wajid-690236213,,F
+995,YAAGOUB,Abdelhadi,Chargé De Développement Mécanique,chargé de développement,Bac+5,5,6 ans,6.0,Tanger ,,,2 mois,,,1.0,cv,https://www.linkedin.com/in/hafsa-el-ghoual-838b2318b/,hafsa-el-ghoual-838b2318b,,M
+996,YAAGOUBI,Salma ,génie electrique,ingénieur,Bac+5,5,5 mois,0.4166666666666667,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/salma-yaagoubi-85999a120/,salma-yaagoubi-85999a120,,F
+997,YACOUBI,Rim ,management des ressources humaines,chargé de développement,Bac+5,5,6 ans,6.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/rim-yacoubi-200022160/,rim-yacoubi-200022160,,F
+998,YAHYA,Houcine,génie industriel et technologies numérique,ingénieur industriel,Bac+5,5,4 mois,0.3333333333333333,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/abderrahmane-zaabouli-a8a12b143/,abderrahmane-zaabouli-a8a12b143,,M
+999,YASSAM,Badr ,Génie Mécanique,chargé de développement,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/badr-yassam-91940218b/,badr-yassam-91940218b,,M
+1000,YASSINE,Sanae ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/sanae-yassine-998a5925b/,sanae-yassine-998a5925b,,F
+1001,YASSIR,Nada ,Économie / Finance / Gestion,économie / gestion,Bac+7,7,2 ans,2.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/nada-yassir-b25854197/,nada-yassir-b25854197,,F
+1002,YERROU,Latifa ,Ingénieur Mécatronique,ingénieur mécanique,Bac+5,5,1 an,1.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/sahlouf-saad-175b8010a/,sahlouf-saad-175b8010a,,F
+1003,ZAABOULI,Abderrahmane ,Ingénieur Industriel,ingénieur process,Bac+5,5,7 ans,7.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/zakaria-hajji-35961613b/,zakaria-hajji-35961613b,,M
+1004,ZAARI,Jallal ,Ingénieur Industriel,logistique,Bac+5,5,3 mois,0.25,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/jallal-zaari-95aa42212/,jallal-zaari-95aa42212,,M
+1005,ZAAZOUA,Yassine ,génie éléctronique et éléctrique,chargé de développement,Bac+5,5,2 ans,2.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-zaazoua-a567a51a1/,yassine-zaazoua-a567a51a1,,M
+1006,ZAFANE,Ayman ,Génie Mécanique,ingénieur,Bac+5,5,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zafane-ayman/,zafane-ayman,,M
+1007,ZAHID,Youssef ,-,ingénieur industriel,Bac+5,5,7 ans,7.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-zahid/,youssef-zahid,,M
+1008,ZAIDANE,Ayoub ,Génie Mecanique,concepteur/ dessinateur,Bac+2,2,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/ayoub-zaidane-abb81b19a/,ayoub-zaidane-abb81b19a,,M
+1009,ZAIRI,Youssef ,génie logiciel ,chargé de développement,Bac+5,5,7 ans,7.0,Rabat,,,,,,,Linkedin,https://www.linkedin.com/in/youssef-zairi-5758a7147/,youssef-zairi-5758a7147,,M
+1010,ZAKI,Abdessamed,Ingénieur Mécanique,ingénieur mécanique,Bac+5,5,8 ans,8.0,Tanger ,,,,,,1.0,cv,https://www.linkedin.com/in/chaimae-rimani-767b8210a/,chaimae-rimani-767b8210a,,M
+1011,ZAOUJAL ,Oussama,plastique,technicien spécialisé,Bac+2,2,2 ans,2.0,Tanger,,,,,,,Linkedin,linkedin.com/in/zaoujal-oussama-33a995195/,linkedin.cominzaoujal-oussama-33a995195,,M
+1012,ZARDAG,Rachid ,génie electrique,ingénieur,Bac+5,5,6 ans,6.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/rachid-zardag-68a6aa248/,rachid-zardag-68a6aa248,,M
+1013,ZAROUALI,Yassine ,Ingénieur Industriel,logistique,Bac+5,5,-,0.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/yassine-zarouali-7894811ba/,yassine-zarouali-7894811ba,,M
+1014,ZAYNOUNE,Naoufal,Génie Mécanique,ingénieu qualité,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/naoufal-zaynoune-a18b41175/,naoufal-zaynoune-a18b41175,,M
+1015,ZEGHRAOUI ,Aymane,Génie Mécanique,chargé de développement,Bac+3,3,3 ans,3.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zeghraoui-aymane-capm-%C2%AE-16355b194/,zeghraoui-aymane-capm-%C2%AE-16355b194,,M
+1016,ZEIDANE,Naoufel ,management des ressources humaines,chargé de développement,Bac+5,5,5 ans,5.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/naoufel-zeidane-31377a160/,naoufel-zeidane-31377a160,,M
+1017,ZEKHNINI,Mohammed ,Ingénieur Industriel,logistique,Bac+5,5,2 ans,2.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-zekhnini/,mohammed-zekhnini,,M
+1018,ZEKKORI,Anouar ,maintenance ,technicien spécialisé,Bac+2,2,3 ans,3.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/anouar-zekkori-2910291a0/,anouar-zekkori-2910291a0,,M
+1019,ZELMATI,Mohammed ,Génie Mecanique,ingénieur mécanique,Bac+5,5,3 ans,3.0,Kenitra,,,,,,,Linkedin,https://www.linkedin.com/in/mohammed-zelmati-5a889a113/,mohammed-zelmati-5a889a113,,M
+1020,ZENAGUI,Zineb ,management des ressources humaines,chargé de développement,Bac+5,5,1 an,1.0,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/zineb-zenagui-17951b205/,zineb-zenagui-17951b205,,F
+1021,ZERKI,Mohamed,Responsable Export Et Import,logistique,Bac+3,3,5 ans,5.0,Tanger,,,,,,,cv Architecte automobile,,,,M
+1022,ZEROUAL,Hassan ,Génie Mecanique,ingénieur mécanique,Bac+5,5,2 ans,2.0,Fes,,,,,,,Linkedin,https://www.linkedin.com/in/hassan-zeroual-9ba324169/,hassan-zeroual-9ba324169,,M
+1023,ZERRAD,Abdelbari,Génie Mécanique,concepteur/ dessinateur,Bac+3,3,4 ans,4.0,Tanger ,,,,,,,Linkedin,https://www.linkedin.com/in/mohamed-idil-a5a266120/,mohamed-idil-a5a266120,,M
+1024,ZERRAD,Said ,Automatisation Et Instrumentation Industrielle,technicien spécialisé,Bac+2,2,7 ans,7.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/said-zerrad-404961186/,said-zerrad-404961186,,M
+1025,ZERROUK,Hamza,Automotive Engineer,ingénieur,Bac+4,4,2 ans,2.0,Casablanca,,,,,,1.0,cv,https://www.linkedin.com/in/med-bel/,med-bel,,M
+1026,ZIANI,Ahmed ,science communication and computing,ingénieu qualité,Bac+12,12,23 ans,23.0,-,,,,,,,Linkedin,https://www.linkedin.com/in/ahmed-ziani-89578953/,ahmed-ziani-89578953,,M
+1027,ZIBAR,Lina ,génie energétique,ingénieur,Bac+5,5,3 mois,0.25,Casablanca,,,,,,,Linkedin,https://www.linkedin.com/in/lina-zibar/,lina-zibar,,F
+1028,ZINE,Salma ,marketing et logistique,logistique,Bac+5,5,5 ans,5.0,Tanger,,,,,,,Linkedin,https://www.linkedin.com/in/salma-zine-73869a277/,salma-zine-73869a277,,F
+1029,ZIRAR,Mohammed,Mécatronique,ingénieur mécanique,Bac+3,3,4 mois,0.3333333333333333,Taourirt,,,,,,,Linkedin,https://www.linkedin.com/in/inas-elhimer/details/experience/,inas-elhimerdetailsexperience,,M
+1030,ZIYAMI,El Bachir,Économie / Finance / Gestion,économie / gestion,Bac+3,3,1 an,1.0,Marrakech,,,,,,,Linkedin,https://www.linkedin.com/in/el-bachir-ziyami-a804a6192/,el-bachir-ziyami-a804a6192,,M
+1031,ZIZAH,Kenza,Technicienne D'Études,technicien spécialisé,Bac+4,4,2 ans,2.0,Marrakech,,,,,,,cv Concepteur H/F,,,,F
+1032,ZOUHRI,Hidaya,Ingénieur Industriel,ingénieur industriel,Bac+5,5,4 mois,0.3333333333333333,Casablanca,,,,,,,Linkedin + CV,https://www.linkedin.com/in/hicham-ahmamsi/,hicham-ahmamsi,,F
+1033,ZOUHRI,Amine ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,2 ans,2.0,Mohammedia,,,,,,,Linkedin,https://www.linkedin.com/in/amine-zouhri-ba676a247/,amine-zouhri-ba676a247,,M
+1034,ZRAKTOUNI,Nouhaila ,Économie / Finance / Gestion,économie / gestion,Bac+3,3,8 mois,0.6666666666666666,Fkih-Ben Saleh,,,,,,,Linkedin,https://www.linkedin.com/in/nouhaila-zraktouni-754863264/,nouhaila-zraktouni-754863264,,F
+1035,ZRHITI,Youssef,Diagnostic Et Electronique Embarquée,technicien spécialisé,Bac+2,2,4 mois,0.3333333333333333,Souk El Arbaa,,,,,,,cv Architecte automobile,,,,M
+1036,ZRODIYA,Elmehdi ,signal microelectronique et system,ingénieur,Bac+5,5,4 ans,4.0,fes,,,,,,,Linkedin,https://www.linkedin.com/in/elmehdi-zrodiya-2a578a181/,elmehdi-zrodiya-2a578a181,,M

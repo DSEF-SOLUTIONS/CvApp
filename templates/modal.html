@@ -1,0 +1,97 @@
+{% extends "layout.html" %}
+{% block title %}Ajouter{% endblock %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" href="../static/css/style.css">
+{% endblock %}
+{% block content %}
+<h1>
+    Ajouter une personne
+</h1>
+<hr>
+{% with messages = get_flashed_messages() %}
+{% if messages %}
+    <div class="alert alert-{{ category }}">{{ message }}</div>
+{% endif %}
+{% endwith %}
+
+<div class="container ">
+    <div class="row">
+      <div class="col ">
+        <h2 class="titreh2">Entrer Les informations:</h2>
+        <br>
+        <form method="POST" id="AddCVForm" name="AddCVForm" class="mt-4">
+            {{ add_cv_form.csrf_token }}
+            {{ add_cv_form.hidden_tag() }}
+            <fieldset disabled>
+                <div  class="form-group">
+                    <label class="form-control-label" for="ID">ID :</label>
+                    {{ add_cv_form.ID(class="form-control form-control-login-register", placeholder=" ", required="required",value=last_id+1) }}
+                </div>
+            </fieldset>
+            <div  class="form-group">
+                <label class="form-control-label" for="Nom">Nom :</label>
+                {{ add_cv_form.Nom(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Prenom">Prénom :</label>
+                {{ add_cv_form.Prenom(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Gender">Genre :</label>
+                {{ add_cv_form.Gender(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Fonction">Fonction :</label>
+                {{ add_cv_form.Fonction(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Domaine">Domaine :</label>
+                {{ add_cv_form.Domaine(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Niveau">Niveau :</label>
+                {{ add_cv_form.Niveau(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="ColonneExperience">Expérience :</label>
+                {{ add_cv_form.ColonneExperience(class="form-control form-control-login-register", placeholder=" ", required="required") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Localisation">Ville :</label>
+                {{ add_cv_form.Localisation(class="form-control form-control-login-register", placeholder=" ") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Source">Source :</label>
+                {{ add_cv_form.Source(class="form-control form-control-login-register", placeholder=" ",value="Site Web BENGY.H") }}
+            </div>
+            <div  class="form-group">
+                <label class="form-control-label" for="Url">Lien Linkedin :</label>
+                {{ add_cv_form.Url(class="form-control form-control-login-register", placeholder=" ") }}
+            </div>
+        
+            {{ add_cv_form.addcvsubmit (class="btn btn-block custom-btn")}}
+        </form>
+      </div>
+      
+        <div class="vertical-rule"></div>
+    
+      <div class="col">
+        <h2 class="titreh2">Les informations Entrées :</h2>
+        <br><br>
+        <p>ID: {{ ID }}</p>
+        <p>Nom: {{ Nom }}</p>
+        <p>Prénom: {{ Prenom }}</p>
+        <p>Gender: {{ Gender }}</p>
+        <p>Fonction: {{ Fonction }}</p>
+        <p>Domaine: {{ Domaine }}</p>
+        <p>Niveau: {{ Niveau }}</p>
+        <p>Localisation: {{ Localisation }}</p>
+        <p>Source: {{ Source }}</p>
+        <p>Lien Linkedin: {{ Url }}</p>
+      </div>
+    </div>
+</div>
+
+{% endblock %}

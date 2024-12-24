@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block title %}Inscription{% endblock %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" href="../static/css/style.css">
+{% endblock %}
+{% block content %}
+<h1>
+    Bienvenue à la page d'inscription
+</h1>
+<hr>
+{% with messages = get_flashed_messages(with_categories=True) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class="alert alert-{{ category }}">
+                {{ message }}
+                {% if category == 'danger' %}
+                    Allez à la <a class="error" href="{{ url_for('login') }}">Page de connexion</a>.
+                {% endif %}
+            </div>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+<div class="container d-flex justify-content-center">
+<form method="POST">
+    <div data-mdb-input-init class="form-outline mb-4">
+        <label class="form-label" for="email">Email :</label>
+        <input class="form-control form-control-login-register" placeholder="Entrer votre email " type="email" id="email" name="email" required>
+    </div>
+
+    <div data-mdb-input-init class="form-outline mb-4">
+        <label class="form-label" for="username">Nom d'utilisateur :</label>
+        <input class="form-control form-control-login-register" placeholder="Entrer votre nom d'utilisateur " type="text" id="username" name="username" required>
+    </div>
+
+    <div data-mdb-input-init class="form-outline mb-4">
+        <label class="form-label" for="password">Mot de passe :</label>
+        <input class="form-control form-control-login-register" placeholder="Entrer votre MDP " type="password" id="password" name="password" required>
+    </div>
+    <input type="submit" value="S'inscrire" class="btn  custom-btn custom-btn-login-register">
+</form>
+</div>
+{% endblock %}

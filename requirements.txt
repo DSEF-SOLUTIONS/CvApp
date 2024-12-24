@@ -1,0 +1,25 @@
+Font-Awesome-Flask
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+openpyxl
+keras
+tensorflow
+xgboost
+dill
+Flask
+flask_mysqldb
+flask_wtf
+flask_sqlalchemy
+flask-sqlalchemy
+flask-login
+bcrypt
+Flask-Bcrypt
+flask-paginate
+email_validator
+pyodbc
+gunicorn
+Flask-Mail
+# -e .

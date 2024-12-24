@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block title %}Connexion{% endblock %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" href="../static/css/style.css">
+{% endblock %}
+{% block content %}
+<h1>
+  Bienvenue à la page de connexion
+</h1>
+<hr>
+<div class="container d-flex justify-content-center">
+<form method="POST" action="/login">
+  {{ form.csrf_token }}
+  <form action="{{ url_for('login') }}" method="post">
+    <div data-mdb-input-init class="form-outline mb-4">
+      <label class="form-label" for="username">Nom d'utilisateur:</label>
+      <input class="form-control form-control-login-register" placeholder="Entrer votre nom d'utilisateur " type="username" id="username" name="username" required>
+    </div>
+    <div data-mdb-input-init class="form-outline mb-4">
+      <label class="form-label" for="password">Mot de Passe:</label>
+      <input class="form-control form-control-login-register" placeholder="Entrer votre MDP " type="password" id="password" name="password" required>
+    </div>
+    <button class="btn  custom-btn  custom-btn-login-register" type="submit">Se connecter</button>
+</form>
+</div>
+<br>
+{% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+            {% for category, message in messages %}
+              <div class="alert alert-{{ category }}">{{ message }}</div>
+            {% endfor %}
+    {% endif %}
+{% endwith %}
+{% endblock %}

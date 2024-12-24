@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block title %}Modifier profile{% endblock %}
+
+{% block head %}
+{{ super() }}
+<link rel="stylesheet" href="../static/css/style.css">
+{% endblock %}
+{% block content %}
+<h1>
+    Bienvenue à la page de modification
+</h1>
+<hr>
+{% with messages = get_flashed_messages(with_categories=True) %}
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class="alert alert-{{ category }}">
+                {{ message }}
+                {% if category == 'danger' %}
+                    Allez à la <a class="error" href="{{ url_for('login') }}">Page de connexion</a>.
+                {% endif %}
+            </div>
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+<div class="container d-flex justify-content-center">
+<form method="POST">
+  
+  <fieldset disabled>
+    <div data-mdb-input-init class="form-outline mb-4">
+      <label class="form-label" for="username">Nom d'utilisateur :</label>
+      <input class="form-control form-control-login-register" placeholder="Entrer votre nom d'utilisateur " type="text" id="username" name="username" required value="{{user.username}}">
+  </div>
+</fieldset>
+    <div data-mdb-input-init class="form-outline mb-4">
+        <label class="form-label" for="email">Nouveau Email :</label>
+        <input class="form-control form-control-login-register" placeholder="Entrer votre email " type="email" id="email" name="email" >
+    </div>
+
+
+    <div data-mdb-input-init class="form-outline mb-4">
+        <label class="form-label" for="password">Ancien Mot de passe :</label>
+        <input class="form-control form-control-login-register" placeholder="Entrer votre MDP " type="password" id="oldpassword" name="oldpassword" >
+    </div>
+    <div data-mdb-input-init class="form-outline mb-4">
+      <label class="form-label" for="password">Nouveau Mot de passe :</label>
+      <input class="form-control form-control-login-register" placeholder="Entrer votre MDP " type="password" id="newpassword" name="newpassword" >
+  </div>
+    <input type="submit" value="Modifier" class="btn  custom-btn custom-btn-login-register">
+</form>
+</div>
+{% endblock %}

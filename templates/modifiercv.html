@@ -1,0 +1,173 @@
+{% extends "layout.html" %}
+{% block title %}Modifier{% endblock %}
+
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="../static/css/style.css">
+
+{% endblock %}
+
+{% block content %}
+
+  <h1>Page de Modification</h1><hr>
+  <a href="{{ url_for('database') }}" class="btn custom-btn"><i class="fas fa-window-close"></i></a>
+  
+  <div class="container  back">
+    <div class="row">
+      <div class="col ">
+        <br>
+        <h2>Modifier ID : {{ id }}</h2>
+        <p><strong>Nom:</strong> {{ cv.Nom }}</p>
+        <p><strong>Prénom:</strong> {{ cv.Prenom }}</p>
+        <p><strong>Genre :</strong> {{ cv.Gender }}</p>
+        <p><strong>Fonction:</strong> {{ cv.Fonction }}</p>
+        <p><strong>Domaine:</strong> {{ cv.Domaine }}</p>
+        <p><strong>Niveau:</strong> {{ cv.Niveau }}</p>
+        <p><strong>ColonneNiveau:</strong> {{ cv.ColonneNiveau }}</p>
+        <p><strong>Annee_experience_en_conception:</strong> {{ cv.Annee_experience_en_conception }}</p>
+        <p><strong>Prediction:</strong> {{ cv.Prediction }}</p>
+        <p><strong>ColonneExperience:</strong> {{ cv.ColonneExperience }}</p>
+        <p><strong>Localisation:</strong> {{ cv.Localisation }}</p>
+        <p><strong>Source:</strong> {{ cv.Source }}</p>
+        <p><strong>Url:</strong> {{ cv.Url }}</p>
+</div>
+      
+<div class="vertical-rule"></div>
+
+<div class="col">
+  <form method="POST" id="AddCVForm" name="AddCVForm" class="mt-4">
+    {{ mod_cv_form.csrf_token }}
+    {{ mod_cv_form.hidden_tag() }}
+    <fieldset disabled>
+      <div  class="form-group">
+          <label class="form-control-label" for="ID">ID :</label>
+          {{ mod_cv_form.ID(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.ID) }}
+      </div>
+    </fieldset>
+    <div  class="form-group">
+        <label class="form-control-label" for="Nom">Nom :</label>
+        {{ mod_cv_form.Nom(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Nom) }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Prenom">Prénom :</label>
+        {{ mod_cv_form.Prenom(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Prenom) }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Gender">Genre :</label>
+        {{ mod_cv_form.Gender(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Gender) }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Fonction">Fonction :</label>
+        {{ mod_cv_form.Fonction(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Fonction) }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Domaine">Domaine :</label>
+        <select name="Domaine" id="Domaine" class="form-control form-control-login-register">
+          <option value="ingenieur qualite" {% if cv.Domaine == "ingénieu qualité" %} selected {% endif %}>Ingénieur Qualité</option>
+          <option value="economie / gestion" {% if cv.Domaine == "économie / gestion" %} selected {% endif %}>Economie et Gestion</option>
+          <option value="technicien specialise" {% if cv.Domaine == "technicien spécialisé" %} selected {% endif %}>Technicien Spécialisé</option>
+          <option value="ingenieur" {% if cv.Domaine == "ingénieur" %} selected {% endif %}>Ingénieur</option>
+          <option value="ingenieur industriel" {% if cv.Domaine == "ingénieur industriel" %} selected {% endif %}>Ingénieur Industriel</option>
+          <option value="charge de developpement" {% if cv.Domaine == "chargé de développement" %} selected {% endif %}>Chargé de Développement</option>
+          <option value="concepteur/ dessinateur" {% if cv.Domaine == "concepteur/ dessinateur" %} selected {% endif %}>Concepteur ou Dessinateur</option>
+          <option value="logistique" {% if cv.Domaine == "logistique" %} selected {% endif %}>Logistique</option>
+          <option value="ingenieur mecanique" {% if cv.Domaine == "ingénieur mécanique" %} selected {% endif %}>Ingénieur Mécanique</option>
+          <option value="ingenieur process" {% if cv.Domaine == "ingénieur process" %} selected {% endif %}>Ingénieur Process</option>
+      </select>
+      
+      </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Niveau">Niveau :</label>
+        <select name="Niveau" id="Niveau" class="form-control form-control-login-register">
+          <option value="BAC" {% if cv.Niveau == "BAC" %} selected {% endif %}>BAC</option>
+          <option value="BAC + 1" {% if cv.Niveau == "BAC + 1" %} selected {% endif %}>BAC + 1</option>
+          <option value="BAC + 2" {% if cv.Niveau == "BAC + 2" %} selected {% endif %}>BAC + 2</option>
+          <option value="BAC + 3" {% if cv.Niveau == "BAC + 3" %} selected {% endif %}>BAC + 3</option>
+          <option value="BAC + 4" {% if cv.Niveau == "BAC + 4" %} selected {% endif %}>BAC + 4</option>
+          <option value="BAC + 5" {% if cv.Niveau == "BAC + 5" %} selected {% endif %}>BAC + 5</option>
+          <option value="BAC + 6" {% if cv.Niveau == "BAC + 6" %} selected {% endif %}>BAC + 6</option>
+          <option value="BAC + 7" {% if cv.Niveau == "BAC + 7" %} selected {% endif %}>BAC + 7</option>
+          <option value="BAC + 8" {% if cv.Niveau == "BAC + 8" %} selected {% endif %}>BAC + 8</option>
+          <option value="BAC + 9" {% if cv.Niveau == "BAC + 9" %} selected {% endif %}>BAC + 9</option>
+          <option value="BAC + 10" {% if cv.Niveau == "BAC + 10" %} selected {% endif %}>BAC + 10</option>
+          <option value="BAC + 11" {% if cv.Niveau == "BAC + 11" %} selected {% endif %}>BAC + 11</option>
+          <option value="BAC + 12" {% if cv.Niveau == "BAC + 12" %} selected {% endif %}>BAC + 12</option>
+          <option value="BAC + 13" {% if cv.Niveau == "BAC + 13" %} selected {% endif %}>BAC + 13</option>
+          <option value="BAC + 14" {% if cv.Niveau == "BAC + 14" %} selected {% endif %}>BAC + 14</option>
+          <option value="BAC + 15" {% if cv.Niveau == "BAC + 15" %} selected {% endif %}>BAC + 15</option>
+          <option value="BAC + 16" {% if cv.Niveau == "BAC + 16" %} selected {% endif %}>BAC + 16</option>
+          <option value="BAC + 17" {% if cv.Niveau == "BAC + 17" %} selected {% endif %}>BAC + 17</option>
+          <option value="BAC + 18" {% if cv.Niveau == "BAC + 18" %} selected {% endif %}>BAC + 18</option>
+          <option value="BAC + 19" {% if cv.Niveau == "BAC + 19" %} selected {% endif %}>BAC + 19</option>
+          <option value="BAC + 20" {% if cv.Niveau == "BAC + 20" %} selected {% endif %}>BAC + 20</option>
+        </select>
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="ColonneExperience">Expérience :</label>
+        <select name="ColonneExperience" id="ColonneExperience" class="form-control form-control-login-register">
+          <option value="Moins d'un an" {% if cv.Annee_experience_en_conception == "Moins d'un an" %} selected {% endif %}>Moins d'un an</option>
+          <option value="1 an" {% if cv.Annee_experience_en_conception == "1 an" %} selected {% endif %}>1 an</option>
+          <option value="2 ans" {% if cv.Annee_experience_en_conception == "2 ans" %} selected {% endif %}>2 ans</option>
+          <option value="3 ans" {% if cv.Annee_experience_en_conception == "3 ans" %} selected {% endif %}>3 ans</option>
+          <option value="4 ans" {% if cv.Annee_experience_en_conception == "4 ans" %} selected {% endif %}>4 ans</option>
+          <option value="5 ans" {% if cv.Annee_experience_en_conception == "5 ans" %} selected {% endif %}>5 ans</option>
+          <option value="6 ans" {% if cv.Annee_experience_en_conception == "6 ans" %} selected {% endif %}>6 ans</option>
+          <option value="7 ans" {% if cv.Annee_experience_en_conception == "7 ans" %} selected {% endif %}>7 ans</option>
+          <option value="8 ans" {% if cv.Annee_experience_en_conception == "8 ans" %} selected {% endif %}>8 ans</option>
+          <option value="9 ans" {% if cv.Annee_experience_en_conception == "9 ans" %} selected {% endif %}>9 ans</option>
+          <option value="10 ans" {% if cv.Annee_experience_en_conception == "10 ans" %} selected {% endif %}>10 ans</option>
+          <option value="11 ans" {% if cv.Annee_experience_en_conception == "11 ans" %} selected {% endif %}>11 ans</option>
+          <option value="12 ans" {% if cv.Annee_experience_en_conception == "12 ans" %} selected {% endif %}>12 ans</option>
+          <option value="13 ans" {% if cv.Annee_experience_en_conception == "13 ans" %} selected {% endif %}>13 ans</option>
+          <option value="14 ans" {% if cv.Annee_experience_en_conception == "14 ans" %} selected {% endif %}>14 ans</option>
+          <option value="15 ans" {% if cv.Annee_experience_en_conception == "15 ans" %} selected {% endif %}>15 ans</option>
+          <option value="16 ans" {% if cv.Annee_experience_en_conception == "16 ans" %} selected {% endif %}>16 ans</option>
+          <option value="17 ans" {% if cv.Annee_experience_en_conception == "17 ans" %} selected {% endif %}>17 ans</option>
+          <option value="18 ans" {% if cv.Annee_experience_en_conception == "18 ans" %} selected {% endif %}>18 ans</option>
+          <option value="19 ans" {% if cv.Annee_experience_en_conception == "19 ans" %} selected {% endif %}>19 ans</option>
+          <option value="20 ans" {% if cv.Annee_experience_en_conception == "20 ans" %} selected {% endif %}>20 ans</option>
+          <option value="21 ans" {% if cv.Annee_experience_en_conception == "21 ans" %} selected {% endif %}>21 ans</option>
+          <option value="22 ans" {% if cv.Annee_experience_en_conception == "22 ans" %} selected {% endif %}>22 ans</option>
+          <option value="23 ans" {% if cv.Annee_experience_en_conception == "23 ans" %} selected {% endif %}>23 ans</option>
+          <option value="24 ans" {% if cv.Annee_experience_en_conception == "24 ans" %} selected {% endif %}>24 ans</option>
+          <option value="25 ans" {% if cv.Annee_experience_en_conception == "25 ans" %} selected {% endif %}>25 ans</option>
+          <option value="26 ans" {% if cv.Annee_experience_en_conception == "26 ans" %} selected {% endif %}>26 ans</option>
+          <option value="27 ans" {% if cv.Annee_experience_en_conception == "27 ans" %} selected {% endif %}>27 ans</option>
+          <option value="28 ans" {% if cv.Annee_experience_en_conception == "28 ans" %} selected {% endif %}>28 ans</option>
+          <option value="29 ans" {% if cv.Annee_experience_en_conception == "29 ans" %} selected {% endif %}>29 ans</option>
+          <option value="30 ans" {% if cv.Annee_experience_en_conception == "30 ans" %} selected {% endif %}>30 ans</option>
+      </select>
+      
+      </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Localisation">Localisation :</label>
+        {{ mod_cv_form.Localisation(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Localisation) }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Source">Source :</label>
+        {{ mod_cv_form.Source(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Source) }}
+    </div>
+    <div  class="form-group">
+        <label class="form-control-label" for="Url">Url :</label>
+        {{ mod_cv_form.Url(class="form-control form-control-login-register", placeholder=" ", required="required", value=cv.Url) }}
+    </div>
+
+    {{ mod_cv_form.modifycvsubmit (class="btn btn-block custom-btn")}}
+</form>
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+
+
+  {% endblock %}
+    
+    

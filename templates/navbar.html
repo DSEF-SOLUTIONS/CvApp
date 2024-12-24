@@ -1,0 +1,35 @@
+<nav class=" navbar-expand-lg navbar gradient-custom" >
+  <a class="navbar-brand navbar-logo" href="#"> <img  src="../static/images/logo.png" alt="logo" class="logo-1"> </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a class="nav-link" href="/home">Accueil</a></li>
+      {% if current_user.is_authenticated %}
+      <li class="nav-item"><a class="nav-link" href="/database">Base de données</a></li>
+      <li class="nav-item"><a class="nav-link" href="/contactusdb">Message des visiteurs</a></li>
+    {% endif %}
+      {% if not current_user.is_authenticated %}
+      <li class="nav-item active"><a class="nav-link" href="/candidature">Candidature</a></li>
+      {% endif %}
+    </ul>
+      
+      
+    
+    {% if not current_user.is_authenticated %}
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a class="nav-link" href="/login"><span class="glyphicon glyphicon-log-in"></span> Se connecter</a></li>
+    </ul>
+    {% endif %}
+    {% if current_user.is_authenticated %}
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><a class="nav-link" href="{{ url_for('profile', id=current_user.ID) }}"><span class="glyphicon glyphicon-user"></span>Profile</a></li>
+      <li class="nav-item"><a class="nav-link" href="/register"><span class="glyphicon glyphicon-user"></span>S'inscrire</a></li>
+    <li class="nav-item"><a class="nav-link" href="{{ url_for('logout') }}"><span class="glyphicon glyphicon-log-in"></span> Se déconnecter</a></li>
+    
+    {% endif %}
+    </ul>
+  </div>
+</nav>
